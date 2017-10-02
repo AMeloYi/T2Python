@@ -42,3 +42,14 @@ if __name__=='__main__':
     plt.pie(list5)
     plt.title('Pie')
     plt.show()
+
+    import numpy as np
+    from mpl_toolkits.mplot3d import Axes3D
+    figure = plt.figure()
+    ax = Axes3D(figure)
+    X = np.arange(-10, 10, 0.25)
+    Y = np.arange(-10, 10, 0.25)
+    X, Y = np.meshgrid(X, Y)
+    Z = 1 - X - Y
+    ax.plot_surface(X, Y, Z, rstride=1, cstride=1, cmap='rainbow')
+    plt.show()
