@@ -1,33 +1,33 @@
-Appartenance géographique des communes au 1er janvier 2016;;;
+ï»¿Appartenance gÃ©ographique des communes au 1er janvier 2016;;;
 Zones supra - communales;;;
-Mise en ligne le 02/08/2016       Découpage géographique au 01/01/2016;;;
-©Insee       Sources : Insee, Code officiel géographique ;;;
-Niveau géographique;Code géographique;Libellé géographique;Nombre communes
+Mise en ligne le 02/08/2016       DÃ©coupage gÃ©ographique au 01/01/2016;;;
+Â©Insee       Sources : Insee, Code officiel gÃ©ographique ;;;
+Niveau gÃ©ographique;Code gÃ©ographique;LibellÃ© gÃ©ographique;Nombre communes
 NIVGEO;CODGEO;LIBGEO;NB_COM
 ARR;011;Belley;104
 ARR;012;Bourg-en-Bresse;218
 ARR;013;Gex;29
 ARR;014;Nantua;59
-ARR;021;Château-Thierry;118
+ARR;021;ChÃ¢teau-Thierry;118
 ARR;022;Laon;278
 ARR;023;Saint-Quentin;126
 ARR;024;Soissons;153
 ARR;025;Vervins;130
-ARR;031;Montluçon;104
+ARR;031;MontluÃ§on;104
 ARR;032;Moulins;111
 ARR;033;Vichy;103
 ARR;041;Barcelonnette;15
 ARR;042;Castellane;32
 ARR;043;Digne-les-Bains;65
 ARR;044;Forcalquier;87
-ARR;051;Briançon;38
+ARR;051;BrianÃ§on;38
 ARR;052;Gap;130
 ARR;061;Grasse;62
 ARR;062;Nice;101
-ARR;071;Largentière;148
+ARR;071;LargentiÃ¨re;148
 ARR;072;Privas;65
-ARR;073;Tournon-sur-Rhône;126
-ARR;081;Charleville-Mézières;160
+ARR;073;Tournon-sur-RhÃ´ne;126
+ARR;081;Charleville-MÃ©ziÃ¨res;160
 ARR;082;Rethel;101
 ARR;083;Sedan;76
 ARR;084;Vouziers;120
@@ -54,14 +54,14 @@ ARR;144;Vire;43
 ARR;151;Aurillac;94
 ARR;152;Mauriac;55
 ARR;153;Saint-Flour;106
-ARR;161;Angoulême;148
+ARR;161;AngoulÃªme;148
 ARR;162;Cognac;108
 ARR;163;Confolens;138
 ARR;171;Jonzac;112
 ARR;172;Rochefort;79
 ARR;173;La Rochelle;57
 ARR;174;Saintes;107
-ARR;175;Saint-Jean-d'Angély;114
+ARR;175;Saint-Jean-d'AngÃ©ly;114
 ARR;181;Bourges;131
 ARR;182;Saint-Amand-Montrond;116
 ARR;183;Vierzon;43
@@ -76,35 +76,35 @@ ARR;222;Guingamp;90
 ARR;223;Lannion;60
 ARR;224;Saint-Brieuc;117
 ARR;231;Aubusson;118
-ARR;232;Guéret;141
+ARR;232;GuÃ©ret;141
 ARR;241;Bergerac;155
 ARR;242;Nontron;80
-ARR;243;Périgueux;190
-ARR;244;Sarlat-la-Canéda;120
-ARR;251;Besançon;265
-ARR;252;Montbéliard;170
+ARR;243;PÃ©rigueux;190
+ARR;244;Sarlat-la-CanÃ©da;120
+ARR;251;BesanÃ§on;265
+ARR;252;MontbÃ©liard;170
 ARR;253;Pontarlier;150
 ARR;261;Die;103
 ARR;262;Nyons;142
 ARR;263;Valence;122
 ARR;271;Les Andelys;158
 ARR;272;Bernay;239
-ARR;273;Évreux;220
+ARR;273;Ã‰vreux;220
 ARR;281;Chartres;151
-ARR;282;Châteaudun;80
+ARR;282;ChÃ¢teaudun;80
 ARR;283;Dreux;108
 ARR;284;Nogent-le-Rotrou;52
 ARR;291;Brest;80
-ARR;292;Châteaulin;61
+ARR;292;ChÃ¢teaulin;61
 ARR;293;Morlaix;59
 ARR;294;Quimper;81
 ARR;2A1;Ajaccio;80
-ARR;2A4;Sartène;44
+ARR;2A4;SartÃ¨ne;44
 ARR;2B2;Bastia;27
 ARR;2B3;Corte;158
 ARR;2B5;Calvi;51
-ARR;301;Alès;101
-ARR;302;Nîmes;177
+ARR;301;AlÃ¨s;101
+ARR;302;NÃ®mes;177
 ARR;303;Le Vigan;75
 ARR;311;Muret;126
 ARR;312;Saint-Gaudens;237
@@ -115,19 +115,19 @@ ARR;323;Mirande;150
 ARR;331;Blaye;63
 ARR;332;Bordeaux;82
 ARR;333;Langon;198
-ARR;334;Lesparre-Médoc;51
+ARR;334;Lesparre-MÃ©doc;51
 ARR;335;Libourne;129
 ARR;336;Arcachon;17
-ARR;341;Béziers;152
-ARR;342;Lodève;98
+ARR;341;BÃ©ziers;152
+ARR;342;LodÃ¨ve;98
 ARR;343;Montpellier;93
-ARR;351;Fougères-Vitré;116
+ARR;351;FougÃ¨res-VitrÃ©;116
 ARR;352;Redon;52
 ARR;353;Rennes;120
 ARR;354;Saint-Malo;63
 ARR;361;Le Blanc;56
-ARR;362;Châteauroux;80
-ARR;363;La Châtre;58
+ARR;362;ChÃ¢teauroux;80
+ARR;363;La ChÃ¢tre;58
 ARR;364;Issoudun;49
 ARR;371;Chinon;87
 ARR;372;Tours;123
@@ -141,20 +141,20 @@ ARR;393;Saint-Claude;66
 ARR;401;Dax;153
 ARR;402;Mont-de-Marsan;178
 ARR;411;Blois;113
-ARR;412;Vendôme;107
+ARR;412;VendÃ´me;107
 ARR;413;Romorantin-Lanthenay;63
 ARR;421;Montbrison;137
 ARR;422;Roanne;115
-ARR;423;Saint-Étienne;74
+ARR;423;Saint-Ã‰tienne;74
 ARR;431;Brioude;111
 ARR;432;Le Puy-en-Velay;103
 ARR;433;Yssingeaux;44
-ARR;441;Châteaubriant;53
+ARR;441;ChÃ¢teaubriant;53
 ARR;442;Nantes;80
 ARR;443;Saint-Nazaire;55
 ARR;444;Ancenis;24
 ARR;451;Montargis;125
-ARR;452;Orléans;122
+ARR;452;OrlÃ©ans;122
 ARR;453;Pithiviers;80
 ARR;461;Cahors;129
 ARR;462;Figeac;116
@@ -162,30 +162,30 @@ ARR;463;Gourdon;81
 ARR;471;Agen;71
 ARR;472;Marmande;98
 ARR;473;Villeneuve-sur-Lot;92
-ARR;474;Nérac;58
+ARR;474;NÃ©rac;58
 ARR;481;Florac;44
 ARR;482;Mende;132
 ARR;491;Angers;88
 ARR;492;Cholet;23
 ARR;493;Saumur;85
-ARR;494;Segré;54
+ARR;494;SegrÃ©;54
 ARR;501;Avranches;134
 ARR;502;Cherbourg;168
 ARR;503;Coutances;112
-ARR;504;Saint-Lô;102
-ARR;511;Châlons-en-Champagne;100
-ARR;512;Épernay;181
+ARR;504;Saint-LÃ´;102
+ARR;511;ChÃ¢lons-en-Champagne;100
+ARR;512;Ã‰pernay;181
 ARR;513;Reims;156
-ARR;514;Vitry-le-François;113
+ARR;514;Vitry-le-FranÃ§ois;113
 ARR;515;Sainte-Menehould;67
 ARR;521;Chaumont;161
 ARR;522;Langres;157
 ARR;523;Saint-Dizier;111
-ARR;531;Château-Gontier;71
+ARR;531;ChÃ¢teau-Gontier;71
 ARR;532;Laval;86
 ARR;533;Mayenne;101
 ARR;541;Briey;130
-ARR;542;Lunéville;164
+ARR;542;LunÃ©ville;164
 ARR;543;Nancy;188
 ARR;544;Toul;112
 ARR;551;Bar-le-Duc;110
@@ -195,11 +195,11 @@ ARR;561;Lorient;60
 ARR;562;Pontivy;75
 ARR;563;Vannes;121
 ARR;573;Forbach-Boulay-Moselle;169
-ARR;575;Sarrebourg-Château-Salins;230
+ARR;575;Sarrebourg-ChÃ¢teau-Salins;230
 ARR;576;Sarreguemines;83
 ARR;577;Thionville;105
 ARR;579;Metz;142
-ARR;581;Château-Chinon (Ville);72
+ARR;581;ChÃ¢teau-Chinon (Ville);72
 ARR;582;Clamecy;91
 ARR;583;Nevers;83
 ARR;584;Cosne-Cours-sur-Loire;64
@@ -211,13 +211,13 @@ ARR;595;Lille;124
 ARR;596;Valenciennes;82
 ARR;601;Beauvais;255
 ARR;602;Clermont;146
-ARR;603;Compiègne;156
+ARR;603;CompiÃ¨gne;156
 ARR;604;Senlis;133
-ARR;611;Alençon;115
+ARR;611;AlenÃ§on;115
 ARR;612;Argentan;185
 ARR;613;Mortagne-au-Perche;113
 ARR;621;Arras;369
-ARR;622;Béthune;100
+ARR;622;BÃ©thune;100
 ARR;623;Boulogne-sur-Mer;75
 ARR;624;Montreuil;164
 ARR;625;Saint-Omer;114
@@ -231,35 +231,35 @@ ARR;635;Thiers;43
 ARR;641;Bayonne;123
 ARR;642;Oloron-Sainte-Marie;155
 ARR;643;Pau;269
-ARR;651;Argelès-Gazost;88
-ARR;652;Bagnères-de-Bigorre;159
+ARR;651;ArgelÃ¨s-Gazost;88
+ARR;652;BagnÃ¨res-de-Bigorre;159
 ARR;653;Tarbes;225
-ARR;661;Céret;40
+ARR;661;CÃ©ret;40
 ARR;662;Perpignan;86
 ARR;663;Prades;100
 ARR;672;Haguenau-Wissembourg;142
 ARR;673;Molsheim;77
 ARR;674;Saverne;165
-ARR;675;Sélestat-Erstein;101
+ARR;675;SÃ©lestat-Erstein;101
 ARR;678;Strasbourg;33
 ARR;681;Altkirch;108
-ARR;682;Colmar-Ribeauvillé;91
+ARR;682;Colmar-RibeauvillÃ©;91
 ARR;684;Mulhouse;79
 ARR;686;Thann-Guebwiller;88
 ARR;691;Lyon;59
-ARR;692;Villefranche-sur-Saône;226
+ARR;692;Villefranche-sur-SaÃ´ne;226
 ARR;701;Lure;194
 ARR;702;Vesoul;349
 ARR;711;Autun;83
-ARR;712;Chalon-sur-Saône;149
+ARR;712;Chalon-sur-SaÃ´ne;149
 ARR;713;Charolles;135
 ARR;714;Louhans;79
-ARR;715;Mâcon;124
-ARR;721;La Flèche;125
+ARR;715;MÃ¢con;124
+ARR;721;La FlÃ¨che;125
 ARR;722;Mamers;196
 ARR;723;Le Mans;47
 ARR;731;Albertville;75
-ARR;732;Chambéry;155
+ARR;732;ChambÃ©ry;155
 ARR;733;Saint-Jean-de-Maurienne;62
 ARR;741;Annecy;89
 ARR;742;Bonneville;61
@@ -284,7 +284,7 @@ ARR;793;Parthenay;77
 ARR;801;Abbeville;200
 ARR;802;Amiens;281
 ARR;803;Montdidier;132
-ARR;804;Péronne;169
+ARR;804;PÃ©ronne;169
 ARR;811;Albi;169
 ARR;812;Castres;151
 ARR;821;Castelsarrasin;103
@@ -298,21 +298,21 @@ ARR;843;Carpentras;58
 ARR;851;Fontenay-le-Comte;102
 ARR;852;La Roche-sur-Yon;84
 ARR;853;Les Sables-d'Olonne;83
-ARR;861;Châtellerault;95
+ARR;861;ChÃ¢tellerault;95
 ARR;862;Montmorillon;98
 ARR;863;Poitiers;87
 ARR;871;Bellac;62
 ARR;872;Limoges;108
 ARR;873;Rochechouart;30
-ARR;881;Épinal;216
-ARR;882;Neufchâteau;206
-ARR;883;Saint-Dié-des-Vosges;88
+ARR;881;Ã‰pinal;216
+ARR;882;NeufchÃ¢teau;206
+ARR;883;Saint-DiÃ©-des-Vosges;88
 ARR;891;Auxerre;179
 ARR;892;Avallon;149
 ARR;893;Sens;106
 ARR;901;Belfort;102
-ARR;911;Étampes;79
-ARR;912;Évry;52
+ARR;911;Ã‰tampes;79
+ARR;912;Ã‰vry;52
 ARR;913;Palaiseau;65
 ARR;921;Antony;12
 ARR;922;Nanterre;15
@@ -320,33 +320,33 @@ ARR;923;Boulogne-Billancourt;9
 ARR;931;Bobigny;15
 ARR;932;Le Raincy;16
 ARR;933;Saint-Denis;9
-ARR;941;Créteil;23
+ARR;941;CrÃ©teil;23
 ARR;942;Nogent-sur-Marne;14
-ARR;943;L'Haÿ-les-Roses;10
+ARR;943;L'HaÃ¿-les-Roses;10
 ARR;951;Argenteuil;7
 ARR;952;Sarcelles;61
 ARR;953;Pontoise;117
 ARR;9711;Basse-Terre;18
-ARR;9712;Pointe-à-Pitre;14
+ARR;9712;Pointe-Ã -Pitre;14
 ARR;9721;Fort-de-France;4
-ARR;9722;La Trinité;10
+ARR;9722;La TrinitÃ©;10
 ARR;9723;Le Marin;12
 ARR;9724;Saint-Pierre;8
 ARR;9731;Cayenne;14
 ARR;9732;Saint-Laurent-du-Maroni;8
 ARR;9741;Saint-Denis;3
 ARR;9742;Saint-Pierre;10
-ARR;9743;Saint-Benoît;6
+ARR;9743;Saint-BenoÃ®t;6
 ARR;9744;Saint-Paul;5
 ARR;ZZZZ;Sans objet;17
-CV;0101;Ambérieu-en-Bugey;18
+CV;0101;AmbÃ©rieu-en-Bugey;18
 CV;0102;Attignat;19
 CV;0103;Bellegarde-sur-Valserine;15
 CV;0104;Belley;34
 CV;0105;Bourg-en-Bresse-1 (Partiel);1
 CV;0106;Bourg-en-Bresse-2 (Partiel);3
-CV;0107;Ceyzériat;22
-CV;0108;Châtillon-sur-Chalaronne;26
+CV;0107;CeyzÃ©riat;22
+CV;0108;ChÃ¢tillon-sur-Chalaronne;26
 CV;0109;Gex;7
 CV;0110;Hauteville-Lompnes;37
 CV;0111;Lagnieu;25
@@ -356,19 +356,19 @@ CV;0114;Nantua;17
 CV;0115;Oyonnax;2
 CV;0116;Pont-d'Ain;24
 CV;0117;Replonges;32
-CV;0118;Saint-Étienne-du-Bois;27
+CV;0118;Saint-Ã‰tienne-du-Bois;27
 CV;0119;Saint-Genis-Pouilly;4
 CV;0120;Thoiry;16
-CV;0121;Trévoux;12
+CV;0121;TrÃ©voux;12
 CV;0122;Villars-les-Dombes;25
 CV;0123;Vonnas;19
-CV;0189;Groslée-Saint-Benoit;1
+CV;0189;GroslÃ©e-Saint-Benoit;1
 CV;0199;Bourg-en-Bresse;1
 CV;0201;Bohain-en-Vermandois;31
-CV;0202;Château-Thierry;21
+CV;0202;ChÃ¢teau-Thierry;21
 CV;0203;Chauny;21
-CV;0204;Essômes-sur-Marne;47
-CV;0205;Fère-en-Tardenois;78
+CV;0204;EssÃ´mes-sur-Marne;47
+CV;0205;FÃ¨re-en-Tardenois;78
 CV;0206;Guignicourt;78
 CV;0207;Guise;45
 CV;0208;Hirson;26
@@ -384,7 +384,7 @@ CV;0217;Soissons-2 (Partiel);13
 CV;0218;Tergnier;24
 CV;0219;Vervins;66
 CV;0220;Vic-sur-Aisne;50
-CV;0221;Villers-Cotterêts;76
+CV;0221;Villers-CotterÃªts;76
 CV;0297;Laon;1
 CV;0298;Saint-Quentin;1
 CV;0299;Soissons;1
@@ -396,23 +396,23 @@ CV;0305;Dompierre-sur-Besbre;32
 CV;0306;Gannat;41
 CV;0307;Huriel;29
 CV;0308;Lapalisse;31
-CV;0309;Montluçon-1 (Partiel);3
-CV;0310;Montluçon-2 (Partiel);1
-CV;0311;Montluçon-3 (Partiel);14
-CV;0312;Montluçon-4 (Partiel);6
+CV;0309;MontluÃ§on-1 (Partiel);3
+CV;0310;MontluÃ§on-2 (Partiel);1
+CV;0311;MontluÃ§on-3 (Partiel);14
+CV;0312;MontluÃ§on-4 (Partiel);6
 CV;0313;Moulins-1 (Partiel);6
 CV;0314;Moulins-2 (Partiel);22
-CV;0315;Saint-Pourçain-sur-Sioule;22
+CV;0315;Saint-PourÃ§ain-sur-Sioule;22
 CV;0316;Souvigny;29
 CV;0317;Vichy-1 (Partiel);3
 CV;0318;Vichy-2 (Partiel);2
 CV;0319;Yzeure;6
-CV;0397;Montluçon;1
+CV;0397;MontluÃ§on;1
 CV;0398;Moulins;1
 CV;0399;Vichy;1
 CV;0401;Barcelonnette;15
 CV;0402;Castellane;32
-CV;0403;Château-Arnoux-Saint-Auban;8
+CV;0403;ChÃ¢teau-Arnoux-Saint-Auban;8
 CV;0404;Digne-les-Bains-1 (Partiel);6
 CV;0405;Digne-les-Bains-2 (Partiel);6
 CV;0406;Forcalquier;15
@@ -427,18 +427,18 @@ CV;0414;Sisteron;15
 CV;0415;Valensole;10
 CV;0498;Digne-les-Bains;1
 CV;0499;Manosque;1
-CV;0501;L'Argentière-la-Bessée;9
-CV;0502;Briançon-1 (Partiel);9
-CV;0503;Briançon-2 (Partiel);3
+CV;0501;L'ArgentiÃ¨re-la-BessÃ©e;9
+CV;0502;BrianÃ§on-1 (Partiel);9
+CV;0503;BrianÃ§on-2 (Partiel);3
 CV;0504;Chorges;17
 CV;0505;Embrun;8
 CV;0510;Guillestre;16
-CV;0511;Laragne-Montéglin;11
+CV;0511;Laragne-MontÃ©glin;11
 CV;0512;Saint-Bonnet-en-Champsaur;27
 CV;0513;Serres;39
 CV;0514;Tallard;19
 CV;0515;Veynes;8
-CV;0598;Briançon;1
+CV;0598;BrianÃ§on;1
 CV;0599;Gap;1
 CV;0601;Antibes-1 (Partiel);1
 CV;0603;Antibes-3 (Partiel);1
@@ -466,7 +466,7 @@ CV;0701;Annonay-1 (Partiel);6
 CV;0702;Annonay-2 (Partiel);9
 CV;0703;Aubenas-1 (Partiel);15
 CV;0704;Aubenas-2 (Partiel);14
-CV;0705;Bourg-Saint-Andéol;9
+CV;0705;Bourg-Saint-AndÃ©ol;9
 CV;0706;Le Cheylard;46
 CV;0707;Guilherand-Granges;5
 CV;0708;Lamastre;31
@@ -475,20 +475,20 @@ CV;0710;Privas;15
 CV;0711;Sarras;19
 CV;0712;Le Teil;19
 CV;0713;Thueyts;41
-CV;0714;Tournon-sur-Rhône;13
+CV;0714;Tournon-sur-RhÃ´ne;13
 CV;0715;Vallon-Pont-d'Arc;30
 CV;0716;Les Vans;35
-CV;0717;La Voulte-sur-Rhône;17
+CV;0717;La Voulte-sur-RhÃ´ne;17
 CV;0798;Annonay;1
 CV;0799;Aubenas;1
 CV;0801;Attigny;80
 CV;0802;Bogny-sur-Meuse;12
 CV;0803;Carignan;38
-CV;0804;Charleville-Mézières-1 (Partiel);7
-CV;0805;Charleville-Mézières-2 (Partiel);5
-CV;0806;Charleville-Mézières-3 (Partiel);1
-CV;0807;Charleville-Mézières-4 (Partiel);1
-CV;0808;Château-Porcien;47
+CV;0804;Charleville-MÃ©ziÃ¨res-1 (Partiel);7
+CV;0805;Charleville-MÃ©ziÃ¨res-2 (Partiel);5
+CV;0806;Charleville-MÃ©ziÃ¨res-3 (Partiel);1
+CV;0807;Charleville-MÃ©ziÃ¨res-4 (Partiel);1
+CV;0808;ChÃ¢teau-Porcien;47
 CV;0809;Givet;12
 CV;0810;Nouvion-sur-Meuse;35
 CV;0811;Rethel;18
@@ -500,11 +500,11 @@ CV;0816;Sedan-3 (Partiel);9
 CV;0817;Signy-l'Abbaye;71
 CV;0818;Villers-Semeuse;11
 CV;0819;Vouziers;51
-CV;0889;Chémery-Chéhéry;1
-CV;0898;Charleville-Mézières;1
+CV;0889;ChÃ©mery-ChÃ©hÃ©ry;1
+CV;0898;Charleville-MÃ©ziÃ¨res;1
 CV;0899;Sedan;1
-CV;0901;Haute-Ariège;48
-CV;0902;Arize-Lèze;27
+CV;0901;Haute-AriÃ¨ge;48
+CV;0902;Arize-LÃ¨ze;27
 CV;0903;Couserans Est;37
 CV;0904;Couserans Ouest;30
 CV;0905;Foix;6
@@ -512,61 +512,61 @@ CV;0906;Mirepoix;35
 CV;0907;Pamiers-1 (Partiel);14
 CV;0908;Pamiers-2 (Partiel);7
 CV;0909;Pays d'Olmes;23
-CV;0910;Portes d'Ariège;16
+CV;0910;Portes d'AriÃ¨ge;16
 CV;0911;Portes du Couserans;28
-CV;0912;Sabarthès;32
-CV;0913;Val d'Ariège;28
+CV;0912;SabarthÃ¨s;32
+CV;0913;Val d'AriÃ¨ge;28
 CV;0999;Pamiers;1
 CV;1001;Aix-en-Othe;36
 CV;1002;Arcis-sur-Aube;47
 CV;1003;Bar-sur-Aube;48
 CV;1004;Bar-sur-Seine;46
-CV;1005;Brienne-le-Château;53
-CV;1006;Creney-près-Troyes;33
+CV;1005;Brienne-le-ChÃ¢teau;53
+CV;1006;Creney-prÃ¨s-Troyes;33
 CV;1007;Nogent-sur-Seine;23
 CV;1008;Les Riceys;57
 CV;1009;Romilly-sur-Seine;6
-CV;1010;Saint-André-les-Vergers;5
-CV;1011;Saint-Lyé;33
+CV;1010;Saint-AndrÃ©-les-Vergers;5
+CV;1011;Saint-LyÃ©;33
 CV;1013;Troyes-2 (Partiel);2
 CV;1014;Troyes-3 (Partiel);1
 CV;1015;Troyes-4 (Partiel);3
 CV;1017;Vendeuvre-sur-Barse;37
 CV;1099;Troyes;1
-CV;1101;La Piège au Razès;72
+CV;1101;La PiÃ¨ge au RazÃ¨s;72
 CV;1103;Carcassonne-2 (Partiel);8
 CV;1104;Carcassonne-3 (Partiel);6
 CV;1105;Le Bassin chaurien;22
 CV;1106;Les Basses Plaines de l'Aude;6
-CV;1107;Les Corbières;54
-CV;1108;Le Lézignanais;10
-CV;1109;La Région Limouxine;35
-CV;1110;La Malpère à la Montagne Noire;27
+CV;1107;Les CorbiÃ¨res;54
+CV;1108;Le LÃ©zignanais;10
+CV;1109;La RÃ©gion Limouxine;35
+CV;1110;La MalpÃ¨re Ã  la Montagne Noire;27
 CV;1111;Narbonne-1 (Partiel);4
 CV;1112;Narbonne-2 (Partiel);2
-CV;1114;La Haute-Vallée de l'Aude;84
+CV;1114;La Haute-VallÃ©e de l'Aude;84
 CV;1115;Le Haut-Minervois;23
 CV;1116;Le Sud-Minervois;18
-CV;1117;Les Corbières maritimes;11
+CV;1117;Les CorbiÃ¨res maritimes;11
 CV;1118;La Montagne d'Alaric;30
-CV;1119;La Vallée de l'Orbiel;22
+CV;1119;La VallÃ©e de l'Orbiel;22
 CV;1198;Carcassonne;1
 CV;1199;Narbonne;1
 CV;1201;Aubrac et Carladez;21
 CV;1202;Aveyron et Tarn;17
 CV;1203;Causse-Comtal;7
 CV;1204;Causses-Rougiers;43
-CV;1205;Ceor-Ségala;18
+CV;1205;Ceor-SÃ©gala;18
 CV;1206;Enne et Alzou;11
 CV;1207;Lot et Dourdou;11
 CV;1208;Lot et Montbazinois;16
 CV;1209;Lot et Palanges;13
-CV;1210;Lot et Truyère;14
+CV;1210;Lot et TruyÃ¨re;14
 CV;1211;Millau-1 (Partiel);3
 CV;1212;Millau-2 (Partiel);5
-CV;1213;Monts du Réquistanais;14
-CV;1214;Nord-Lévezou;4
-CV;1215;Raspes et Lévezou;22
+CV;1213;Monts du RÃ©quistanais;14
+CV;1214;Nord-LÃ©vezou;4
+CV;1215;Raspes et LÃ©vezou;22
 CV;1217;Rodez-2 (Partiel);1
 CV;1218;Rodez-Onet (Partiel);1
 CV;1219;Saint-Affrique;11
@@ -579,14 +579,14 @@ CV;1299;Rodez;1
 CV;1303;Allauch;10
 CV;1304;Arles;3
 CV;1305;Aubagne;3
-CV;1306;Berre-l'Étang;9
-CV;1307;Châteaurenard;15
+CV;1306;Berre-l'Ã‰tang;9
+CV;1307;ChÃ¢teaurenard;15
 CV;1308;La Ciotat;7
 CV;1309;Gardanne;5
 CV;1310;Istres;3
 CV;1311;Marignane;7
 CV;1324;Martigues;2
-CV;1325;Pélissanne;13
+CV;1325;PÃ©lissanne;13
 CV;1326;Salon-de-Provence-1 (Partiel);14
 CV;1327;Salon-de-Provence-2 (Partiel);3
 CV;1328;Trets;18
@@ -602,42 +602,42 @@ CV;1405;Caen-1 (Partiel);4
 CV;1406;Caen-2 (Partiel);5
 CV;1407;Caen-3 (Partiel);1
 CV;1409;Caen-5 (Partiel);4
-CV;1410;Condé-sur-Noireau;11
+CV;1410;CondÃ©-sur-Noireau;11
 CV;1411;Courseulles-sur-Mer;21
-CV;1412;Évrecy;32
+CV;1412;Ã‰vrecy;32
 CV;1413;Falaise;57
-CV;1414;Hérouville-Saint-Clair;2
+CV;1414;HÃ©rouville-Saint-Clair;2
 CV;1415;Honfleur-Deauville;17
 CV;1416;Ifs;4
 CV;1417;Lisieux;10
 CV;1418;Livarot;24
-CV;1419;Mézidon-Canon;55
+CV;1419;MÃ©zidon-Canon;55
 CV;1420;Ouistreham;11
-CV;1421;Pont-l'Évêque;48
+CV;1421;Pont-l'Ã‰vÃªque;48
 CV;1422;Thury-Harcourt;47
-CV;1423;Trévières;67
+CV;1423;TrÃ©viÃ¨res;67
 CV;1424;Troarn;29
 CV;1425;Vire;19
 CV;1499;Caen;1
-CV;1501;Arpajon-sur-Cère;15
+CV;1501;Arpajon-sur-CÃ¨re;15
 CV;1502;Aurillac-1 (Partiel);1
 CV;1505;Mauriac;20
 CV;1506;Maurs;18
 CV;1507;Murat;27
 CV;1508;Naucelles;16
-CV;1509;Neuvéglise;28
-CV;1510;Riom-ès-Montagnes;23
+CV;1509;NeuvÃ©glise;28
+CV;1510;Riom-Ã¨s-Montagnes;23
 CV;1511;Saint-Flour-1 (Partiel);23
 CV;1512;Saint-Flour-2 (Partiel);18
 CV;1513;Saint-Paul-des-Landes;22
-CV;1514;Vic-sur-Cère;23
+CV;1514;Vic-sur-CÃ¨re;23
 CV;1515;Ydes;19
 CV;1598;Aurillac;1
 CV;1599;Saint-Flour;1
-CV;1601;Angoulême-1 (Partiel);1
-CV;1602;Angoulême-2 (Partiel);1
-CV;1603;Angoulême-3 (Partiel);1
-CV;1604;Boëme-Echelle;13
+CV;1601;AngoulÃªme-1 (Partiel);1
+CV;1602;AngoulÃªme-2 (Partiel);1
+CV;1603;AngoulÃªme-3 (Partiel);1
+CV;1604;BoÃ«me-Echelle;13
 CV;1605;Boixe-et-Manslois;41
 CV;1606;Charente-Bonnieure;34
 CV;1607;Charente-Champagne;27
@@ -651,15 +651,15 @@ CV;1614;Gond-Pontouvre;4
 CV;1615;Jarnac;18
 CV;1616;Touvre-et-Braconne;6
 CV;1617;Tude-et-Lavalette;54
-CV;1618;Val de Nouère;27
+CV;1618;Val de NouÃ¨re;27
 CV;1619;Val de Tardoire;29
-CV;1698;Angoulême;1
+CV;1698;AngoulÃªme;1
 CV;1699;Cognac;1
-CV;1701;Aytré;4
+CV;1701;AytrÃ©;4
 CV;1702;Chaniers;27
-CV;1703;Châtelaillon-Plage;8
-CV;1704;L'Île d'Oléron;8
-CV;1705;L'Île de Ré;10
+CV;1703;ChÃ¢telaillon-Plage;8
+CV;1704;L'ÃŽle d'OlÃ©ron;8
+CV;1705;L'ÃŽle de RÃ©;10
 CV;1706;La Jarrie;14
 CV;1707;Jonzac;44
 CV;1708;Lagord;6
@@ -669,24 +669,24 @@ CV;1711;Matha;63
 CV;1712;Pons;39
 CV;1713;Rochefort;1
 CV;1717;Royan;3
-CV;1718;Saint-Jean-d'Angély;41
+CV;1718;Saint-Jean-d'AngÃ©ly;41
 CV;1719;Saint-Porchaire;20
 CV;1720;Saintes;1
 CV;1721;Saintonge Estuaire;24
 CV;1722;Saujon;9
-CV;1723;Surgères;21
-CV;1724;Thénac;25
+CV;1723;SurgÃ¨res;21
+CV;1724;ThÃ©nac;25
 CV;1725;Tonnay-Charente;15
 CV;1726;La Tremblade;9
 CV;1727;Les Trois Monts;42
 CV;1799;La Rochelle;1
-CV;1801;Aubigny-sur-Nère;15
+CV;1801;Aubigny-sur-NÃ¨re;15
 CV;1802;Avord;35
-CV;1807;Chârost;13
-CV;1808;Châteaumeillant;38
+CV;1807;ChÃ¢rost;13
+CV;1808;ChÃ¢teaumeillant;38
 CV;1809;Dun-sur-Auron;32
 CV;1810;La Guerche-sur-l'Aubois;22
-CV;1811;Mehun-sur-Yèvre;15
+CV;1811;Mehun-sur-YÃ¨vre;15
 CV;1812;Saint-Amand-Montrond;13
 CV;1813;Saint-Doulchard;3
 CV;1814;Saint-Germain-du-Puy;18
@@ -699,15 +699,15 @@ CV;1899;Vierzon;1
 CV;1901;Allassac;12
 CV;1902;Argentat;30
 CV;1905;Brive-la-Gaillarde-3 (Partiel);2
-CV;1907;Égletons;18
+CV;1907;Ã‰gletons;18
 CV;1908;Haute-Dordogne;27
-CV;1909;Malemort-sur-Corrèze;4
-CV;1910;Midi Corrézien;34
+CV;1909;Malemort-sur-CorrÃ¨ze;4
+CV;1910;Midi CorrÃ©zien;34
 CV;1911;Naves;13
 CV;1912;Plateau de Millevaches;33
-CV;1913;Saint-Pantaléon-de-Larche;13
+CV;1913;Saint-PantalÃ©on-de-Larche;13
 CV;1914;Sainte-Fortunade;23
-CV;1915;Seilhac-Monédières;21
+CV;1915;Seilhac-MonÃ©diÃ¨res;21
 CV;1916;Tulle;1
 CV;1917;Ussel;11
 CV;1918;Uzerche;21
@@ -717,11 +717,11 @@ CV;2101;Arnay-le-Duc;91
 CV;2102;Auxonne;35
 CV;2103;Beaune;1
 CV;2104;Brazey-en-Plaine;38
-CV;2105;Châtillon-sur-Seine;107
-CV;2106;Chenôve;2
+CV;2105;ChÃ¢tillon-sur-Seine;107
+CV;2106;ChenÃ´ve;2
 CV;2107;Chevigny-Saint-Sauveur;7
 CV;2113;Dijon-6 (Partiel);2
-CV;2114;Fontaine-lès-Dijon;30
+CV;2114;Fontaine-lÃ¨s-Dijon;30
 CV;2115;Genlis;25
 CV;2116;Is-sur-Tille;50
 CV;2117;Ladoix-Serrigny;38
@@ -732,7 +732,7 @@ CV;2121;Saint-Apollinaire;37
 CV;2122;Semur-en-Auxois;89
 CV;2123;Talant;34
 CV;2199;Dijon;1
-CV;2201;Bégard;23
+CV;2201;BÃ©gard;23
 CV;2202;Broons;26
 CV;2203;Callac;28
 CV;2204;Dinan;6
@@ -740,23 +740,23 @@ CV;2205;Guingamp;9
 CV;2206;Lamballe;11
 CV;2207;Lannion;3
 CV;2208;Lanvallay;17
-CV;2209;Loudéac;10
-CV;2210;Mûr-de-Bretagne;24
+CV;2209;LoudÃ©ac;10
+CV;2210;MÃ»r-de-Bretagne;24
 CV;2211;Paimpol;10
 CV;2212;Perros-Guirec;9
 CV;2213;Plaintel;9
-CV;2214;Plancoët;18
-CV;2215;Plélo;23
-CV;2216;Plénée-Jugon;11
-CV;2217;Pléneuf-Val-André;15
-CV;2218;Plérin;3
+CV;2214;PlancoÃ«t;18
+CV;2215;PlÃ©lo;23
+CV;2216;PlÃ©nÃ©e-Jugon;11
+CV;2217;PlÃ©neuf-Val-AndrÃ©;15
+CV;2218;PlÃ©rin;3
 CV;2219;Pleslin-Trigavou;11
-CV;2220;Plestin-les-Grèves;17
+CV;2220;Plestin-les-GrÃ¨ves;17
 CV;2221;Ploufragan;5
 CV;2222;Plouha;18
 CV;2223;Rostrenen;29
-CV;2226;Trégueux;4
-CV;2227;Tréguier;22
+CV;2226;TrÃ©gueux;4
+CV;2227;TrÃ©guier;22
 CV;2299;Saint-Brieuc;1
 CV;2301;Ahun;27
 CV;2302;Aubusson;21
@@ -765,70 +765,70 @@ CV;2304;Bonnat;18
 CV;2305;Bourganeuf;17
 CV;2306;Boussac;17
 CV;2307;Dun-le-Palestel;17
-CV;2308;Évaux-les-Bains;17
+CV;2308;Ã‰vaux-les-Bains;17
 CV;2309;Felletin;19
 CV;2310;Gouzon;25
 CV;2311;Le Grand-Bourg;17
-CV;2312;Guéret-1 (Partiel);4
-CV;2313;Guéret-2 (Partiel);6
+CV;2312;GuÃ©ret-1 (Partiel);4
+CV;2313;GuÃ©ret-2 (Partiel);6
 CV;2314;Saint-Vaury;11
 CV;2315;La Souterraine;7
-CV;2399;Guéret;1
+CV;2399;GuÃ©ret;1
 CV;2402;Bergerac-2 (Partiel);9
-CV;2403;Brantôme;41
+CV;2403;BrantÃ´me;41
 CV;2404;Coulounieix-Chamiers;4
-CV;2405;Le Haut-Périgord Noir;34
-CV;2406;Isle-Loue-Auvézère;31
+CV;2405;Le Haut-PÃ©rigord Noir;34
+CV;2406;Isle-Loue-AuvÃ©zÃ¨re;31
 CV;2407;Isle-Manoire;10
 CV;2408;Lalinde;46
-CV;2409;Montpon-Ménestérol;17
+CV;2409;Montpon-MÃ©nestÃ©rol;17
 CV;2410;Pays de la Force;14
 CV;2411;Pays de Montaigne et Gurson;20
-CV;2412;Périgord Central;37
-CV;2413;Périgord Vert Nontronnais;28
-CV;2416;Ribérac;35
+CV;2412;PÃ©rigord Central;37
+CV;2413;PÃ©rigord Vert Nontronnais;28
+CV;2416;RibÃ©rac;35
 CV;2417;Saint-Astier;11
-CV;2418;Sarlat-la-Canéda;13
+CV;2418;Sarlat-la-CanÃ©da;13
 CV;2419;Sud-Bergeracois;42
 CV;2420;Terrasson-Lavilledieu;28
 CV;2421;Thiviers;23
-CV;2422;Trélissac;8
-CV;2423;Vallée Dordogne;45
-CV;2424;Vallée de l'Isle;21
-CV;2425;Vallée de l'Homme;26
+CV;2422;TrÃ©lissac;8
+CV;2423;VallÃ©e Dordogne;45
+CV;2424;VallÃ©e de l'Isle;21
+CV;2425;VallÃ©e de l'Homme;26
 CV;2498;Bergerac;1
-CV;2499;Périgueux;1
+CV;2499;PÃ©rigueux;1
 CV;2501;Audincourt;9
 CV;2502;Baume-les-Dames;97
 CV;2503;Bavans;73
-CV;2504;Besançon-1 (Partiel);7
-CV;2505;Besançon-2 (Partiel);11
-CV;2506;Besançon-3 (Partiel);4
-CV;2507;Besançon-4 (Partiel);7
-CV;2508;Besançon-5 (Partiel);16
-CV;2509;Besançon-6 (Partiel);11
+CV;2504;BesanÃ§on-1 (Partiel);7
+CV;2505;BesanÃ§on-2 (Partiel);11
+CV;2506;BesanÃ§on-3 (Partiel);4
+CV;2507;BesanÃ§on-4 (Partiel);7
+CV;2508;BesanÃ§on-5 (Partiel);16
+CV;2509;BesanÃ§on-6 (Partiel);11
 CV;2510;Bethoncourt;11
 CV;2511;Frasne;47
-CV;2512;Maîche;51
-CV;2513;Montbéliard;4
+CV;2512;MaÃ®che;51
+CV;2513;MontbÃ©liard;4
 CV;2514;Morteau;25
 CV;2515;Ornans;64
 CV;2516;Pontarlier;10
 CV;2517;Saint-Vit;63
 CV;2518;Valdahon;59
 CV;2519;Valentigney;15
-CV;2599;Besançon;1
-CV;2601;Bourg-de-Péage (Partiel);2
+CV;2599;BesanÃ§on;1
+CV;2601;Bourg-de-PÃ©age (Partiel);2
 CV;2602;Crest;28
 CV;2603;Dieulefit;44
 CV;2604;Le Diois;63
-CV;2605;Drôme des collines;33
+CV;2605;DrÃ´me des collines;33
 CV;2606;Grignan;21
-CV;2607;Loriol-sur-Drôme;8
-CV;2608;Montélimar-1 (Partiel);5
-CV;2609;Montélimar-2 (Partiel);4
+CV;2607;Loriol-sur-DrÃ´me;8
+CV;2608;MontÃ©limar-1 (Partiel);5
+CV;2609;MontÃ©limar-2 (Partiel);4
 CV;2610;Nyons et Baronnies;73
-CV;2611;Romans-sur-Isère (Partiel);8
+CV;2611;Romans-sur-IsÃ¨re (Partiel);8
 CV;2612;Saint-Vallier;14
 CV;2613;Tain-l'Hermitage;14
 CV;2614;Le Tricastin;8
@@ -836,8 +836,8 @@ CV;2615;Valence-1 (Partiel);2
 CV;2616;Valence-2 (Partiel);3
 CV;2617;Valence-3 (Partiel);4
 CV;2619;Vercors-Monts du Matin;30
-CV;2697;Montélimar;1
-CV;2698;Romans-sur-Isère;1
+CV;2697;MontÃ©limar;1
+CV;2698;Romans-sur-IsÃ¨re;1
 CV;2699;Valence;1
 CV;2701;Les Andelys;28
 CV;2702;Bernay;19
@@ -847,9 +847,9 @@ CV;2705;Bourgtheroulde-Infreville;29
 CV;2706;Breteuil;42
 CV;2707;Brionne;44
 CV;2708;Conches-en-Ouche;31
-CV;2709;Évreux-1 (Partiel);2
-CV;2710;Évreux-2 (Partiel);11
-CV;2711;Évreux-3 (Partiel);15
+CV;2709;Ã‰vreux-1 (Partiel);2
+CV;2710;Ã‰vreux-2 (Partiel);11
+CV;2711;Ã‰vreux-3 (Partiel);15
 CV;2712;Gaillon;19
 CV;2713;Gisors;34
 CV;2714;Louviers;7
@@ -858,25 +858,25 @@ CV;2716;Pacy-sur-Eure;37
 CV;2717;Pont-Audemer;28
 CV;2718;Pont-de-l'Arche;21
 CV;2719;Romilly-sur-Andelle;36
-CV;2720;Saint-André-de-l'Eure;32
+CV;2720;Saint-AndrÃ©-de-l'Eure;32
 CV;2721;Val-de-Reuil;9
 CV;2722;Verneuil-sur-Avre;30
 CV;2723;Vernon;4
 CV;2788;Mesnils-sur-Iton;1
 CV;2789;Marbois;1
-CV;2799;Évreux;1
+CV;2799;Ã‰vreux;1
 CV;2801;Anet;25
 CV;2802;Auneau;32
 CV;2803;Brou;40
 CV;2804;Chartres-1 (Partiel);11
 CV;2805;Chartres-2 (Partiel);14
 CV;2806;Chartres-3 (Partiel);4
-CV;2807;Châteaudun;29
+CV;2807;ChÃ¢teaudun;29
 CV;2808;Dreux-1 (Partiel);12
 CV;2809;Dreux-2 (Partiel);13
-CV;2810;Épernon;23
+CV;2810;Ã‰pernon;23
 CV;2811;Illiers-Combray;40
-CV;2812;Lucé;6
+CV;2812;LucÃ©;6
 CV;2813;Nogent-le-Rotrou;33
 CV;2814;Saint-Lubin-des-Joncherets;47
 CV;2815;Voves;59
@@ -895,16 +895,16 @@ CV;2912;Guipavas;3
 CV;2913;Landerneau;9
 CV;2914;Landivisiau;19
 CV;2915;Lesneven;18
-CV;2916;Moëlan-sur-Mer;8
+CV;2916;MoÃ«lan-sur-Mer;8
 CV;2917;Morlaix;10
 CV;2918;Plabennec;13
-CV;2919;Plonéour-Lanvern;16
+CV;2919;PlonÃ©our-Lanvern;16
 CV;2920;Plouigneau;17
-CV;2921;Pont-de-Buis-lès-Quimerch;17
-CV;2922;Pont-l'Abbé;6
+CV;2921;Pont-de-Buis-lÃ¨s-Quimerch;17
+CV;2922;Pont-l'AbbÃ©;6
 CV;2923;Quimper-1 (Partiel);6
-CV;2925;Quimperlé;11
-CV;2926;Saint-Pol-de-Léon;14
+CV;2925;QuimperlÃ©;11
+CV;2926;Saint-Pol-de-LÃ©on;14
 CV;2927;Saint-Renan;18
 CV;2998;Brest;1
 CV;2999;Quimper;1
@@ -929,13 +929,13 @@ CV;2B11;Corte;8
 CV;2B12;Fiumorbo-Castello;14
 CV;2B13;Ghisonaccia;20
 CV;2B14;Golo-Morosaglia;55
-CV;2B15;L'île-Rousse;21
+CV;2B15;L'Ã®le-Rousse;21
 CV;2B99;Bastia;1
 CV;3001;Aigues-Mortes;7
-CV;3002;Alès-1 (Partiel);7
-CV;3003;Alès-2 (Partiel);14
-CV;3004;Alès-3 (Partiel);13
-CV;3005;Bagnols-sur-Cèze;11
+CV;3002;AlÃ¨s-1 (Partiel);7
+CV;3003;AlÃ¨s-2 (Partiel);14
+CV;3004;AlÃ¨s-3 (Partiel);13
+CV;3005;Bagnols-sur-CÃ¨ze;11
 CV;3006;Beaucaire;7
 CV;3007;Calvisson;28
 CV;3008;La Grand-Combe;28
@@ -946,20 +946,20 @@ CV;3016;Redessan;21
 CV;3017;Roquemaure;11
 CV;3018;Rousson;29
 CV;3019;Saint-Gilles (Partiel);8
-CV;3020;Uzès;31
+CV;3020;UzÃ¨s;31
 CV;3021;Vauvert;10
 CV;3022;Le Vigan;46
-CV;3023;Villeneuve-lès-Avignon;5
-CV;3098;Alès;1
-CV;3099;Nîmes;1
+CV;3023;Villeneuve-lÃ¨s-Avignon;5
+CV;3098;AlÃ¨s;1
+CV;3099;NÃ®mes;1
 CV;3101;Auterive;47
-CV;3102;Bagnères-de-Luchon;132
+CV;3102;BagnÃ¨res-de-Luchon;132
 CV;3103;Blagnac;6
 CV;3104;Castanet-Tolosan;15
 CV;3105;Castelginest;10
-CV;3106;Cazères;91
+CV;3106;CazÃ¨res;91
 CV;3107;Escalquens;35
-CV;3108;Léguevin;36
+CV;3108;LÃ©guevin;36
 CV;3109;Muret;9
 CV;3110;Pechbonnieu;26
 CV;3111;Plaisance-du-Touch;10
@@ -975,12 +975,12 @@ CV;3126;Tournefeuille;3
 CV;3127;Villemur-sur-Tarn;19
 CV;3199;Toulouse;1
 CV;3201;Adour-Gersoise;35
-CV;3202;Armagnac-Ténarèze;15
+CV;3202;Armagnac-TÃ©narÃ¨ze;15
 CV;3203;Astarac-Gimone;43
 CV;3204;Auch-1 (Partiel);5
 CV;3205;Auch-2 (Partiel);13
 CV;3206;Auch-3 (Partiel);9
-CV;3207;Baïse-Armagnac;15
+CV;3207;BaÃ¯se-Armagnac;15
 CV;3208;Fezensac;33
 CV;3209;Fleurance-Lomagne;33
 CV;3210;Gascogne-Auscitaine;22
@@ -989,77 +989,77 @@ CV;3212;Grand-Bas-Armagnac;40
 CV;3213;L'Isle-Jourdain;10
 CV;3214;Lectoure-Lomagne;26
 CV;3215;Mirande-Astarac;43
-CV;3216;Pardiac-Rivière-Basse;43
+CV;3216;Pardiac-RiviÃ¨re-Basse;43
 CV;3217;Val de Save;40
 CV;3299;Auch;1
 CV;3301;Andernos-les-Bains;6
 CV;3307;Le Bouscat;2
-CV;3308;La Brède;13
+CV;3308;La BrÃ¨de;13
 CV;3309;Cenon;3
 CV;3310;Les Coteaux de Dordogne;51
-CV;3311;Créon;23
+CV;3311;CrÃ©on;23
 CV;3312;L'Entre-Deux-Mers;58
 CV;3313;L'Estuaire;39
 CV;3314;Gujan-Mestras;4
 CV;3315;Les Landes des Graves;25
 CV;3316;Le Libournais-Fronsadais;24
 CV;3317;Lormont;5
-CV;3318;Mérignac-1 (Partiel);1
-CV;3319;Mérignac-2 (Partiel);2
+CV;3318;MÃ©rignac-1 (Partiel);1
+CV;3319;MÃ©rignac-2 (Partiel);2
 CV;3320;Le Nord-Gironde;26
 CV;3321;Le Nord-Libournais;38
-CV;3322;Le Nord-Médoc;29
+CV;3322;Le Nord-MÃ©doc;29
 CV;3323;Pessac-1 (Partiel);2
 CV;3324;Pessac-2 (Partiel);1
-CV;3325;Les Portes du Médoc;5
-CV;3326;La Presqu'île;9
-CV;3327;Le Réolais et Les Bastides;90
-CV;3328;Saint-Médard-en-Jalles;3
+CV;3325;Les Portes du MÃ©doc;5
+CV;3326;La Presqu'Ã®le;9
+CV;3327;Le RÃ©olais et Les Bastides;90
+CV;3328;Saint-MÃ©dard-en-Jalles;3
 CV;3329;Le Sud-Gironde;50
-CV;3330;Le Sud-Médoc;23
+CV;3330;Le Sud-MÃ©doc;23
 CV;3331;Talence (Partiel);1
 CV;3332;La Teste-de-Buch;2
 CV;3333;Villenave-d'Ornon (Partiel);1
-CV;3396;Bègles;1
+CV;3396;BÃ¨gles;1
 CV;3397;Bordeaux;1
-CV;3398;Mérignac;1
+CV;3398;MÃ©rignac;1
 CV;3399;Pessac;1
 CV;3401;Agde;5
-CV;3402;Béziers-1 (Partiel);5
-CV;3403;Béziers-2 (Partiel);2
-CV;3404;Béziers-3 (Partiel);8
-CV;3405;Cazouls-lès-Béziers;28
-CV;3406;Clermont-l'Hérault;40
-CV;3407;Le Crès;11
+CV;3402;BÃ©ziers-1 (Partiel);5
+CV;3403;BÃ©ziers-2 (Partiel);2
+CV;3404;BÃ©ziers-3 (Partiel);8
+CV;3405;Cazouls-lÃ¨s-BÃ©ziers;28
+CV;3406;Clermont-l'HÃ©rault;40
+CV;3407;Le CrÃ¨s;11
 CV;3408;Frontignan;6
 CV;3409;Gignac;28
 CV;3410;Lattes;5
-CV;3411;Lodève;54
+CV;3411;LodÃ¨ve;54
 CV;3412;Lunel;15
 CV;3413;Mauguio;8
-CV;3414;Mèze;18
+CV;3414;MÃ¨ze;18
 CV;3415;Montpellier-1 (Partiel);1
 CV;3420;Montpellier - Castelnau-le-Lez (Partiel);4
-CV;3421;Pézenas;15
+CV;3421;PÃ©zenas;15
 CV;3422;Pignan;8
-CV;3423;Saint-Gély-du-Fesc;20
-CV;3424;Saint-Pons-de-Thomières;59
-CV;3425;Sète;1
-CV;3498;Béziers;1
+CV;3423;Saint-GÃ©ly-du-Fesc;20
+CV;3424;Saint-Pons-de-ThomiÃ¨res;59
+CV;3425;SÃ¨te;1
+CV;3498;BÃ©ziers;1
 CV;3499;Montpellier;1
 CV;3501;Antrain;31
 CV;3502;Bain-de-Bretagne;20
 CV;3503;Betton;6
 CV;3504;Bruz;5
-CV;3505;Châteaugiron;14
+CV;3505;ChÃ¢teaugiron;14
 CV;3506;Combourg;26
 CV;3507;Dol-de-Bretagne;31
-CV;3508;Fougères-1 (Partiel);19
-CV;3509;Fougères-2 (Partiel);17
+CV;3508;FougÃ¨res-1 (Partiel);19
+CV;3509;FougÃ¨res-2 (Partiel);17
 CV;3510;La Guerche-de-Bretagne;31
 CV;3511;Guichen;16
-CV;3512;Janzé;10
-CV;3513;Liffré;9
+CV;3512;JanzÃ©;10
+CV;3513;LiffrÃ©;9
 CV;3514;Melesse;15
 CV;3515;Montauban-de-Bretagne;23
 CV;3516;Montfort-sur-Meu;15
@@ -1070,30 +1070,30 @@ CV;3523;Rennes-6 (Partiel);1
 CV;3524;Le Rheu;9
 CV;3525;Saint-Malo-1 (Partiel);4
 CV;3526;Saint-Malo-2 (Partiel);7
-CV;3527;Vitré;22
-CV;3597;Fougères;1
+CV;3527;VitrÃ©;22
+CV;3597;FougÃ¨res;1
 CV;3598;Rennes;1
 CV;3599;Saint-Malo;1
 CV;3601;Ardentes;12
 CV;3602;Argenton-sur-Creuse;20
 CV;3603;Le Blanc;27
-CV;3604;Buzançais;19
-CV;3605;Châteauroux-1 (Partiel);1
-CV;3608;La Châtre;34
+CV;3604;BuzanÃ§ais;19
+CV;3605;ChÃ¢teauroux-1 (Partiel);1
+CV;3608;La ChÃ¢tre;34
 CV;3609;Issoudun;6
 CV;3610;Levroux;34
-CV;3611;Neuvy-Saint-Sépulchre;25
+CV;3611;Neuvy-Saint-SÃ©pulchre;25
 CV;3612;Saint-Gaultier;34
-CV;3613;Valençay;29
+CV;3613;ValenÃ§ay;29
 CV;3689;Saint-Maur;1
-CV;3699;Châteauroux;1
+CV;3699;ChÃ¢teauroux;1
 CV;3701;Amboise;14
-CV;3702;Ballan-Miré;7
-CV;3703;Bléré;17
-CV;3704;Château-Renault;36
+CV;3702;Ballan-MirÃ©;7
+CV;3703;BlÃ©rÃ©;17
+CV;3704;ChÃ¢teau-Renault;36
 CV;3705;Chinon;27
 CV;3706;Descartes;38
-CV;3707;Joué-lès-Tours;1
+CV;3707;JouÃ©-lÃ¨s-Tours;1
 CV;3708;Langeais;32
 CV;3709;Loches;29
 CV;3710;Montlouis-sur-Loire;5
@@ -1103,29 +1103,29 @@ CV;3713;Sainte-Maure-de-Touraine;43
 CV;3714;Saint-Pierre-des-Corps;2
 CV;3719;Vouvray;10
 CV;3799;Tours;1
-CV;3801;Bièvre;48
+CV;3801;BiÃ¨vre;48
 CV;3802;Bourgoin-Jallieu;14
 CV;3803;Chartreuse-Guiers;23
 CV;3804;Charvieu-Chavagneux;24
-CV;3805;Échirolles;3
+CV;3805;Ã‰chirolles;3
 CV;3806;Fontaine-Seyssinet (Partiel);3
 CV;3807;Fontaine-Vercors (Partiel);9
 CV;3808;Le Grand-Lemps;32
 CV;3810;Grenoble-2 (Partiel);7
-CV;3813;Le Haut-Grésivaudan;25
+CV;3813;Le Haut-GrÃ©sivaudan;25
 CV;3814;L'Isle-d'Abeau;13
-CV;3815;Matheysine-Trièves;72
+CV;3815;Matheysine-TriÃ¨ves;72
 CV;3816;Meylan;8
 CV;3817;Morestel;24
-CV;3818;Le Moyen Grésivaudan;17
+CV;3818;Le Moyen GrÃ©sivaudan;17
 CV;3819;Oisans-Romanche;31
 CV;3820;Le Pont-de-Claix;12
 CV;3821;Roussillon;27
-CV;3822;Saint-Martin-d'Hères;4
-CV;3823;Le Sud Grésivaudan;44
+CV;3822;Saint-Martin-d'HÃ¨res;4
+CV;3823;Le Sud GrÃ©sivaudan;44
 CV;3824;La Tour-du-Pin;17
 CV;3825;Tullins;13
-CV;3826;La Verpillière;16
+CV;3826;La VerpilliÃ¨re;16
 CV;3827;Vienne-1 (Partiel);9
 CV;3828;Vienne-2 (Partiel);17
 CV;3829;Voiron;11
@@ -1155,7 +1155,7 @@ CV;3998;Dole;1
 CV;3999;Lons-le-Saunier;1
 CV;4001;Adour Armagnac;35
 CV;4002;Chalosse Tursan;50
-CV;4003;Côte d'Argent;16
+CV;4003;CÃ´te d'Argent;16
 CV;4004;Coteau de Chalosse;50
 CV;4005;Dax-1 (Partiel);10
 CV;4006;Dax-2 (Partiel);9
@@ -1182,11 +1182,11 @@ CV;4110;Romorantin-Lanthenay;6
 CV;4111;Saint-Aignan;16
 CV;4112;Selles-sur-Cher;17
 CV;4113;La Sologne;14
-CV;4114;Vendôme;8
+CV;4114;VendÃ´me;8
 CV;4115;Vineuil (Partiel);7
 CV;4199;Blois;1
-CV;4201;Andrézieux-Bouthéon;15
-CV;4202;Boën-sur-Lignon;54
+CV;4201;AndrÃ©zieux-BouthÃ©on;15
+CV;4202;BoÃ«n-sur-Lignon;54
 CV;4203;Charlieu;31
 CV;4204;Le Coteau;29
 CV;4205;Feurs;33
@@ -1205,15 +1205,15 @@ CV;4218;Saint-Etienne-5 (Partiel);2
 CV;4220;Saint-Just-Saint-Rambert;18
 CV;4221;Sorbiers;13
 CV;4298;Roanne;1
-CV;4299;Saint-Étienne;1
+CV;4299;Saint-Ã‰tienne;1
 CV;4301;Aurec-sur-Loire;4
 CV;4302;Bas-en-Basset;9
-CV;4303;Boutières;12
+CV;4303;BoutiÃ¨res;12
 CV;4304;Brioude;12
-CV;4305;Les Deux Rivières et Vallées;5
+CV;4305;Les Deux RiviÃ¨res et VallÃ©es;5
 CV;4306;Emblavez-et-Meygal;14
-CV;4307;Gorges de l'Allier-Gévaudan;26
-CV;4308;Mézenc;21
+CV;4307;Gorges de l'Allier-GÃ©vaudan;26
+CV;4308;MÃ©zenc;21
 CV;4309;Monistrol-sur-Loire;4
 CV;4310;Pays de Lafayette;41
 CV;4311;Plateau du Haut-Velay granitique;26
@@ -1231,33 +1231,33 @@ CV;4402;La Baule-Escoublac;6
 CV;4403;Blain;14
 CV;4404;Carquefou;4
 CV;4405;La Chapelle-sur-Erdre;6
-CV;4406;Châteaubriant;19
+CV;4406;ChÃ¢teaubriant;19
 CV;4407;Clisson;12
-CV;4408;Guémené-Penfao;19
-CV;4409;Guérande;10
+CV;4408;GuÃ©menÃ©-Penfao;19
+CV;4409;GuÃ©rande;10
 CV;4410;Machecoul;12
 CV;4418;Nort-sur-Erdre;14
-CV;4419;Pontchâteau;13
+CV;4419;PontchÃ¢teau;13
 CV;4420;Pornic;7
-CV;4421;Rezé-1 (Partiel);5
+CV;4421;RezÃ©-1 (Partiel);5
 CV;4423;Saint-Brevin-les-Pins;9
 CV;4424;Saint-Herblain-1 (Partiel);3
 CV;4425;Saint-Herblain-2 (Partiel);1
 CV;4427;Saint-Nazaire-2 (Partiel);5
 CV;4428;Saint-Philbert-de-Grand-Lieu;12
-CV;4429;Saint-Sébastien-sur-Loire;3
+CV;4429;Saint-SÃ©bastien-sur-Loire;3
 CV;4430;Vallet;11
 CV;4431;Vertou;5
 CV;4489;Chaumes-en-Retz;1
 CV;4496;Nantes;1
-CV;4497;Rezé;1
+CV;4497;RezÃ©;1
 CV;4498;Saint-Herblain;1
 CV;4499;Saint-Nazaire;1
 CV;4501;Beaugency;13
-CV;4502;Châlette-sur-Loing;6
-CV;4503;Châteauneuf-sur-Loire;14
+CV;4502;ChÃ¢lette-sur-Loing;6
+CV;4503;ChÃ¢teauneuf-sur-Loire;14
 CV;4504;Courtenay;42
-CV;4505;La Ferté-Saint-Aubin (Partiel);7
+CV;4505;La FertÃ©-Saint-Aubin (Partiel);7
 CV;4506;Fleury-les-Aubrais;7
 CV;4507;Gien;26
 CV;4508;Lorris;38
@@ -1265,19 +1265,19 @@ CV;4509;Malesherbes;49
 CV;4510;Meung-sur-Loire;32
 CV;4511;Montargis;9
 CV;4512;Olivet;3
-CV;4515;Orléans-3 (Partiel);2
+CV;4515;OrlÃ©ans-3 (Partiel);2
 CV;4517;Pithiviers;35
 CV;4518;Saint-Jean-de-Braye;7
 CV;4519;Saint-Jean-de-la-Ruelle;3
 CV;4520;Saint-Jean-le-Blanc;9
 CV;4521;Sully-sur-Loire;24
-CV;4599;Orléans;1
+CV;4599;OrlÃ©ans;1
 CV;4601;Cahors-1 (Partiel);2
 CV;4602;Cahors-2 (Partiel);6
 CV;4603;Cahors-3 (Partiel);5
 CV;4604;Causse et Bouriane;30
-CV;4605;Causse et Vallées;43
-CV;4606;Cère et Ségala;17
+CV;4605;Causse et VallÃ©es;43
+CV;4606;CÃ¨re et SÃ©gala;17
 CV;4607;Figeac-1 (Partiel);11
 CV;4608;Figeac-2 (Partiel);13
 CV;4609;Gourdon;18
@@ -1286,8 +1286,8 @@ CV;4611;Lacapelle-Marival;32
 CV;4612;Luzech;22
 CV;4613;Marches du Sud-Quercy;26
 CV;4614;Martel;18
-CV;4615;Puy-l'Evêque;27
-CV;4616;Saint-Céré;18
+CV;4615;Puy-l'EvÃªque;27
+CV;4616;Saint-CÃ©rÃ©;18
 CV;4617;Souillac;18
 CV;4689;Coeur de Causse;1
 CV;4698;Cahors;1
@@ -1298,9 +1298,9 @@ CV;4704;Agen-4 (Partiel);1
 CV;4705;L'Albret;22
 CV;4706;Le Confluent;20
 CV;4707;Les Coteaux de Guyenne;34
-CV;4708;Les Forêts de Gascogne;32
-CV;4709;Le Fumélois;19
-CV;4710;Le Haut Agenais Périgord;33
+CV;4708;Les ForÃªts de Gascogne;32
+CV;4709;Le FumÃ©lois;19
+CV;4710;Le Haut Agenais PÃ©rigord;33
 CV;4711;Lavardac;20
 CV;4712;Le Livradais;14
 CV;4713;Marmande-1 (Partiel);9
@@ -1318,13 +1318,13 @@ CV;4799;Villeneuve-sur-Lot;1
 CV;4801;Aumont-Aubrac;31
 CV;4802;La Canourgue;13
 CV;4803;Chirac;12
-CV;4804;Le Collet-de-Dèze;23
+CV;4804;Le Collet-de-DÃ¨ze;23
 CV;4805;Florac;10
 CV;4806;Grandrieu;21
 CV;4807;Langogne;10
 CV;4808;Marvejols;7
 CV;4811;Saint-Alban-sur-Limagnole;20
-CV;4812;Saint-Chély-d'Apcher;6
+CV;4812;Saint-ChÃ©ly-d'Apcher;6
 CV;4813;Saint-Etienne-du-Valdonnez;22
 CV;4899;Mende;1
 CV;4902;Angers-2 (Partiel);2
@@ -1333,77 +1333,77 @@ CV;4904;Angers-4 (Partiel);2
 CV;4905;Angers-5 (Partiel);6
 CV;4906;Angers-6 (Partiel);14
 CV;4907;Angers-7 (Partiel);5
-CV;4908;Beaufort-en-Vallée;19
-CV;4909;Beaupréau;3
+CV;4908;Beaufort-en-VallÃ©e;19
+CV;4909;BeauprÃ©au;3
 CV;4910;Chalonnes-sur-Loire;15
-CV;4911;Chemillé-Melay;8
+CV;4911;ChemillÃ©-Melay;8
 CV;4913;Cholet-2 (Partiel);19
-CV;4914;Doué-la-Fontaine;28
-CV;4915;Longué-Jumelles;18
+CV;4914;DouÃ©-la-Fontaine;28
+CV;4915;LonguÃ©-Jumelles;18
 CV;4916;La Pommeraye;2
-CV;4917;Les Ponts-de-Cé;16
+CV;4917;Les Ponts-de-CÃ©;16
 CV;4918;Saint-Macaire-en-Mauges;6
 CV;4919;Saumur;12
-CV;4920;Segré;35
-CV;4921;Tiercé;27
+CV;4920;SegrÃ©;35
+CV;4921;TiercÃ©;27
 CV;4987;Erdre-en-Anjou;1
 CV;4988;Val-du-Layon;1
-CV;4989;Longuenée-en-Anjou;1
+CV;4989;LonguenÃ©e-en-Anjou;1
 CV;4998;Angers;1
 CV;4999;Cholet;1
 CV;5001;Agon-Coutainville;27
 CV;5002;Avranches;15
-CV;5003;Bréhal;27
+CV;5003;BrÃ©hal;27
 CV;5004;Bricquebec;28
 CV;5005;Carentan;30
 CV;5008;Cherbourg-Octeville-3 (Partiel);9
-CV;5009;Condé-sur-Vire;18
+CV;5009;CondÃ©-sur-Vire;18
 CV;5010;Coutances;18
-CV;5011;Créances;20
+CV;5011;CrÃ©ances;20
 CV;5013;Granville;4
 CV;5014;La Hague;19
 CV;5015;Isigny-le-Buat;34
 CV;5016;Le Mortainais;17
 CV;5017;Les Pieux;29
-CV;5018;Pont-Hébert;28
+CV;5018;Pont-HÃ©bert;28
 CV;5019;Pontorson;21
 CV;5020;Quettreville-sur-Sienne;32
-CV;5021;Saint-Hilaire-du-Harcouët;21
-CV;5022;Saint-Lô-1 (Partiel);10
-CV;5023;Saint-Lô-2 (Partiel);13
+CV;5021;Saint-Hilaire-du-HarcouÃ«t;21
+CV;5022;Saint-LÃ´-1 (Partiel);10
+CV;5023;Saint-LÃ´-2 (Partiel);13
 CV;5024;Tourlaville;3
 CV;5025;Valognes;31
 CV;5026;Val-de-Saire;30
-CV;5027;Villedieu-les-Poêles;27
+CV;5027;Villedieu-les-PoÃªles;27
 CV;5087;Sartilly-Baie-Bocage;1
 CV;5088;Le Parc;1
 CV;5089;Saint-Jean-d'Elle;1
 CV;5098;Cherbourg-Octeville;1
-CV;5099;Saint-Lô;1
+CV;5099;Saint-LÃ´;1
 CV;5101;Argonne Suippe et Vesle;79
 CV;5102;Bourgogne;28
-CV;5103;Châlons-en-Champagne-1 (Partiel);3
-CV;5104;Châlons-en-Champagne-2 (Partiel);18
-CV;5105;Châlons-en-Champagne-3 (Partiel);41
+CV;5103;ChÃ¢lons-en-Champagne-1 (Partiel);3
+CV;5104;ChÃ¢lons-en-Champagne-2 (Partiel);18
+CV;5105;ChÃ¢lons-en-Champagne-3 (Partiel);41
 CV;5106;Dormans-Paysages de Champagne;72
-CV;5107;Épernay-1 (Partiel);17
-CV;5108;Épernay-2 (Partiel);17
+CV;5107;Ã‰pernay-1 (Partiel);17
+CV;5108;Ã‰pernay-2 (Partiel);17
 CV;5109;Fismes-Montagne de Reims;53
 CV;5110;Mourmelon-Vesle et Monts de Champagne;37
 CV;5114;Reims-4 (Partiel);5
 CV;5115;Reims-5 (Partiel);2
 CV;5118;Reims-8 (Partiel);8
 CV;5120;Sermaize-les-Bains;75
-CV;5121;Sézanne-Brie et Champagne;61
+CV;5121;SÃ©zanne-Brie et Champagne;61
 CV;5122;Vertus-Plaine Champenoise;63
-CV;5123;Vitry-le-François-Champagne et Der;35
-CV;5197;Châlons-en-Champagne;1
-CV;5198;Épernay;1
+CV;5123;Vitry-le-FranÃ§ois-Champagne et Der;35
+CV;5197;ChÃ¢lons-en-Champagne;1
+CV;5198;Ã‰pernay;1
 CV;5199;Reims;1
 CV;5201;Bologne;38
 CV;5202;Bourbonne-les-Bains;36
 CV;5203;Chalindrey;45
-CV;5204;Châteauvillain;38
+CV;5204;ChÃ¢teauvillain;38
 CV;5205;Chaumont-1 (Partiel);6
 CV;5206;Chaumont-2 (Partiel);4
 CV;5207;Chaumont-3 (Partiel);5
@@ -1418,15 +1418,15 @@ CV;5216;Villegusien-le-Lac;54
 CV;5217;Wassy;20
 CV;5298;Chaumont;1
 CV;5299;Saint-Dizier;1
-CV;5301;Azé;19
-CV;5302;Bonchamp-lès-Laval;7
-CV;5303;Château-Gontier;13
-CV;5304;Cossé-le-Vivien;29
-CV;5305;Ernée;15
-CV;5306;Évron;25
+CV;5301;AzÃ©;19
+CV;5302;Bonchamp-lÃ¨s-Laval;7
+CV;5303;ChÃ¢teau-Gontier;13
+CV;5304;CossÃ©-le-Vivien;29
+CV;5305;ErnÃ©e;15
+CV;5306;Ã‰vron;25
 CV;5307;Gorron;27
 CV;5308;L'Huisserie;9
-CV;5309;Lassay-les-Châteaux;24
+CV;5309;Lassay-les-ChÃ¢teaux;24
 CV;5313;Loiron;14
 CV;5314;Mayenne;8
 CV;5315;Meslay-du-Maine;37
@@ -1435,25 +1435,25 @@ CV;5317;Villaines-la-Juhel;26
 CV;5399;Laval;1
 CV;5401;Baccarat;91
 CV;5402;Entre Seille et Meurthe;39
-CV;5403;Grand Couronné;24
+CV;5403;Grand CouronnÃ©;24
 CV;5404;Jarny;34
 CV;5405;Jarville-la-Malgrange;12
 CV;5406;Laxou;2
 CV;5407;Longwy;8
-CV;5408;Lunéville-1 (Partiel);25
-CV;5409;Lunéville-2 (Partiel);53
+CV;5408;LunÃ©ville-1 (Partiel);25
+CV;5409;LunÃ©ville-2 (Partiel);53
 CV;5410;Meine au Saintois;98
 CV;5411;Mont-Saint-Martin;32
 CV;5415;Neuves-Maisons;14
 CV;5416;Le Nord-Toulois;57
 CV;5417;Pays de Briey;39
-CV;5418;Pont-à-Mousson;24
+CV;5418;Pont-Ã -Mousson;24
 CV;5419;Saint-Max;5
 CV;5420;Toul;15
 CV;5421;Val de Lorraine Sud;5
-CV;5422;Vandoeuvre-lès-Nancy;1
+CV;5422;Vandoeuvre-lÃ¨s-Nancy;1
 CV;5423;Villerupt;14
-CV;5498;Lunéville;1
+CV;5498;LunÃ©ville;1
 CV;5499;Nancy;1
 CV;5501;Ancerville;25
 CV;5502;Bar-le-Duc-1 (Partiel);12
@@ -1463,9 +1463,9 @@ CV;5505;Bouligny;26
 CV;5506;Clermont-en-Argonne;50
 CV;5507;Commercy;14
 CV;5508;Dieue-sur-Meuse;62
-CV;5509;Étain;42
+CV;5509;Ã‰tain;42
 CV;5510;Ligny-en-Barrois;41
-CV;5511;Montmédy;45
+CV;5511;MontmÃ©dy;45
 CV;5512;Revigny-sur-Ornain;28
 CV;5513;Saint-Mihiel;34
 CV;5514;Stenay;35
@@ -1482,15 +1482,15 @@ CV;5605;Guidel;11
 CV;5606;Hennebont;6
 CV;5607;Lanester;2
 CV;5609;Lorient-2 (Partiel);1
-CV;5610;Moréac;22
+CV;5610;MorÃ©ac;22
 CV;5611;Muzillac;15
 CV;5612;Ploemeur;3
-CV;5613;Ploërmel;31
+CV;5613;PloÃ«rmel;31
 CV;5614;Pluvigner;11
 CV;5615;Pontivy;16
 CV;5616;Questembert;16
 CV;5617;Quiberon;16
-CV;5618;Séné;10
+CV;5618;SÃ©nÃ©;10
 CV;5620;Vannes-2 (Partiel);9
 CV;5621;Vannes-3 (Partiel);5
 CV;5689;Val d'Oust;1
@@ -1507,7 +1507,7 @@ CV;5708;Forbach;7
 CV;5709;Freyming-Merlebach;11
 CV;5710;Hayange;9
 CV;5714;Metzervisse;27
-CV;5715;Montigny-lès-Metz;6
+CV;5715;Montigny-lÃ¨s-Metz;6
 CV;5716;Le Pays Messin;51
 CV;5717;Phalsbourg;56
 CV;5718;Rombas;14
@@ -1522,33 +1522,33 @@ CV;5726;Thionville (Partiel);1
 CV;5727;Yutz (Partiel);23
 CV;5798;Metz;1
 CV;5799;Thionville;1
-CV;5801;La Charité-sur-Loire;28
-CV;5802;Château-Chinon;40
+CV;5801;La CharitÃ©-sur-Loire;28
+CV;5802;ChÃ¢teau-Chinon;40
 CV;5803;Clamecy;46
 CV;5804;Corbigny;45
 CV;5805;Cosne-Cours-sur-Loire;7
 CV;5806;Decize;9
 CV;5807;Fourchambault;4
-CV;5808;Guérigny;33
+CV;5808;GuÃ©rigny;33
 CV;5809;Imphy;9
 CV;5810;Luzy;32
 CV;5811;Nevers-1 (Partiel);1
 CV;5812;Nevers-2 (Partiel);3
 CV;5813;Nevers-3 (Partiel);3
 CV;5815;Pouilly-sur-Loire;29
-CV;5816;Saint-Pierre-le-Moûtier;17
+CV;5816;Saint-Pierre-le-MoÃ»tier;17
 CV;5817;Varennes-Vauzelles;3
 CV;5899;Nevers;1
 CV;5901;Aniche;26
 CV;5902;Annoeullin;24
 CV;5903;Anzin;6
-CV;5904;Armentières;11
+CV;5904;ArmentiÃ¨res;11
 CV;5905;Aulnoye-Aymeries;39
 CV;5906;Aulnoy-lez-Valenciennes;20
 CV;5907;Avesnes-sur-Helpe;52
 CV;5908;Bailleul;23
 CV;5909;Cambrai;27
-CV;5910;Le Cateau-Cambrésis;56
+CV;5910;Le Cateau-CambrÃ©sis;56
 CV;5911;Caudry;33
 CV;5912;Coudekerque-Branche;9
 CV;5913;Croix;5
@@ -1585,27 +1585,27 @@ CV;6002;Beauvais-2 (Partiel);26
 CV;6003;Chantilly;10
 CV;6004;Chaumont-en-Vexin;72
 CV;6005;Clermont;20
-CV;6006;Compiègne-1 (Partiel);19
-CV;6007;Compiègne-2 (Partiel);16
+CV;6006;CompiÃ¨gne-1 (Partiel);19
+CV;6007;CompiÃ¨gne-2 (Partiel);16
 CV;6008;Creil;2
-CV;6009;Crépy-en-Valois;25
-CV;6010;Estrées-Saint-Denis;71
+CV;6009;CrÃ©py-en-Valois;25
+CV;6010;EstrÃ©es-Saint-Denis;71
 CV;6011;Grandvilliers;101
-CV;6012;Méru;14
+CV;6012;MÃ©ru;14
 CV;6013;Montataire;15
 CV;6014;Mouy;35
 CV;6015;Nanteuil-le-Haudouin;46
 CV;6016;Nogent-sur-Oise;6
 CV;6017;Noyon;42
 CV;6018;Pont-Sainte-Maxence;23
-CV;6019;Saint-Just-en-Chaussée;84
+CV;6019;Saint-Just-en-ChaussÃ©e;84
 CV;6020;Senlis;14
 CV;6021;Thourotte;40
 CV;6098;Beauvais;1
-CV;6099;Compiègne;1
+CV;6099;CompiÃ¨gne;1
 CV;6101;L'Aigle;7
-CV;6102;Alençon-1 (Partiel);1
-CV;6103;Alençon-2 (Partiel);1
+CV;6102;AlenÃ§on-1 (Partiel);1
+CV;6103;AlenÃ§on-2 (Partiel);1
 CV;6104;Argentan-1 (Partiel);15
 CV;6105;Argentan-2 (Partiel);33
 CV;6106;Athis-de-l'Orne;30
@@ -1614,18 +1614,18 @@ CV;6108;Bretoncelles;12
 CV;6109;Ceton;23
 CV;6110;Damigny;16
 CV;6111;Domfront;13
-CV;6112;La Ferté-Macé;13
+CV;6112;La FertÃ©-MacÃ©;13
 CV;6113;Flers-1 (Partiel);12
 CV;6114;Flers-2 (Partiel);6
-CV;6115;Magny-le-Désert;41
+CV;6115;Magny-le-DÃ©sert;41
 CV;6116;Mortagne-au-Perche;33
 CV;6117;Radon;37
 CV;6118;Rai;26
-CV;6119;Sées;22
+CV;6119;SÃ©es;22
 CV;6120;Tourouvre;25
 CV;6121;Vimoutiers;32
 CV;6189;Bagnoles de l'Orne Normandie;1
-CV;6197;Alençon;1
+CV;6197;AlenÃ§on;1
 CV;6198;Argentan;1
 CV;6199;Flers;1
 CV;6201;Aire-sur-la-Lys;17
@@ -1633,30 +1633,30 @@ CV;6202;Arras-1 (Partiel);12
 CV;6203;Arras-2 (Partiel);11
 CV;6204;Arras-3 (Partiel);15
 CV;6205;Auchel;9
-CV;6206;Auxi-le-Château;84
+CV;6206;Auxi-le-ChÃ¢teau;84
 CV;6207;Avesnes-le-Comte;108
 CV;6208;Avion;4
 CV;6209;Bapaume;75
 CV;6210;Berck;31
-CV;6211;Béthune;7
+CV;6211;BÃ©thune;7
 CV;6212;Beuvry;13
 CV;6213;Boulogne-sur-Mer-1 (Partiel);6
 CV;6214;Boulogne-sur-Mer-2 (Partiel);4
-CV;6215;Brebières;33
-CV;6216;Bruay-la-Buissière;12
+CV;6215;BrebiÃ¨res;33
+CV;6216;Bruay-la-BuissiÃ¨re;12
 CV;6217;Bully-les-Mines;12
 CV;6218;Calais-1 (Partiel);10
 CV;6219;Calais-2 (Partiel);25
 CV;6221;Carvin;3
 CV;6222;Desvres;52
 CV;6223;Douvrin;14
-CV;6224;Étaples;15
+CV;6224;Ã‰taples;15
 CV;6225;Fruges;54
 CV;6226;Harnes;6
-CV;6227;Hénin-Beaumont-1 (Partiel);3
-CV;6228;Hénin-Beaumont-2 (Partiel);5
+CV;6227;HÃ©nin-Beaumont-1 (Partiel);3
+CV;6228;HÃ©nin-Beaumont-2 (Partiel);5
 CV;6229;Lens;3
-CV;6230;Liévin;4
+CV;6230;LiÃ©vin;4
 CV;6231;Lillers;22
 CV;6232;Longuenesse;7
 CV;6233;Lumbres;60
@@ -1669,16 +1669,16 @@ CV;6239;Wingles;9
 CV;6296;Arras;1
 CV;6297;Boulogne-sur-Mer;1
 CV;6298;Calais;1
-CV;6299;Hénin-Beaumont;1
+CV;6299;HÃ©nin-Beaumont;1
 CV;6301;Aigueperse;24
 CV;6302;Ambert;30
-CV;6303;Aubière;3
+CV;6303;AubiÃ¨re;3
 CV;6304;Beaumont;3
 CV;6305;Billom;24
 CV;6306;Brassac-les-Mines;58
-CV;6307;Cébazat;5
-CV;6308;Chamalières;2
-CV;6309;Châtel-Guyon;8
+CV;6307;CÃ©bazat;5
+CV;6308;ChamaliÃ¨res;2
+CV;6309;ChÃ¢tel-Guyon;8
 CV;6316;Cournon-d'Auvergne;2
 CV;6317;Gerzat;4
 CV;6318;Issoire;10
@@ -1687,9 +1687,9 @@ CV;6320;Maringues;20
 CV;6321;Les Martres-de-Veyre;11
 CV;6322;Les Monts du Livradois;38
 CV;6323;Orcines;23
-CV;6324;Pont-du-Château;3
+CV;6324;Pont-du-ChÃ¢teau;3
 CV;6325;Riom;5
-CV;6326;Saint-Éloy-les-Mines;35
+CV;6326;Saint-Ã‰loy-les-Mines;35
 CV;6327;Saint-Georges-de-Mons;28
 CV;6328;Saint-Ours;40
 CV;6329;Le Sancy;44
@@ -1697,12 +1697,12 @@ CV;6330;Thiers;13
 CV;6331;Vic-le-Comte;19
 CV;6399;Clermont-Ferrand;1
 CV;6402;Artix et Pays de Soubestre;55
-CV;6403;Baïgura et Mondarrain;10
+CV;6403;BaÃ¯gura et Mondarrain;10
 CV;6405;Bayonne-2 (Partiel);1
 CV;6407;Biarritz;1
-CV;6408;Billère et Coteaux de Jurançon;5
-CV;6409;Le Coeur de Béarn;47
-CV;6410;Hendaye-Côte Basque-Sud;3
+CV;6408;BillÃ¨re et Coteaux de JuranÃ§on;5
+CV;6409;Le Coeur de BÃ©arn;47
+CV;6410;Hendaye-CÃ´te Basque-Sud;3
 CV;6411;Lescar, Gave et Terres du Pont-Long;7
 CV;6412;Montagne Basque;66
 CV;6413;Nive-Adour;10
@@ -1714,17 +1714,17 @@ CV;6419;Pau-2 (Partiel);1
 CV;6420;Pau-3 (Partiel);2
 CV;6421;Pau-4 (Partiel);1
 CV;6422;Pays de Bidache, Amikuze et Ostibarre;52
-CV;6423;Pays de Morlaàs et du Montanérès;44
+CV;6423;Pays de MorlaÃ s et du MontanÃ©rÃ¨s;44
 CV;6424;Saint-Jean-de-Luz;4
 CV;6425;Terres des Luys et Coteaux du Vic-Bilh;72
-CV;6426;Ustaritz-Vallées de Nive et Nivelle;9
-CV;6427;Vallées de l'Ousse et du Lagoin;29
+CV;6426;Ustaritz-VallÃ©es de Nive et Nivelle;9
+CV;6427;VallÃ©es de l'Ousse et du Lagoin;29
 CV;6496;Anglet;1
 CV;6497;Bayonne;1
 CV;6498;Oloron-Sainte-Marie;1
 CV;6499;Pau;1
 CV;6501;Aureilhan;3
-CV;6502;Bordères-sur-l'Echez;7
+CV;6502;BordÃ¨res-sur-l'Echez;7
 CV;6503;Les Coteaux;77
 CV;6504;La Haute-Bigorre;14
 CV;6505;Lourdes-1 (Partiel);11
@@ -1733,27 +1733,27 @@ CV;6507;Moyen Adour;15
 CV;6508;Neste, Aure et Louron;62
 CV;6509;Ossun;17
 CV;6513;Val d'Adour-Rustan-Madiranais;43
-CV;6514;La Vallée de l'Arros et des Baïses;71
-CV;6515;La Vallée de la Barousse;52
-CV;6516;La Vallée des Gaves;49
+CV;6514;La VallÃ©e de l'Arros et des BaÃ¯ses;71
+CV;6515;La VallÃ©e de la Barousse;52
+CV;6516;La VallÃ©e des Gaves;49
 CV;6517;Vic-en-Bigorre;22
 CV;6598;Lourdes;1
 CV;6599;Tarbes;1
 CV;6601;Les Aspres;22
 CV;6602;Le Canigou;41
-CV;6603;La Côte Sableuse;4
-CV;6604;La Côte Salanquaise;6
-CV;6605;La Côte Vermeille;7
+CV;6603;La CÃ´te Sableuse;4
+CV;6604;La CÃ´te Salanquaise;6
+CV;6605;La CÃ´te Vermeille;7
 CV;6607;Perpignan-2 (Partiel);3
 CV;6608;Perpignan-3 (Partiel);1
 CV;6610;Perpignan-5 (Partiel);1
 CV;6611;Perpignan-6 (Partiel);1
-CV;6612;La Plaine d'Illibéris;9
-CV;6613;Les Pyrénées catalanes;62
-CV;6614;Le Ribéral;7
-CV;6615;La Vallée de l'Agly;38
-CV;6616;La Vallée de la Têt;10
-CV;6617;Vallespir-Albères;13
+CV;6612;La Plaine d'IllibÃ©ris;9
+CV;6613;Les PyrÃ©nÃ©es catalanes;62
+CV;6614;Le RibÃ©ral;7
+CV;6615;La VallÃ©e de l'Agly;38
+CV;6616;La VallÃ©e de la TÃªt;10
+CV;6617;Vallespir-AlbÃ¨res;13
 CV;6699;Perpignan;1
 CV;6701;Bischwiller;22
 CV;6702;Bouxwiller;55
@@ -1770,7 +1770,7 @@ CV;6712;Obernai;25
 CV;6713;Reichshoffen;43
 CV;6714;Saverne;49
 CV;6715;Schiltigheim;2
-CV;6716;Sélestat;29
+CV;6716;SÃ©lestat;29
 CV;6723;Wissembourg;44
 CV;6799;Strasbourg;1
 CV;6801;Altkirch;64
@@ -1796,40 +1796,40 @@ CV;6903;Belleville;29
 CV;6904;Le Bois-d'Oingt;27
 CV;6905;Brignais;6
 CV;6906;Genas;8
-CV;6907;Gleizé;15
+CV;6907;GleizÃ©;15
 CV;6908;Mornant;22
 CV;6909;Saint-Symphorien-d'Ozon;12
 CV;6910;Tarare;21
 CV;6911;Thizy-les-Bourgs;26
 CV;6912;Vaugneray;18
-CV;6913;Villefranche-sur-Saône;1
+CV;6913;Villefranche-sur-SaÃ´ne;1
 CV;69ZZ;Sans objet;59
 CV;7001;Dampierre-sur-Salon;50
 CV;7002;Gray;24
-CV;7003;Héricourt-1 (Partiel);14
-CV;7004;Héricourt-2 (Partiel);14
+CV;7003;HÃ©ricourt-1 (Partiel);14
+CV;7004;HÃ©ricourt-2 (Partiel);14
 CV;7005;Jussey;65
 CV;7006;Lure-1 (Partiel);20
 CV;7007;Lure-2 (Partiel);21
 CV;7008;Luxeuil-les-Bains;12
 CV;7009;Marnay;50
-CV;7010;Mélisey;34
-CV;7011;Port-sur-Saône;46
+CV;7010;MÃ©lisey;34
+CV;7011;Port-sur-SaÃ´ne;46
 CV;7012;Rioz;52
 CV;7013;Saint-Loup-sur-Semouse;23
-CV;7014;Scey-sur-Saône-et-Saint-Albin;45
+CV;7014;Scey-sur-SaÃ´ne-et-Saint-Albin;45
 CV;7015;Vesoul-1 (Partiel);11
 CV;7016;Vesoul-2 (Partiel);12
 CV;7017;Villersexel;47
-CV;7097;Héricourt;1
+CV;7097;HÃ©ricourt;1
 CV;7098;Lure;1
 CV;7099;Vesoul;1
 CV;7101;Autun-1 (Partiel);27
 CV;7102;Autun-2 (Partiel);26
 CV;7103;Blanzy;17
 CV;7104;Chagny;27
-CV;7105;Chalon-sur-Saône-1 (Partiel);5
-CV;7107;Chalon-sur-Saône-3 (Partiel);1
+CV;7105;Chalon-sur-SaÃ´ne-1 (Partiel);5
+CV;7107;Chalon-sur-SaÃ´ne-3 (Partiel);1
 CV;7108;La Chapelle-de-Guinchay;34
 CV;7109;Charolles;32
 CV;7110;Chauffailles;39
@@ -1843,26 +1843,26 @@ CV;7117;Givry;41
 CV;7118;Gueugnon;20
 CV;7119;Hurigny;28
 CV;7120;Louhans;20
-CV;7121;Mâcon-1 (Partiel);2
-CV;7122;Mâcon-2 (Partiel);1
+CV;7121;MÃ¢con-1 (Partiel);2
+CV;7122;MÃ¢con-2 (Partiel);1
 CV;7123;Montceau-les-Mines;2
-CV;7124;Ouroux-sur-Saône;15
+CV;7124;Ouroux-sur-SaÃ´ne;15
 CV;7125;Paray-le-Monial;22
 CV;7126;Pierre-de-Bresse;33
-CV;7127;Saint-Rémy;9
+CV;7127;Saint-RÃ©my;9
 CV;7128;Saint-Vallier;5
 CV;7129;Tournus;31
 CV;7196;Autun;1
-CV;7197;Chalon-sur-Saône;1
+CV;7197;Chalon-sur-SaÃ´ne;1
 CV;7198;Le Creusot;1
-CV;7199;Mâcon;1
-CV;7201;Bonnétable;23
-CV;7202;Changé;8
-CV;7203;Château-du-Loir;29
-CV;7204;Écommoy;10
-CV;7205;La Ferté-Bernard;25
-CV;7206;La Flèche;13
-CV;7207;Loué;44
+CV;7199;MÃ¢con;1
+CV;7201;BonnÃ©table;23
+CV;7202;ChangÃ©;8
+CV;7203;ChÃ¢teau-du-Loir;29
+CV;7204;Ã‰commoy;10
+CV;7205;La FertÃ©-Bernard;25
+CV;7206;La FlÃ¨che;13
+CV;7207;LouÃ©;44
 CV;7208;Le Lude;23
 CV;7209;Mamers;46
 CV;7210;Le Mans-1 (Partiel);1
@@ -1870,10 +1870,10 @@ CV;7211;Le Mans-2 (Partiel);4
 CV;7213;Le Mans-4 (Partiel);1
 CV;7215;Le Mans-6 (Partiel);1
 CV;7216;Le Mans-7 (Partiel);6
-CV;7217;Sablé-sur-Sarthe;16
+CV;7217;SablÃ©-sur-Sarthe;16
 CV;7218;Saint-Calais;37
-CV;7219;Savigné-l'Évêque;15
-CV;7220;Sillé-le-Guillaume;50
+CV;7219;SavignÃ©-l'Ã‰vÃªque;15
+CV;7220;SillÃ©-le-Guillaume;50
 CV;7221;La Suze-sur-Sarthe;15
 CV;7299;Le Mans;1
 CV;7301;Aix-les-Bains-1 (Partiel);9
@@ -1882,13 +1882,13 @@ CV;7303;Albertville-1 (Partiel);8
 CV;7304;Albertville-2 (Partiel);14
 CV;7305;Bourg-Saint-Maurice;12
 CV;7306;Bugey savoyard;32
-CV;7307;Chambéry-1 (Partiel);1
-CV;7308;Chambéry-2 (Partiel);1
-CV;7309;Chambéry-3 (Partiel);1
+CV;7307;ChambÃ©ry-1 (Partiel);1
+CV;7308;ChambÃ©ry-2 (Partiel);1
+CV;7309;ChambÃ©ry-3 (Partiel);1
 CV;7310;Modane;20
-CV;7311;Montmélian;29
+CV;7311;MontmÃ©lian;29
 CV;7312;La Motte-Servolex;8
-CV;7313;Moûtiers;24
+CV;7313;MoÃ»tiers;24
 CV;7314;Le Pont-de-Beauvoisin;27
 CV;7315;La Ravoire;5
 CV;7316;Saint-Alban-Leysse;24
@@ -1897,14 +1897,14 @@ CV;7318;Saint-Pierre-d'Albigny;26
 CV;7319;Ugine;16
 CV;7397;Aix-les-Bains;1
 CV;7398;Albertville;1
-CV;7399;Chambéry;1
+CV;7399;ChambÃ©ry;1
 CV;7401;Annecy-1 (Partiel);9
 CV;7402;Annecy-2 (Partiel);1
 CV;7403;Annecy-le-Vieux;13
 CV;7404;Annemasse;3
 CV;7405;Bonneville;20
 CV;7406;Cluses;16
-CV;7407;Évian-les-Bains;33
+CV;7407;Ã‰vian-les-Bains;33
 CV;7408;Faverges;24
 CV;7409;Gaillard;10
 CV;7410;Le Mont-Blanc;7
@@ -1921,13 +1921,13 @@ CV;7601;Barentin;21
 CV;7602;Bois-Guillaume;19
 CV;7603;Bolbec;20
 CV;7604;Canteleu;6
-CV;7605;Caudebec-lès-Elbeuf;7
-CV;7606;Darnétal;15
+CV;7605;Caudebec-lÃ¨s-Elbeuf;7
+CV;7606;DarnÃ©tal;15
 CV;7607;Dieppe-1 (Partiel);16
 CV;7608;Dieppe-2 (Partiel);21
 CV;7609;Elbeuf;6
 CV;7610;Eu;40
-CV;7611;Fécamp;35
+CV;7611;FÃ©camp;35
 CV;7612;Gournay-en-Bray;66
 CV;7613;Le Grand-Quevilly;2
 CV;7615;Le Havre-2 (Partiel);2
@@ -1936,28 +1936,28 @@ CV;7619;Le Havre-6 (Partiel);1
 CV;7620;Luneray;73
 CV;7621;Le Mesnil-Esnard;44
 CV;7622;Mont-Saint-Aignan;2
-CV;7623;Neufchâtel-en-Bray;70
+CV;7623;NeufchÃ¢tel-en-Bray;70
 CV;7624;Notre-Dame-de-Bondeville;21
 CV;7625;Notre-Dame-de-Gravenchon;21
 CV;7626;Octeville-sur-Mer;31
 CV;7627;Le Petit-Quevilly (Partiel);1
-CV;7631;Saint-Étienne-du-Rouvray (Partiel);1
+CV;7631;Saint-Ã‰tienne-du-Rouvray (Partiel);1
 CV;7632;Saint-Romain-de-Colbosc;38
 CV;7633;Saint-Valery-en-Caux;77
 CV;7635;Yvetot;54
 CV;7695;Dieppe;1
 CV;7696;Le Havre;1
 CV;7697;Rouen;1
-CV;7698;Saint-Étienne-du-Rouvray;1
-CV;7699;Sotteville-lès-Rouen;1
+CV;7698;Saint-Ã‰tienne-du-Rouvray;1
+CV;7699;Sotteville-lÃ¨s-Rouen;1
 CV;7701;Champs-sur-Marne;4
 CV;7702;Chelles;1
 CV;7703;Claye-Souilly;30
 CV;7704;Combs-la-Ville;5
 CV;7705;Coulommiers;51
-CV;7706;La Ferté-sous-Jouarre;47
+CV;7706;La FertÃ©-sous-Jouarre;47
 CV;7707;Fontainebleau;34
-CV;7708;Fontenay-Trésigny;33
+CV;7708;Fontenay-TrÃ©signy;33
 CV;7709;Lagny-sur-Marne;14
 CV;7710;Meaux;1
 CV;7711;Melun;9
@@ -1965,7 +1965,7 @@ CV;7712;Mitry-Mory;19
 CV;7713;Montereau-Fault-Yonne;22
 CV;7714;Nangis;46
 CV;7715;Nemours;51
-CV;7716;Ozoir-la-Ferrière;12
+CV;7716;Ozoir-la-FerriÃ¨re;12
 CV;7717;Pontault-Combault;3
 CV;7718;Provins;82
 CV;7719;Saint-Fargeau-Ponthierry;6
@@ -1974,7 +1974,7 @@ CV;7721;Serris;24
 CV;7722;Torcy;5
 CV;7723;Villeparisis;6
 CV;7801;Aubergenville;40
-CV;7802;Bonnières-sur-Seine;70
+CV;7802;BonniÃ¨res-sur-Seine;70
 CV;7803;Chatou;5
 CV;7804;Le Chesnay;6
 CV;7805;Conflans-Sainte-Honorine;4
@@ -1987,7 +1987,7 @@ CV;7811;Les Mureaux;10
 CV;7812;Plaisir;4
 CV;7813;Poissy;3
 CV;7814;Rambouillet;36
-CV;7815;Saint-Cyr-l'École;6
+CV;7815;Saint-Cyr-l'Ã‰cole;6
 CV;7816;Saint-Germain-en-Laye;7
 CV;7817;Sartrouville;3
 CV;7818;Trappes;3
@@ -1999,13 +1999,13 @@ CV;7902;Bressuire;5
 CV;7903;Celles-sur-Belle;27
 CV;7904;Cerizay;23
 CV;7905;Frontenay-Rohan-Rohan;13
-CV;7906;La Gâtine;40
-CV;7907;Mauléon;9
+CV;7906;La GÃ¢tine;40
+CV;7907;MaulÃ©on;9
 CV;7908;Melle;39
 CV;7909;Mignon-et-Boutonne;35
 CV;7913;Parthenay;11
 CV;7914;La Plaine Niortaise;10
-CV;7915;Saint-Maixent-l'École;13
+CV;7915;Saint-Maixent-l'Ã‰cole;13
 CV;7916;Thouars;8
 CV;7917;Le Val de Thouet;35
 CV;7989;Argentonnay;1
@@ -2028,7 +2028,7 @@ CV;8016;Friville-Escarbotin;24
 CV;8017;Gamaches;36
 CV;8018;Ham;67
 CV;8019;Moreuil;43
-CV;8020;Péronne;60
+CV;8020;PÃ©ronne;60
 CV;8021;Poix-de-Picardie;79
 CV;8022;Roye;62
 CV;8023;Rue;55
@@ -2037,8 +2037,8 @@ CV;8099;Amiens;1
 CV;8102;Albi-2 (Partiel);5
 CV;8103;Albi-3 (Partiel);8
 CV;8104;Albi-4 (Partiel);2
-CV;8105;Carmaux-1 Le Ségala (Partiel);32
-CV;8106;Carmaux-2 Vallée du Cérou (Partiel);39
+CV;8105;Carmaux-1 Le SÃ©gala (Partiel);32
+CV;8106;Carmaux-2 VallÃ©e du CÃ©rou (Partiel);39
 CV;8108;Castres-2 (Partiel);6
 CV;8109;Castres-3 (Partiel);1
 CV;8110;Les Deux Rives;18
@@ -2048,18 +2048,18 @@ CV;8113;Le Haut Dadou;30
 CV;8114;Les Hautes Terres d'Oc;24
 CV;8115;Lavaur Cocagne;23
 CV;8116;Mazamet-1 (Partiel);8
-CV;8117;Mazamet-2 Vallée du Thoré (Partiel);11
+CV;8117;Mazamet-2 VallÃ©e du ThorÃ© (Partiel);11
 CV;8118;La Montagne noire;15
 CV;8119;Le Pastel;15
-CV;8120;Plaine de l'Agoût;27
+CV;8120;Plaine de l'AgoÃ»t;27
 CV;8121;Les Portes du Tarn;10
-CV;8122;Saint-Juéry;7
+CV;8122;Saint-JuÃ©ry;7
 CV;8123;Vignobles et Bastides;25
 CV;8196;Albi;1
 CV;8197;Carmaux;1
 CV;8198;Castres;1
 CV;8199;Mazamet;1
-CV;8201;Aveyron-Lère;6
+CV;8201;Aveyron-LÃ¨re;6
 CV;8202;Beaumont-de-Lomagne;32
 CV;8203;Castelsarrasin;6
 CV;8204;Garonne-Lomagne-Brulhois;29
@@ -2077,25 +2077,25 @@ CV;8302;La Crau (Partiel);5
 CV;8303;Draguignan;2
 CV;8304;Flayosc;34
 CV;8306;La Garde;3
-CV;8307;Garéoult;12
+CV;8307;GarÃ©oult;12
 CV;8309;Le Luc;11
 CV;8310;Ollioules;4
 CV;8311;Roquebrune-sur-Argens;11
 CV;8312;Saint-Cyr-sur-Mer;9
 CV;8313;Saint-Maximin-la-Sainte-Baume;19
-CV;8314;Saint-Raphaël (Partiel);2
+CV;8314;Saint-RaphaÃ«l (Partiel);2
 CV;8315;Sainte-Maxime;10
 CV;8317;La Seyne-sur-Mer-2 (Partiel);2
-CV;8318;Solliès-Pont;6
+CV;8318;SolliÃ¨s-Pont;6
 CV;8321;Toulon-3 (Partiel);2
 CV;8323;Vidauban;5
-CV;8396;Fréjus;1
-CV;8397;Hyères;1
+CV;8396;FrÃ©jus;1
+CV;8397;HyÃ¨res;1
 CV;8398;La Seyne-sur-Mer;1
 CV;8399;Toulon;1
 CV;8401;Apt;27
 CV;8404;Avignon-3 (Partiel);1
-CV;8405;Bollène;9
+CV;8405;BollÃ¨ne;9
 CV;8406;Carpentras;3
 CV;8407;Cavaillon;2
 CV;8408;Cheval-Blanc;14
@@ -2107,19 +2107,19 @@ CV;8413;Pertuis;15
 CV;8414;Le Pontet;5
 CV;8415;Sorgues;5
 CV;8416;Vaison-la-Romaine;29
-CV;8417;Valréas;4
+CV;8417;ValrÃ©as;4
 CV;8499;Avignon;1
 CV;8501;Aizenay;11
 CV;8502;Challans;15
 CV;8503;Chantonnay;16
-CV;8504;La Châtaigneraie;39
+CV;8504;La ChÃ¢taigneraie;39
 CV;8505;Fontenay-le-Comte;31
 CV;8506;Les Herbiers;14
-CV;8507;L'île-d'Yeu;1
-CV;8508;Luçon;21
+CV;8507;L'Ã®le-d'Yeu;1
+CV;8508;LuÃ§on;21
 CV;8509;Mareuil-sur-Lay-Dissais;27
 CV;8510;Montaigu;17
-CV;8511;Mortagne-sur-Sèvre;16
+CV;8511;Mortagne-sur-SÃ¨vre;16
 CV;8512;La Roche-sur-Yon-1 (Partiel);4
 CV;8513;La Roche-sur-Yon-2 (Partiel);3
 CV;8514;Les Sables-d'Olonne;3
@@ -2128,16 +2128,16 @@ CV;8516;Saint-Jean-de-Monts;14
 CV;8517;Talmont-Saint-Hilaire;23
 CV;8599;La Roche-sur-Yon;1
 CV;8601;Chasseneuil-du-Poitou;13
-CV;8602;Châtellerault-1 (Partiel);7
-CV;8603;Châtellerault-2 (Partiel);20
-CV;8604;Châtellerault-3 (Partiel);9
+CV;8602;ChÃ¢tellerault-1 (Partiel);7
+CV;8603;ChÃ¢tellerault-2 (Partiel);20
+CV;8604;ChÃ¢tellerault-3 (Partiel);9
 CV;8605;Chauvigny;15
 CV;8606;Civray;30
 CV;8607;Jaunay-Clan;8
 CV;8608;Loudun;49
 CV;8609;Lusignan;19
-CV;8610;Lussac-les-Châteaux;25
-CV;8611;Migné-Auxances;19
+CV;8610;Lussac-les-ChÃ¢teaux;25
+CV;8611;MignÃ©-Auxances;19
 CV;8612;Montmorillon;26
 CV;8613;Poitiers-1 (Partiel);3
 CV;8614;Poitiers-2 (Partiel);1
@@ -2145,12 +2145,12 @@ CV;8616;Poitiers-4 (Partiel);1
 CV;8617;Poitiers-5 (Partiel);2
 CV;8618;Vivonne;16
 CV;8619;Vouneuil-sous-Biard;15
-CV;8698;Châtellerault;1
+CV;8698;ChÃ¢tellerault;1
 CV;8699;Poitiers;1
 CV;8701;Aixe-sur-Vienne;10
 CV;8702;Ambazac;16
 CV;8703;Bellac;25
-CV;8704;Châteauponsac;32
+CV;8704;ChÃ¢teauponsac;32
 CV;8705;Condat-sur-Vienne;12
 CV;8706;Couzeix;7
 CV;8707;Eymoutiers;32
@@ -2159,38 +2159,38 @@ CV;8716;Limoges-9 (Partiel);1
 CV;8717;Panazol;2
 CV;8718;Rochechouart;22
 CV;8719;Saint-Junien;8
-CV;8720;Saint-Léonard-de-Noblat;13
+CV;8720;Saint-LÃ©onard-de-Noblat;13
 CV;8721;Saint-Yrieix-la-Perche;17
 CV;8799;Limoges;1
 CV;8801;La Bresse;15
-CV;8802;Bruyères;51
+CV;8802;BruyÃ¨res;51
 CV;8803;Charmes;52
 CV;8804;Darney;82
-CV;8805;Épinal-1 (Partiel);7
-CV;8806;Épinal-2 (Partiel);8
-CV;8807;Gérardmer;16
+CV;8805;Ã‰pinal-1 (Partiel);7
+CV;8806;Ã‰pinal-2 (Partiel);8
+CV;8807;GÃ©rardmer;16
 CV;8808;Golbey;12
 CV;8809;Mirecourt;56
-CV;8810;Neufchâteau;47
+CV;8810;NeufchÃ¢teau;47
 CV;8811;Raon-l'Etape;40
 CV;8812;Remiremont;9
-CV;8813;Saint-Dié-des-Vosges-1 (Partiel);10
-CV;8814;Saint-Dié-des-Vosges-2 (Partiel);25
+CV;8813;Saint-DiÃ©-des-Vosges-1 (Partiel);10
+CV;8814;Saint-DiÃ©-des-Vosges-2 (Partiel);25
 CV;8815;Le Thillot;10
 CV;8816;Le Val-d'Ajol;23
 CV;8817;Vittel;45
-CV;8898;Épinal;1
-CV;8899;Saint-Dié-des-Vosges;1
+CV;8898;Ã‰pinal;1
+CV;8899;Saint-DiÃ©-des-Vosges;1
 CV;8901;Auxerre-1 (Partiel);3
 CV;8902;Auxerre-2 (Partiel);6
 CV;8903;Auxerre-3 (Partiel);6
 CV;8904;Auxerre-4 (Partiel);2
 CV;8905;Avallon;27
-CV;8906;Brienon-sur-Armançon;34
+CV;8906;Brienon-sur-ArmanÃ§on;34
 CV;8907;Chablis;62
 CV;8908;Charny;20
 CV;8909;Coeur de Puisaye;24
-CV;8910;Gâtinais en Bourgogne;24
+CV;8910;GÃ¢tinais en Bourgogne;24
 CV;8911;Joigny;15
 CV;8912;Joux-la-Ville;43
 CV;8913;Migennes;10
@@ -2205,7 +2205,7 @@ CV;8921;Vincelles;36
 CV;8998;Auxerre;1
 CV;8999;Sens;1
 CV;9001;Bavilliers;5
-CV;9005;Châtenois-les-Forges;17
+CV;9005;ChÃ¢tenois-les-Forges;17
 CV;9006;Delle;16
 CV;9007;Giromagny;22
 CV;9008;Grandvillars;33
@@ -2213,32 +2213,32 @@ CV;9009;Valdoie;8
 CV;9099;Belfort;1
 CV;9101;Arpajon;16
 CV;9102;Athis-Mons;3
-CV;9103;Brétigny-sur-Orge;6
+CV;9103;BrÃ©tigny-sur-Orge;6
 CV;9104;Corbeil-Essonnes;4
 CV;9105;Dourdan;28
 CV;9106;Draveil (Partiel);4
-CV;9107;Épinay-sous-Sénart (Partiel);8
-CV;9108;Étampes;45
-CV;9109;Évry;2
+CV;9107;Ã‰pinay-sous-SÃ©nart (Partiel);8
+CV;9108;Ã‰tampes;45
+CV;9109;Ã‰vry;2
 CV;9110;Gif-sur-Yvette;12
 CV;9111;Longjumeau;8
 CV;9112;Massy;2
 CV;9113;Mennecy;28
 CV;9114;Palaiseau;3
 CV;9115;Ris-Orangis;6
-CV;9116;Sainte-Geneviève-des-Bois;4
+CV;9116;Sainte-GeneviÃ¨ve-des-Bois;4
 CV;9117;Savigny-sur-Orge;3
 CV;9118;Les Ulis;7
 CV;9119;Vigneux-sur-Seine (Partiel);2
-CV;9120;Viry-Châtillon;2
+CV;9120;Viry-ChÃ¢tillon;2
 CV;9121;Yerres (Partiel);1
 CV;9198;Brunoy;1
 CV;9199;Montgeron;1
 CV;9201;Antony;1
 CV;9203;Bagneux;2
 CV;9205;Boulogne-Billancourt-2 (Partiel);1
-CV;9206;Châtenay-Malabry;3
-CV;9207;Châtillon;2
+CV;9206;ChÃ¢tenay-Malabry;3
+CV;9207;ChÃ¢tillon;2
 CV;9208;Clamart;2
 CV;9209;Clichy;1
 CV;9211;Colombes-2 (Partiel);2
@@ -2252,7 +2252,7 @@ CV;9220;Nanterre-2 (Partiel);1
 CV;9221;Neuilly-sur-Seine;1
 CV;9222;Rueil-Malmaison;1
 CV;9223;Saint-Cloud;5
-CV;9295;Asnières-sur-Seine;1
+CV;9295;AsniÃ¨res-sur-Seine;1
 CV;9296;Boulogne-Billancourt;1
 CV;9297;Colombes;1
 CV;9298;Courbevoie;1
@@ -2264,7 +2264,7 @@ CV;9304;Le Blanc-Mesnil (Partiel);1
 CV;9305;Bobigny (Partiel);1
 CV;9306;Bondy (Partiel);2
 CV;9307;La Courneuve;3
-CV;9309;Épinay-sur-Seine (Partiel);2
+CV;9309;Ã‰pinay-sur-Seine (Partiel);2
 CV;9310;Gagny;2
 CV;9311;Livry-Gargan;2
 CV;9312;Montreuil-1 (Partiel);1
@@ -2277,7 +2277,7 @@ CV;9320;Tremblay-en-France;4
 CV;9321;Villemomble;3
 CV;9395;Bobigny;1
 CV;9396;Drancy;1
-CV;9397;Épinay-sur-Seine;1
+CV;9397;Ã‰pinay-sur-Seine;1
 CV;9398;Montreuil;1
 CV;9399;Saint-Denis;1
 CV;9401;Alfortville;1
@@ -2286,23 +2286,23 @@ CV;9404;Champigny-sur-Marne-2 (Partiel);1
 CV;9405;Charenton-le-Pont (Partiel);3
 CV;9406;Choisy-le-Roi (Partiel);1
 CV;9409;Fontenay-sous-Bois (Partiel);1
-CV;9410;L'Haÿ-les-Roses;2
+CV;9410;L'HaÃ¿-les-Roses;2
 CV;9411;Ivry-sur-Seine;1
-CV;9412;Le Kremlin-Bicêtre;2
+CV;9412;Le Kremlin-BicÃªtre;2
 CV;9413;Maisons-Alfort;1
 CV;9414;Nogent-sur-Marne (Partiel);1
 CV;9415;Orly;3
 CV;9416;Plateau briard;8
-CV;9418;Saint-Maur-des-Fossés-2 (Partiel);3
+CV;9418;Saint-Maur-des-FossÃ©s-2 (Partiel);3
 CV;9419;Thiais;3
 CV;9420;Villejuif;1
 CV;9421;Villeneuve-Saint-Georges (Partiel);2
 CV;9422;Villiers-sur-Marne;3
 CV;9423;Vincennes (Partiel);1
 CV;9493;Champigny-sur-Marne;1
-CV;9494;Créteil;1
+CV;9494;CrÃ©teil;1
 CV;9495;Nogent-sur-Marne;1
-CV;9496;Saint-Maur-des-Fossés;1
+CV;9496;Saint-Maur-des-FossÃ©s;1
 CV;9497;Villeneuve-Saint-Georges;1
 CV;9498;Vincennes;1
 CV;9499;Vitry-sur-Seine;1
@@ -2315,16 +2315,16 @@ CV;9507;Domont;11
 CV;9508;Ermont;2
 CV;9509;Fosses;24
 CV;9510;Franconville;2
-CV;9511;Garges-lès-Gonesse;2
+CV;9511;Garges-lÃ¨s-Gonesse;2
 CV;9512;Goussainville;9
 CV;9513;Herblay;3
 CV;9514;L'Isle-Adam;15
 CV;9515;Montmorency;6
 CV;9516;Pontoise;32
-CV;9517;Saint-Ouen-l'Aumône;12
+CV;9517;Saint-Ouen-l'AumÃ´ne;12
 CV;9518;Sarcelles;1
 CV;9519;Taverny;4
-CV;9520;Vauréal;40
+CV;9520;VaurÃ©al;40
 CV;9521;Villiers-le-Bel;7
 CV;9598;Argenteuil;1
 CV;9599;Cergy;1
@@ -2333,13 +2333,13 @@ CV;97107;Capesterre-Belle-Eau;1
 CV;97109;Lamentin;1
 CV;97110;Marie-Galante;3
 CV;97111;Le Moule;1
-CV;97112;Morne-à-l'Eau;1
+CV;97112;Morne-Ã -l'Eau;1
 CV;97113;Petit-Bourg (Partiel);1
 CV;97114;Petit-Canal;3
-CV;97115;Pointe-à-Pitre;1
-CV;97116;Saint-François (Partiel);2
+CV;97115;Pointe-Ã -Pitre;1
+CV;97116;Saint-FranÃ§ois (Partiel);2
 CV;97118;Sainte-Rose-1 (Partiel);2
-CV;97120;Trois-Rivières;5
+CV;97120;Trois-RiviÃ¨res;5
 CV;97121;Vieux-Habitants (Partiel);2
 CV;97193;Les Abymes;1
 CV;97194;Baie-Mahault;1
@@ -2350,19 +2350,19 @@ CV;97198;Sainte-Anne;1
 CV;97199;Sainte-Rose;1
 CV;972ZZ;Sans objet;34
 CV;973ZZ;Sans objet;22
-CV;97401;L'Étang-Salé (Partiel);2
+CV;97401;L'Ã‰tang-SalÃ© (Partiel);2
 CV;97402;Le Port;1
 CV;97403;La Possession;1
-CV;97404;Saint-André-1 (Partiel);1
-CV;97406;Saint-André-3 (Partiel);2
-CV;97407;Saint-Benoît-1 (Partiel);1
-CV;97408;Saint-Benoît-2 (Partiel);2
+CV;97404;Saint-AndrÃ©-1 (Partiel);1
+CV;97406;Saint-AndrÃ©-3 (Partiel);2
+CV;97407;Saint-BenoÃ®t-1 (Partiel);1
+CV;97408;Saint-BenoÃ®t-2 (Partiel);2
 CV;97414;Saint-Leu (Partiel);1
 CV;97416;Saint-Louis-2 (Partiel);2
 CV;97422;Saint-Pierre-3 (Partiel);1
 CV;97423;Sainte-Marie;1
-CV;97491;Saint-André;1
-CV;97492;Saint-Benoît;1
+CV;97491;Saint-AndrÃ©;1
+CV;97492;Saint-BenoÃ®t;1
 CV;97493;Saint-Denis;1
 CV;97494;Saint-Joseph;1
 CV;97495;Saint-Leu;1
@@ -2370,7 +2370,7 @@ CV;97496;Saint-Louis;1
 CV;97497;Saint-Paul;1
 CV;97498;Saint-Pierre;1
 CV;97499;Le Tampon;1
-CV;97602;Bouéni (Partiel);2
+CV;97602;BouÃ©ni (Partiel);2
 CV;97603;Dembeni (Partiel);1
 CV;97604;Dzaoudzi;1
 CV;97609;Mtsamboro (Partiel);2
@@ -2388,39 +2388,39 @@ DEP;03;Allier;318
 DEP;04;Alpes-de-Haute-Provence;199
 DEP;05;Hautes-Alpes;168
 DEP;06;Alpes-Maritimes;163
-DEP;07;Ardèche;339
+DEP;07;ArdÃ¨che;339
 DEP;08;Ardennes;457
-DEP;09;Ariège;332
+DEP;09;AriÃ¨ge;332
 DEP;10;Aube;431
 DEP;11;Aude;436
 DEP;12;Aveyron;286
-DEP;13;Bouches-du-Rhône;119
+DEP;13;Bouches-du-RhÃ´ne;119
 DEP;14;Calvados;621
 DEP;15;Cantal;255
 DEP;16;Charente;394
 DEP;17;Charente-Maritime;469
 DEP;18;Cher;290
-DEP;19;Corrèze;285
-DEP;21;Côte-d'Or;705
-DEP;22;Côtes-d'Armor;362
+DEP;19;CorrÃ¨ze;285
+DEP;21;CÃ´te-d'Or;705
+DEP;22;CÃ´tes-d'Armor;362
 DEP;23;Creuse;259
 DEP;24;Dordogne;545
 DEP;25;Doubs;585
-DEP;26;Drôme;367
+DEP;26;DrÃ´me;367
 DEP;27;Eure;617
 DEP;28;Eure-et-Loir;391
-DEP;29;Finistère;281
+DEP;29;FinistÃ¨re;281
 DEP;2A;Corse-du-Sud;124
 DEP;2B;Haute-Corse;236
 DEP;30;Gard;353
 DEP;31;Haute-Garonne;589
 DEP;32;Gers;462
 DEP;33;Gironde;540
-DEP;34;Hérault;343
+DEP;34;HÃ©rault;343
 DEP;35;Ille-et-Vilaine;351
 DEP;36;Indre;243
 DEP;37;Indre-et-Loire;277
-DEP;38;Isère;526
+DEP;38;IsÃ¨re;526
 DEP;39;Jura;528
 DEP;40;Landes;331
 DEP;41;Loir-et-Cher;283
@@ -2430,7 +2430,7 @@ DEP;44;Loire-Atlantique;212
 DEP;45;Loiret;327
 DEP;46;Lot;326
 DEP;47;Lot-et-Garonne;319
-DEP;48;Lozère;176
+DEP;48;LozÃ¨re;176
 DEP;49;Maine-et-Loire;250
 DEP;50;Manche;516
 DEP;51;Marne;617
@@ -2440,20 +2440,20 @@ DEP;54;Meurthe-et-Moselle;594
 DEP;55;Meuse;501
 DEP;56;Morbihan;256
 DEP;57;Moselle;729
-DEP;58;Nièvre;310
+DEP;58;NiÃ¨vre;310
 DEP;59;Nord;648
 DEP;60;Oise;690
 DEP;61;Orne;413
 DEP;62;Pas-de-Calais;893
-DEP;63;Puy-de-Dôme;467
-DEP;64;Pyrénées-Atlantiques;547
-DEP;65;Hautes-Pyrénées;472
-DEP;66;Pyrénées-Orientales;226
+DEP;63;Puy-de-DÃ´me;467
+DEP;64;PyrÃ©nÃ©es-Atlantiques;547
+DEP;65;Hautes-PyrÃ©nÃ©es;472
+DEP;66;PyrÃ©nÃ©es-Orientales;226
 DEP;67;Bas-Rhin;518
 DEP;68;Haut-Rhin;366
-DEP;69;Rhône;285
-DEP;70;Haute-Saône;543
-DEP;71;Saône-et-Loire;570
+DEP;69;RhÃ´ne;285
+DEP;70;Haute-SaÃ´ne;543
+DEP;71;SaÃ´ne-et-Loire;570
 DEP;72;Sarthe;368
 DEP;73;Savoie;292
 DEP;74;Haute-Savoie;290
@@ -2461,13 +2461,13 @@ DEP;75;Paris;1
 DEP;76;Seine-Maritime;718
 DEP;77;Seine-et-Marne;511
 DEP;78;Yvelines;262
-DEP;79;Deux-Sèvres;297
+DEP;79;Deux-SÃ¨vres;297
 DEP;80;Somme;782
 DEP;81;Tarn;320
 DEP;82;Tarn-et-Garonne;195
 DEP;83;Var;153
 DEP;84;Vaucluse;151
-DEP;85;Vendée;269
+DEP;85;VendÃ©e;269
 DEP;86;Vienne;280
 DEP;87;Haute-Vienne;200
 DEP;88;Vosges;510
@@ -2481,22 +2481,22 @@ DEP;95;Val-d'Oise;185
 DEP;971;Guadeloupe;32
 DEP;972;Martinique;34
 DEP;973;Guyane;22
-DEP;974;La Réunion;24
+DEP;974;La RÃ©union;24
 DEP;976;Mayotte;17
 EPCI;200000164;CC de Pange;18
-EPCI;200000172;CC Faucigny-Glières;7
+EPCI;200000172;CC Faucigny-GliÃ¨res;7
 EPCI;200000354;CC de la Louge et du Touch;14
 EPCI;200000388;CC du Sud Morvan;7
-EPCI;200000420;CC de la Vôge vers les Rives de la Moselle;11
-EPCI;200000438;CC du Pays de Pontchâteau Saint-Gildas-des-Bois;9
+EPCI;200000420;CC de la VÃ´ge vers les Rives de la Moselle;11
+EPCI;200000438;CC du Pays de PontchÃ¢teau Saint-Gildas-des-Bois;9
 EPCI;200000487;CC du Plateau de Lommoye (Ccpl);10
-EPCI;200000537;CC de la Presqu'île de Rhuys;5
+EPCI;200000537;CC de la Presqu'Ã®le de Rhuys;5
 EPCI;200000545;CC des Portes de Romilly Sur Seine;6
 EPCI;200000594;CC Entre Loire et Allier;9
 EPCI;200000610;CC le Minervois;15
-EPCI;200000628;CC Rhône Lez Provence;5
-EPCI;200000636;CC Cévenne et Montagne Ardéchoises;7
-EPCI;200000735;CC de la Viadène;6
+EPCI;200000628;CC RhÃ´ne Lez Provence;5
+EPCI;200000636;CC CÃ©venne et Montagne ArdÃ©choises;7
+EPCI;200000735;CC de la ViadÃ¨ne;6
 EPCI;200000743;CC du Nebbiu;11
 EPCI;200000800;CC Coeur de Sologne;6
 EPCI;200000925;CC de la Plaine Dijonnaise;25
@@ -2508,13 +2508,13 @@ EPCI;200001170;CC Aubrac-Lot-Causse;10
 EPCI;200004802;CC du Pays de Fayence;9
 EPCI;200005130;CC du Pays de Trie;22
 EPCI;200005932;CC des Portes de Sologne;6
-EPCI;200005957;CC de la Région de Rambervillers;30
+EPCI;200005957;CC de la RÃ©gion de Rambervillers;30
 EPCI;200006047;CC du Sud Dijonnais;9
-EPCI;200006070;CC Villeneuvois, Diège et Lot;13
-EPCI;200006393;CC du Val de Vôge;12
-EPCI;200006427;CC Sère - Garonne - Gimone;14
+EPCI;200006070;CC Villeneuvois, DiÃ¨ge et Lot;13
+EPCI;200006393;CC du Val de VÃ´ge;12
+EPCI;200006427;CC SÃ¨re - Garonne - Gimone;14
 EPCI;200006435;CC des Terrasses et Plaines des Deux Cantons;6
-EPCI;200006682;CA Beaune, Côte et Sud - Communauté Beaune-Chagny-Nolay;53
+EPCI;200006682;CA Beaune, CÃ´te et Sud - CommunautÃ© Beaune-Chagny-Nolay;53
 EPCI;200006716;CC du Nogentais;23
 EPCI;200006765;CC des Terres d'Apcher;18
 EPCI;200006781;CC Entre 2 Lacs;12
@@ -2523,33 +2523,33 @@ EPCI;200006930;CC du Haut-Allier;8
 EPCI;200006971;CC du Perche;19
 EPCI;200007052;CC de la Marche Berrichonne;9
 EPCI;200007128;CC Errobi;11
-EPCI;200007177;CC Pays de Nérondes;12
+EPCI;200007177;CC Pays de NÃ©rondes;12
 EPCI;200007425;CC du Canton de Tournay;27
 EPCI;200007433;CC du Canton de Saint-Laurent-De-Neste;18
 EPCI;200009611;CC des Portes du Comminges;24
 EPCI;200010650;CA du Grand Dole;42
-EPCI;200010700;CA Caux Vallée de Seine;41
-EPCI;200011286;CC de l'Aubrac Lozérien;6
+EPCI;200010700;CA Caux VallÃ©e de Seine;41
+EPCI;200011286;CC de l'Aubrac LozÃ©rien;6
 EPCI;200011625;CC du Pays Boulageois;26
-EPCI;200011773;CA Annemasse-Les Voirons-Agglomération;12
+EPCI;200011773;CA Annemasse-Les Voirons-AgglomÃ©ration;12
 EPCI;200011781;CC Portes du Berry Entre Loire et Val d'Aubois;12
-EPCI;200011799;CC de la Vallée de la Barousse;25
+EPCI;200011799;CC de la VallÃ©e de la Barousse;25
 EPCI;200011997;CC Authie-Maye;34
 EPCI;200012003;CC des 2 Sources;50
-EPCI;200012037;CC de l'Isle Crémieu;21
+EPCI;200012037;CC de l'Isle CrÃ©mieu;21
 EPCI;200012060;CC Petite Montagne;39
-EPCI;200012136;CC Seuil Charente Périgord;15
+EPCI;200012136;CC Seuil Charente PÃ©rigord;15
 EPCI;200012227;CC la Porte du Vignoble;10
 EPCI;200013050;CC Sauer-Pechelbronn;24
 EPCI;200015162;CC de l'Oriente;22
 EPCI;200016905;CC du Pays de Lamastre;11
-EPCI;200017341;CC Lodévois et Larzac;28
+EPCI;200017341;CC LodÃ©vois et Larzac;28
 EPCI;200017408;CC Cap Lauragais Cc du Canton de Villefranche de Lauragais;21
 EPCI;200017762;CC de la Motte-Du-Caire -Turriers;16
 EPCI;200017846;CA Etampois Sud Essonne;38
 EPCI;200018083;CC de Desvres-Samer;31
 EPCI;200018158;CC des Sources de la Tille;10
-EPCI;200018166;CC du Pays du Grésivaudan (Ccpg);46
+EPCI;200018166;CC du Pays du GrÃ©sivaudan (Ccpg);46
 EPCI;200018190;CC du Pays d'Entrevaux;6
 EPCI;200018315;CC Apcher-Margeride-Aubrac;3
 EPCI;200018323;CC du Canton de Beaugency;7
@@ -2561,70 +2561,70 @@ EPCI;200018521;CC du Val de Bouzanne;12
 EPCI;200018653;CA Cap Excellence;3
 EPCI;200019008;CC du Pays de Clerval;10
 EPCI;200022515;CC Haut Berry Val de Loire;8
-EPCI;200022812;CC Gâtine - Autize;13
-EPCI;200022846;CC du Barséquanais;30
+EPCI;200022812;CC GÃ¢tine - Autize;13
+EPCI;200022846;CC du BarsÃ©quanais;30
 EPCI;200022986;CC du Grand Pic Saint-Loup;36
-EPCI;200022994;CC de Château-Renard;9
+EPCI;200022994;CC de ChÃ¢teau-Renard;9
 EPCI;200023026;CC du Pays de Bitche;37
-EPCI;200023075;CC du Pays de Maîche;19
-EPCI;200023125;CC les Portes Briardes entre Villes et Forêts;5
+EPCI;200023075;CC du Pays de MaÃ®che;19
+EPCI;200023125;CC les Portes Briardes entre Villes et ForÃªts;5
 EPCI;200023216;CC Aubrac-Laguiole;7
 EPCI;200023240;CC Pays de Nemours;12
 EPCI;200023257;CC Sologne Bourbonnais-Nivernais;4
 EPCI;200023273;CC du Nord de l'Aube;7
-EPCI;200023281;CA Mulhouse Alsace Agglomération (M2a);33
+EPCI;200023281;CA Mulhouse Alsace AgglomÃ©ration (M2a);33
 EPCI;200023299;CC Coeur de Tarentaise;7
 EPCI;200023307;CA du Grand Villeneuvois;19
-EPCI;200023323;CC des Vallées du Cristal;18
+EPCI;200023323;CC des VallÃ©es du Cristal;18
 EPCI;200023331;CC Pontgibaud Sioule et Volcans;7
-EPCI;200023372;CC de la Vallée de Chamonix-Mont-Blanc;4
-EPCI;200023414;Métropole Rouen Normandie;71
+EPCI;200023372;CC de la VallÃ©e de Chamonix-Mont-Blanc;4
+EPCI;200023414;MÃ©tropole Rouen Normandie;71
 EPCI;200023489;CC Entre Allier et Bois Noirs;7
 EPCI;200023547;CC du Pays de Luchon;31
 EPCI;200023554;CC du Boulonnais;24
 EPCI;200023562;CC le Coeur du Pithiverais;3
 EPCI;200023620;CC de la Gascogne Toulousaine;14
 EPCI;200023695;CC Coeur Sud Oise;13
-EPCI;200023703;CC des Trois Forêts;5
+EPCI;200023703;CC des Trois ForÃªts;5
 EPCI;200023737;CA du Grand Cahors;39
 EPCI;200023778;CC du Pays de Saint Gilles-Croix-De-Vie;14
 EPCI;200023794;CC du Canton de Blaye;13
 EPCI;200023877;CC du Pays de Vernoux;7
-EPCI;200023919;CC Gâtinais Val de Loing;20
-EPCI;200024487;CC du Val d'Arly – Com'Arly;6
+EPCI;200023919;CC GÃ¢tinais Val de Loing;20
+EPCI;200024487;CC du Val d'Arly â€“ Com'Arly;6
 EPCI;200025161;CC de la Raye;5
 EPCI;200026177;CC du Chardon Lorrain;39
-EPCI;200026185;CC de la Vallée de l'Orne;5
+EPCI;200026185;CC de la VallÃ©e de l'Orne;5
 EPCI;200026482;CC Bresse Revermont;37
 EPCI;200026573;CC Haut-Jura Saint-Claude;27
-EPCI;200026722;CC du Canton de Cazères;16
+EPCI;200026722;CC du Canton de CazÃ¨res;16
 EPCI;200027001;CC du Sancerrois;17
 EPCI;200027027;CC Arc Sud Bretagne;12
 EPCI;200027035;CC Bouilly Mogne Aumont;24
 EPCI;200027068;CA du Libournais;34
 EPCI;200027076;CC Arnon Boischaut Cher;19
-EPCI;200027100;CC Méditerranée Porte des Maures;6
-EPCI;200027183;CU Perpignan Méditerranée   (Pmcu);36
-EPCI;200027217;CC Sarlat-Périgord Noir;13
+EPCI;200027100;CC MÃ©diterranÃ©e Porte des Maures;6
+EPCI;200027183;CU Perpignan MÃ©diterranÃ©e   (Pmcu);36
+EPCI;200027217;CC Sarlat-PÃ©rigord Noir;13
 EPCI;200027225;CC la Brie des Morin;21
 EPCI;200027274;CC du Coeur de la Brie;10
 EPCI;200027308;CC d'Auberive Vingeanne et Montsaugeonnais;51
-EPCI;200027399;CC Fumel Communauté;19
+EPCI;200027399;CC Fumel CommunautÃ©;19
 EPCI;200027548;CC des Savanes;4
 EPCI;200029734;CC des 4b Sud Charente;42
 EPCI;200029999;CC Rives de l'Ain - Pays du Cerdon;14
-EPCI;200030104;CC les Terres du Gâtinais;16
-EPCI;200030195;Métropole Nice Côte d'Azur;49
+EPCI;200030104;CC les Terres du GÃ¢tinais;16
+EPCI;200030195;MÃ©tropole Nice CÃ´te d'Azur;49
 EPCI;200030229;CC du Val des Mauves;8
 EPCI;200030385;CA de Blois Agglopolys;47
 EPCI;200030435;CC d'Aire-sur-l'Adour;22
 EPCI;200030518;CC Entre Somme et Loire;17
 EPCI;200030526;CC du Ried de Marckolsheim;18
-EPCI;200030559;CC du Betz et de la Cléry;15
-EPCI;200030583;CC de la Région de Haguenau;14
-EPCI;200030633;CC du Caudrésis et du Catésis;46
-EPCI;200030658;CC du Trièves;28
-EPCI;200030674;CA Val de Garonne Agglomération;43
+EPCI;200030559;CC du Betz et de la ClÃ©ry;15
+EPCI;200030583;CC de la RÃ©gion de Haguenau;14
+EPCI;200030633;CC du CaudrÃ©sis et du CatÃ©sis;46
+EPCI;200030658;CC du TriÃ¨ves;28
+EPCI;200030674;CA Val de Garonne AgglomÃ©ration;43
 EPCI;200030716;CC du Grand Roye;28
 EPCI;200032514;CC Berry-Loire-Vauvise;14
 EPCI;200033025;CA de Bar-Le-Duc - Sud Meuse;33
@@ -2632,20 +2632,20 @@ EPCI;200033090;CC Plaines et Monts de France;20
 EPCI;200033116;CC Cluses-Arve et Montagnes;10
 EPCI;200033124;CC Lintercom Lisieux-Pays d'Auge-Normandie;33
 EPCI;200033157;CA Caen la Mer;35
-EPCI;200033173;CC de la Haute Vallée de Chevreuse;10
-EPCI;200033181;CA Chartres Métropole;46
+EPCI;200033173;CC de la Haute VallÃ©e de Chevreuse;10
+EPCI;200033181;CA Chartres MÃ©tropole;46
 EPCI;200033207;CC Vierzon-Sologne-Berry;10
-EPCI;200033298;CC des Coëvrons;38
+EPCI;200033298;CC des CoÃ«vrons;38
 EPCI;200033520;CC du Brannais;15
-EPCI;200033538;CC les Avant-Monts du Centre Hérault;18
+EPCI;200033538;CC les Avant-Monts du Centre HÃ©rault;18
 EPCI;200033579;CU d'Arras;39
-EPCI;200033686;CA Reims Métropole;16
+EPCI;200033686;CA Reims MÃ©tropole;16
 EPCI;200033827;CC de Fium'orbu Castellu;12
 EPCI;200033868;CC des Ballons des Hautes-Vosges;8
 EPCI;200034023;CC Tarn-Agout;22
 EPCI;200034031;CC des Monts d'Alban et du Villefranchois;14
 EPCI;200034049;CC Centre Tarn;16
-EPCI;200034056;CC du Lautrécois et du Pays d'Agout;26
+EPCI;200034056;CC du LautrÃ©cois et du Pays d'Agout;26
 EPCI;200034064;CC du Cordais et du Causse (4 C);18
 EPCI;200034098;CC des Montagnes du Griffe;8
 EPCI;200034130;CC Gally Mauldre;11
@@ -2654,42 +2654,42 @@ EPCI;200034205;CC de la Costa Verde;23
 EPCI;200034270;CC Barr-Bernstein;20
 EPCI;200034288;CC du Pays de Marmoutier-Sommerau;7
 EPCI;200034353;CC Coeur de Puisaye;24
-EPCI;200034361;CA d'Épinal;36
-EPCI;200034379;CC Pays d'Uzès;31
-EPCI;200034411;CC du Piémont Cévenol;34
-EPCI;200034601;CC Causses Aigoual Cévennes;16
+EPCI;200034361;CA d'Ã‰pinal;36
+EPCI;200034379;CC Pays d'UzÃ¨s;31
+EPCI;200034411;CC du PiÃ©mont CÃ©venol;34
+EPCI;200034601;CC Causses Aigoual CÃ©vennes;16
 EPCI;200034635;CC du Kochersberg;23
-EPCI;200034676;CC la Ferté-Saint Michel;2
-EPCI;200034684;CC du Bassin de Neufchâteau;42
+EPCI;200034676;CC la FertÃ©-Saint Michel;2
+EPCI;200034684;CC du Bassin de NeufchÃ¢teau;42
 EPCI;200034692;CA du Gard Rhodanien;42
-EPCI;200034700;CA Durance-Lubéron-Verdon Agglomération;26
+EPCI;200034700;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;26
 EPCI;200034718;CC de Vitry, Champagne et Der;35
 EPCI;200034726;CC Bastides de Lomagne;41
 EPCI;200034817;CA Bergeracoise;27
-EPCI;200034825;CA du Grand Guéret;22
-EPCI;200034833;CC des Bastides Dordogne-Périgord;46
+EPCI;200034825;CA du Grand GuÃ©ret;22
+EPCI;200034833;CC des Bastides Dordogne-PÃ©rigord;46
 EPCI;200034841;CC du Sullias;11
-EPCI;200034874;CC Côtes de Meuse Woëvre;25
+EPCI;200034874;CC CÃ´tes de Meuse WoÃ«vre;25
 EPCI;200034882;CC Pays du Mont-Blanc;10
-EPCI;200034916;CC Asse-Bléone-Verdon;17
+EPCI;200034916;CC Asse-BlÃ©one-Verdon;17
 EPCI;200034924;CC les Portes du Poitou;17
 EPCI;200034957;CC du Frontonnais;10
-EPCI;200035020;CC de Billom - Saint-Dier / Vallée du Jauron;21
+EPCI;200035020;CC de Billom - Saint-Dier / VallÃ©e du Jauron;21
 EPCI;200035087;CA Terre de Provence;13
-EPCI;200035103;CC de la Vallée de la Haute-Sarthe;31
+EPCI;200035103;CC de la VallÃ©e de la Haute-Sarthe;31
 EPCI;200035111;CC des Sources de l'Orne;24
-EPCI;200035129;CC de Cèze Cévennes;23
+EPCI;200035129;CC de CÃ¨ze CÃ©vennes;23
 EPCI;200035137;CC Marche Occitane - Val d'Anglin;17
-EPCI;200035152;CA Alès Agglomération;50
+EPCI;200035152;CA AlÃ¨s AgglomÃ©ration;50
 EPCI;200035178;CC du Pays de Saint-Eloy;9
-EPCI;200035202;CC Charlieu-Belmont Communauté;25
+EPCI;200035202;CC Charlieu-Belmont CommunautÃ©;25
 EPCI;200035210;CC Chalaronne Centre;15
 EPCI;200035228;CC du Pays de Pont-de-Roide;11
 EPCI;200035251;CC Di E Tre Pieve : Boziu, Mercoriu E Rogna;12
 EPCI;200035269;CC Chambaran Vinay Vercors;20
-EPCI;200035319;CA Var Esterel Méditerranée (CAVEM);5
+EPCI;200035319;CA Var Esterel MÃ©diterranÃ©e (CAVEM);5
 EPCI;200035327;CC Cazals-Salviac;15
-EPCI;200035426;CC la Porte des Vallées;31
+EPCI;200035426;CC la Porte des VallÃ©es;31
 EPCI;200035434;CC les Vertes Collines du Saint-Polois;58
 EPCI;200035442;CC du Sud-Artois;58
 EPCI;200035459;CA d'Agen;31
@@ -2699,33 +2699,33 @@ EPCI;200035566;CC Portes de Puisaye Forterre;18
 EPCI;200035590;CC Pays de Coulommiers;20
 EPCI;200035632;CC Armagnac Adour;25
 EPCI;200035665;CA Seine Eure;37
-EPCI;200035699;CC du Haut-Trégor;15
-EPCI;200035707;CC Piège Lauragais Malepère;38
+EPCI;200035699;CC du Haut-TrÃ©gor;15
+EPCI;200035707;CC PiÃ¨ge Lauragais MalepÃ¨re;38
 EPCI;200035715;CA Carcassonne Agglo;73
 EPCI;200035723;CC Ventoux-Sud;11
-EPCI;200035731;CA Roannais Agglomération;40
+EPCI;200035731;CA Roannais AgglomÃ©ration;40
 EPCI;200035756;CC Astarac Arros en Gascogne;37
-EPCI;200035764;CC de la Beauce Loirétaine;23
+EPCI;200035764;CC de la Beauce LoirÃ©taine;23
 EPCI;200035772;CC du Pays du Saintois;55
-EPCI;200035780;CC Plancoët-Plélan;18
+EPCI;200035780;CC PlancoÃ«t-PlÃ©lan;18
 EPCI;200035806;CC de Hazelle en Haye;9
 EPCI;200035814;CA Flers;25
-EPCI;200035848;CC du Châtillonnais en Berry;10
+EPCI;200035848;CC du ChÃ¢tillonnais en Berry;10
 EPCI;200035855;CC Castelnaudary Lauragais Audois;43
-EPCI;200035863;CC Région Lézignanaise, Corbières et Minervois;52
-EPCI;200035871;CC des Corbières;15
+EPCI;200035863;CC RÃ©gion LÃ©zignanaise, CorbiÃ¨res et Minervois;52
+EPCI;200035871;CC des CorbiÃ¨res;15
 EPCI;200035954;CC du Grand Langres;34
 EPCI;200035970;CC Vexin Centre;35
 EPCI;200035988;CC du Canton de Tinchebray;8
-EPCI;200035996;CC des Vallées du Merlerault;16
+EPCI;200035996;CC des VallÃ©es du Merlerault;16
 EPCI;200036002;CC des Courbes de l'Orne;16
 EPCI;200036051;CC de la Conca d'Oro;4
 EPCI;200036069;CC du Bassin de Mortagne-au-Perche;33
 EPCI;200036077;CC du Golfe de Saint-Tropez;12
 EPCI;200036135;CC Coeur de France;19
-EPCI;200036150;CC des Hauts du Val de Saône;48
+EPCI;200036150;CC des Hauts du Val de SaÃ´ne;48
 EPCI;200036168;CC des Pays de l'Aigle et de la Marche;25
-EPCI;200036325;CC de la Vallée d'Abondance;6
+EPCI;200036325;CC de la VallÃ©e d'Abondance;6
 EPCI;200036358;CC de Bourmont, Breuvannes, Saint-Blin;45
 EPCI;200036366;CC Vannier Amance;34
 EPCI;200036382;CC des Coteaux de Pouyastruc;27
@@ -2733,21 +2733,21 @@ EPCI;200036457;CC Bigorre-Adour-Echez;6
 EPCI;200036465;CC Thann-Cernay;16
 EPCI;200036473;CA de Saintes;36
 EPCI;200036499;CC de Marana-Golo;10
-EPCI;200036523;CC des Bastides en Haut-Agenais Périgord;43
+EPCI;200036523;CC des Bastides en Haut-Agenais PÃ©rigord;43
 EPCI;200036549;CC Val de Gray;37
 EPCI;200036572;CC Porte d'Aquitaine en Pays de Serres;13
 EPCI;200036614;CA Sud Pays Basque;12
 EPCI;200036655;CC du Mortainais;17
-EPCI;200036721;CC du Val de Sée;27
+EPCI;200036721;CC du Val de SÃ©e;27
 EPCI;200037059;CC de la Haute Somme;60
 EPCI;200037133;CC du Provinois;40
-EPCI;200038933;CA Privas Centre Ardèche;35
+EPCI;200038933;CA Privas Centre ArdÃ¨che;35
 EPCI;200038958;CC de la Pieve de L'ornano;13
-EPCI;200038982;CC Dame Blanche et Bussière;24
-EPCI;200038990;CC de Saint-Méen Montauban;18
-EPCI;200039022;CA Vitré Communauté;46
-EPCI;200039055;CC du Sombernonnais et de la Vallée de l'Ouche;32
-EPCI;200039063;CC Forêts, Seine et Suzon;25
+EPCI;200038982;CC Dame Blanche et BussiÃ¨re;24
+EPCI;200038990;CC de Saint-MÃ©en Montauban;18
+EPCI;200039022;CA VitrÃ© CommunautÃ©;46
+EPCI;200039055;CC du Sombernonnais et de la VallÃ©e de l'Ouche;32
+EPCI;200039063;CC ForÃªts, Seine et Suzon;25
 EPCI;200039196;CC des Baronnies;23
 EPCI;200039204;CC de Lacq-Orthez;61
 EPCI;200039519;CC du Quercy Blanc;18
@@ -2756,31 +2756,31 @@ EPCI;200039634;CC du Florentinois;15
 EPCI;200039642;CC le Tonnerrois en Bourgogne;52
 EPCI;200039709;CC du Serein;39
 EPCI;200039725;CC Forterre Val d'Yonne;19
-EPCI;200039758;CC Avallon, Vézelay, Morvan;45
-EPCI;200039808;CC des Gorges de l'Ardèche;19
-EPCI;200039824;CC Ardèche des Sources et Volcans;17
-EPCI;200039832;CC Pays des Vans en Cévennes;15
+EPCI;200039758;CC Avallon, VÃ©zelay, Morvan;45
+EPCI;200039808;CC des Gorges de l'ArdÃ¨che;19
+EPCI;200039824;CC ArdÃ¨che des Sources et Volcans;17
+EPCI;200039832;CC Pays des Vans en CÃ©vennes;15
 EPCI;200039857;CA du Pays de Grasse;23
-EPCI;200039865;CA Metz Métropole;44
+EPCI;200039865;CA Metz MÃ©tropole;44
 EPCI;200039907;CC du Sud Messin;34
-EPCI;200039915;CA des Pays de Lérins;5
+EPCI;200039915;CA des Pays de LÃ©rins;5
 EPCI;200039931;CC Alpes d'Azur;34
 EPCI;200039949;CC Rives de Moselle;20
 EPCI;200039956;CC de Sarrebourg - Moselle Sud;28
-EPCI;200040004;CA du Gapençais;3
-EPCI;200040038;CC Saône Doubs Bresse;27
+EPCI;200040004;CA du GapenÃ§ais;3
+EPCI;200040038;CC SaÃ´ne Doubs Bresse;27
 EPCI;200040053;CC du Charolais;25
-EPCI;200040061;CC des Luys en Béarn;22
+EPCI;200040061;CC des Luys en BÃ©arn;22
 EPCI;200040087;CC du Tilleul et de la Bourbeuse;20
-EPCI;200040095;CC Isle Vern Salembre en Périgord;17
+EPCI;200040095;CC Isle Vern Salembre en PÃ©rigord;17
 EPCI;200040111;CC Coeur de Chartreuse;17
 EPCI;200040137;CC des Lacs de Champagne;43
-EPCI;200040178;CC de l'Outre-Forêt;13
+EPCI;200040178;CC de l'Outre-ForÃªt;13
 EPCI;200040194;CC des Feuillardiers;10
 EPCI;200040202;CC Provence Verdon;15
 EPCI;200040210;CC Lacs et Gorges du Verdon;11
 EPCI;200040244;CA du Bocage Bressuirais;38
-EPCI;200040251;CC Bassée-Montois;42
+EPCI;200040251;CC BassÃ©e-Montois;42
 EPCI;200040269;CC Vesle et Coteaux de la Montagne de Reims;17
 EPCI;200040277;CA du Pays de Dreux;78
 EPCI;200040285;CC du Grand Autunois Morvan;43
@@ -2789,122 +2789,122 @@ EPCI;200040319;CC des Monts et des Vignes;20
 EPCI;200040327;CC Entre la Grosne et le Mont Saint Vincent;26
 EPCI;200040350;CC Bugey Sud;39
 EPCI;200040384;CC Isle Double Landais;9
-EPCI;200040392;CA le Grand Périgueux;31
-EPCI;200040400;CC du Pays Ribéracois;46
+EPCI;200040392;CA le Grand PÃ©rigueux;31
+EPCI;200040400;CC du Pays RibÃ©racois;46
 EPCI;200040418;CC du Pays de Serres en Quercy;22
 EPCI;200040426;CC du Val de L'oise;32
 EPCI;200040442;CC Luberon Monts de Vaucluse;11
-EPCI;200040459;CA Montélimar-Agglomération;26
-EPCI;200040475;CC Loué - Brûlon - Noyen;29
-EPCI;200040483;CA Valence-Romans Sud Rhône-Alpes;51
-EPCI;200040491;CC Porte de Drômardèche;35
-EPCI;200040509;CC du Crestois et du Pays de Saillans Coeur de Drôme;15
-EPCI;200040541;CC Saône Beaujolais;29
-EPCI;200040558;CC Ecueillé-Valençay;19
-EPCI;200040566;CA Communauté L'ouest Rhodanien;34
-EPCI;200040574;CC Beaujolais Pierres Dorées;34
-EPCI;200040590;CA Villefranche Beaujolais Saône;21
+EPCI;200040459;CA MontÃ©limar-AgglomÃ©ration;26
+EPCI;200040475;CC LouÃ© - BrÃ»lon - Noyen;29
+EPCI;200040483;CA Valence-Romans Sud RhÃ´ne-Alpes;51
+EPCI;200040491;CC Porte de DrÃ´mardÃ¨che;35
+EPCI;200040509;CC du Crestois et du Pays de Saillans Coeur de DrÃ´me;15
+EPCI;200040541;CC SaÃ´ne Beaujolais;29
+EPCI;200040558;CC EcueillÃ©-ValenÃ§ay;19
+EPCI;200040566;CA CommunautÃ© L'ouest Rhodanien;34
+EPCI;200040574;CC Beaujolais Pierres DorÃ©es;34
+EPCI;200040590;CA Villefranche Beaujolais SaÃ´ne;21
 EPCI;200040616;CC du Pays Vernois et du Terroir de la Truffe;20
 EPCI;200040624;CC Pays d'Apt-Luberon;25
-EPCI;200040657;CC de la Matheysine du Pays de Corps et des Vallées du Valbonnais;44
+EPCI;200040657;CC de la Matheysine du Pays de Corps et des VallÃ©es du Valbonnais;44
 EPCI;200040681;CC Enclave des Papes-Pays de Grignan;19
-EPCI;200040715;Grenoble-Alpes-Métropole;49
+EPCI;200040715;Grenoble-Alpes-MÃ©tropole;49
 EPCI;200040764;CC du Sud Corse;7
-EPCI;200040772;CC du Perche & Haut Vendômois;23
-EPCI;200040780;CC Vallées Loir et Braye;26
+EPCI;200040772;CC du Perche & Haut VendÃ´mois;23
+EPCI;200040780;CC VallÃ©es Loir et Braye;26
 EPCI;200040798;CC Val Vanoise Tarentaise;10
 EPCI;200040814;CC Briance Sud Haute Vienne;11
-EPCI;200040830;CC du Pays de Fénelon;19
+EPCI;200040830;CC du Pays de FÃ©nelon;19
 EPCI;200040863;CC Val-De-Cher-Controis;29
 EPCI;200040871;CC des Deux Sevi;9
-EPCI;200040889;CC des Portes Sud Périgord;28
-EPCI;200040905;CC Carmausin-Ségala;33
-EPCI;200040947;CC de Flandre Intérieure;50
+EPCI;200040889;CC des Portes Sud PÃ©rigord;28
+EPCI;200040905;CC Carmausin-SÃ©gala;33
+EPCI;200040947;CC de Flandre IntÃ©rieure;50
 EPCI;200040954;CC des Hauts de Flandre;40
 EPCI;200041010;CC Coeur de Savoie;43
 EPCI;200041028;CC Bourbre-Tisserands;9
 EPCI;200041044;CC Hermitage-Tournonais;25
-EPCI;200041051;CC Vallée de la Dordogne et Forêt Bessède;22
-EPCI;200041150;CC du Terrassonnais en Périgord Noir Thenon Hautefort;39
-EPCI;200041168;CC de la Vallée de l'homme;26
-EPCI;200041176;CC du Périgord Vert Nontronnais;17
-EPCI;200041200;CC du Plateau de Lannemezan et des Baïses;20
+EPCI;200041051;CC VallÃ©e de la Dordogne et ForÃªt BessÃ¨de;22
+EPCI;200041150;CC du Terrassonnais en PÃ©rigord Noir Thenon Hautefort;39
+EPCI;200041168;CC de la VallÃ©e de l'homme;26
+EPCI;200041176;CC du PÃ©rigord Vert Nontronnais;17
+EPCI;200041200;CC du Plateau de Lannemezan et des BaÃ¯ses;20
 EPCI;200041218;CC du Montaigu;16
 EPCI;200041226;CC du Pays de Lourdes;18
 EPCI;200041267;CC du Val d'Adour et du Madiranais;19
 EPCI;200041283;CC de la Plaine du Rhin;19
-EPCI;200041291;CC Vère-Grésigne - Pays Salvagnacois;27
+EPCI;200041291;CC VÃ¨re-GrÃ©signe - Pays Salvagnacois;27
 EPCI;200041317;CA du Niortais;45
-EPCI;200041325;CC du Pays Rhénan;18
-EPCI;200041333;CC de Parthenay-Gâtine;39
-EPCI;200041366;CC Rhône Crussol;13
+EPCI;200041325;CC du Pays RhÃ©nan;18
+EPCI;200041333;CC de Parthenay-GÃ¢tine;39
+EPCI;200041366;CC RhÃ´ne Crussol;13
 EPCI;200041416;CC Airvaudais-Val du Thouet;10
-EPCI;200041440;CC de Domme- Villefranche du Périgord;23
+EPCI;200041440;CC de Domme- Villefranche du PÃ©rigord;23
 EPCI;200041465;CC Val Eyrieux;34
 EPCI;200041499;CC Aunis Atlantique;20
 EPCI;200041507;CA La Riviera du Levant;4
-EPCI;200041515;CC du Bassin de Pont-à-Mousson;31
+EPCI;200041515;CC du Bassin de Pont-Ã -Mousson;31
 EPCI;200041523;CC de la Haute-Saintonge;129
 EPCI;200041556;CC Portes de la Creuse en Marche;17
-EPCI;200041564;CC du Haut Périgord;11
+EPCI;200041564;CC du Haut PÃ©rigord;11
 EPCI;200041572;CC Dronne et Belle;30
 EPCI;200041606;CC Portes de France;22
 EPCI;200041614;CC Aunis Sud;27
-EPCI;200041622;CC Ardennes Thiérache;37
-EPCI;200041630;CA Charleville-Mézières/Sedan;64
+EPCI;200041622;CC Ardennes ThiÃ©rache;37
+EPCI;200041630;CA Charleville-MÃ©ziÃ¨res/Sedan;64
 EPCI;200041671;CC Intercom Risle et Charentonne;24
 EPCI;200041689;CC des Vals de Saintonge;111
-EPCI;200041721;CC de la Haute Comté;38
-EPCI;200041762;CA Rochefort Océan;25
+EPCI;200041721;CC de la Haute ComtÃ©;38
+EPCI;200041762;CA Rochefort OcÃ©an;25
 EPCI;200041788;CA du Pays Nord Martinique;18
 EPCI;200041853;CC du Pays de Montbozon et du Chanois;27
 EPCI;200041861;CC du Triangle Vert;42
-EPCI;200041879;CC Terres de Saône;38
+EPCI;200041879;CC Terres de SaÃ´ne;38
 EPCI;200041887;CC du Val Marnaysien;31
-EPCI;200041960;CC Pévèle-Carembault;38
-EPCI;200041994;CC du Haut Val de Sèvre;19
-EPCI;200042000;CC Bruyères-Vallons des Vosges;40
-EPCI;200042109;CC Fave, Meurthe, Galilée;22
+EPCI;200041960;CC PÃ©vÃ¨le-Carembault;38
+EPCI;200041994;CC du Haut Val de SÃ¨vre;19
+EPCI;200042000;CC BruyÃ¨res-Vallons des Vosges;40
+EPCI;200042109;CC Fave, Meurthe, GalilÃ©e;22
 EPCI;200042117;CC du Pays de Mirecourt;30
 EPCI;200042125;CC Terre de Granite;9
 EPCI;200042133;CC du Pays des Abbayes;20
-EPCI;200042141;CC de Saint-Dié-des-Vosges;9
-EPCI;200042174;CA Lorient Agglomération;25
+EPCI;200042141;CC de Saint-DiÃ©-des-Vosges;9
+EPCI;200042174;CA Lorient AgglomÃ©ration;25
 EPCI;200042182;CC du Mont des Avaloirs;26
 EPCI;200042190;CA de la Porte du Hainaut;46
 EPCI;200042323;CC du Mellois;25
-EPCI;200042331;CC du Piémont Vosgien;17
+EPCI;200042331;CC du PiÃ©mont Vosgien;17
 EPCI;200042349;CC du Toulois;34
 EPCI;200042372;CC des Coteaux Arrats Gimone;30
 EPCI;200042380;CC Coeur de Bresse;20
-EPCI;200042406;CC Saône, Seille, Sâne;19
+EPCI;200042406;CC SaÃ´ne, Seille, SÃ¢ne;19
 EPCI;200042414;CC Bresse Revermont 71;17
 EPCI;200042422;CC du Niolu;5
-EPCI;200042430;CC de la Vallée du Golo;17
+EPCI;200042430;CC de la VallÃ©e du Golo;17
 EPCI;200042463;CC de la Montagne Noire;24
 EPCI;200042471;CC Cideral;32
-EPCI;200042497;CC Dombes Saône Vallée;19
+EPCI;200042497;CC Dombes SaÃ´ne VallÃ©e;19
 EPCI;200042513;CC Argentan Intercom;33
 EPCI;200042596;CC du Liamone;24
 EPCI;200042604;CC de Granville, Terre et Mer;32
 EPCI;200042620;CC de Suippe et Vesle;19
 EPCI;200042646;CC Grand Orb en Languedoc;24
-EPCI;200042653;CC Sud-Hérault;17
-EPCI;200042695;CC Communauté du Bocage Coutançais;42
+EPCI;200042653;CC Sud-HÃ©rault;17
+EPCI;200042695;CC CommunautÃ© du Bocage CoutanÃ§ais;42
 EPCI;200042703;CC de l'Argonne Champenoise;60
 EPCI;200042711;CC du Coeur du Cotentin;19
 EPCI;200042729;CC de la Baie du Cotentin;34
 EPCI;200042794;CC du Nord-Champenois;12
 EPCI;200042828;CC Grand-Figeac;80
-EPCI;200042901;CC Drôme Sud Provence;14
+EPCI;200042901;CC DrÃ´me Sud Provence;14
 EPCI;200042919;CC Orezza-Ampugnani;29
 EPCI;200042927;CC Tude et Dronne;41
 EPCI;200042935;CC Haut - Bugey;36
 EPCI;200042943;CC du Cap Corse;18
-EPCI;200042976;CC Ardre et Châtillonnais;26
+EPCI;200042976;CC Ardre et ChÃ¢tillonnais;26
 EPCI;200042984;CC d'Avranches-Mont-Saint-Michel;44
 EPCI;200042992;CC Perthois-Bocage et Der;25
-EPCI;200043008;CA de Châlons-en-Champagne;38
+EPCI;200043008;CA de ChÃ¢lons-en-Champagne;38
 EPCI;200043016;CC Val de Charente;34
 EPCI;200043065;CC du Val d'Amboise;14
 EPCI;200043081;CC Chinon, Vienne et Loire;16
@@ -2912,7 +2912,7 @@ EPCI;200043123;CC Auray Quiberon Terre Atlantique;24
 EPCI;200043156;CC du Pays Rethelois;65
 EPCI;200043164;CC Val et Plateaux Bortois;10
 EPCI;200043172;CA du Bassin de Brive;48
-EPCI;200043255;CC Dinan Communauté;26
+EPCI;200043255;CC Dinan CommunautÃ©;26
 EPCI;200043263;CC Coeur de l'Avesnois;44
 EPCI;200043321;CC du Pays de Mormal;53
 EPCI;200043354;CC de Villedieu Intercom;27
@@ -2920,85 +2920,85 @@ EPCI;200043370;CA Saint-Lo Agglo;60
 EPCI;200043388;CC Fismes Ardre et Vesle;20
 EPCI;200043396;CA Maubeuge Val de Sambre;42
 EPCI;200043404;CC du Sud Avesnois;12
-EPCI;200043420;CC Côtes de Champagne et Saulx;35
-EPCI;200043438;CC de la Moivre à la Coole;25
+EPCI;200043420;CC CÃ´tes de Champagne et Saulx;35
+EPCI;200043438;CC de la Moivre Ã  la Coole;25
 EPCI;200043487;CC du Limouxin;54
 EPCI;200043495;CA du Pays de Laon;38
-EPCI;200043602;CC des Albères et de la Côte Vermeille;15
+EPCI;200043602;CC des AlbÃ¨res et de la CÃ´te Vermeille;15
 EPCI;200043610;CC du Mirebalais;12
-EPCI;200043628;CC des Vallées du Clain;16
+EPCI;200043628;CC des VallÃ©es du Clain;16
 EPCI;200043636;CC des Pays Civraisien et Charlois;21
 EPCI;200043693;CC Terre Lorraine du Longuyonnais;27
-EPCI;200043776;CC Pyrénées Audoises;62
+EPCI;200043776;CC PyrÃ©nÃ©es Audoises;62
 EPCI;200043909;CC du Pays de Saint-Flour Margeride;26
 EPCI;200043917;CA du Bassin d'Annonay;16
 EPCI;200043974;CC du Sud Gironde;30
 EPCI;200043982;CC du Bazadais;31
-EPCI;200043990;CC Vallons de Haute-Bretagne Communauté;19
+EPCI;200043990;CC Vallons de Haute-Bretagne CommunautÃ©;19
 EPCI;200044014;CC Creuse Grand Sud;26
 EPCI;200044022;CA de Cambrai;49
-EPCI;200044030;CC des Sept Vallées;69
+EPCI;200044030;CC des Sept VallÃ©es;69
 EPCI;200044048;CC Osartis Marquion;50
-EPCI;200044055;CA de Béthune Bruay Noeux et Environs;65
+EPCI;200044055;CA de BÃ©thune Bruay Noeux et Environs;65
 EPCI;200044170;CA de Saint-Dizier, Der et Blaise;39
 EPCI;200044253;CC du Bassin de Joinville en Champagne;59
-EPCI;200044394;CC du Réolais en Sud Gironde;36
+EPCI;200044394;CC du RÃ©olais en Sud Gironde;36
 EPCI;200044469;CC du Pays de Mirepoix;33
 EPCI;200044618;CA du Douaisis [C.A.D.];35
 EPCI;200044691;CA du Nord Grande Terre;5
-EPCI;200046977;Métropole de LYON;59
-EPCI;200047348;CC Causses et Vallée de la Dordogne;62
-EPCI;200047710;CC Florac - Sud Lozère;9
+EPCI;200046977;MÃ©tropole de LYON;59
+EPCI;200047348;CC Causses et VallÃ©e de la Dordogne;62
+EPCI;200047710;CC Florac - Sud LozÃ¨re;9
 EPCI;200048551;CC du Pays de Craon;37
-EPCI;200048775;CA Lannion-Trégor Communauté;38
+EPCI;200048775;CA Lannion-TrÃ©gor CommunautÃ©;38
 EPCI;200049187;CA du Grand Verdun;26
-EPCI;200049211;CC Conflent-Canigó;47
-EPCI;200049419;CC du Casaccóni È Gólu Suttanu;7
+EPCI;200049211;CC Conflent-CanigÃ³;47
+EPCI;200049419;CC du CasaccÃ³ni Ãˆ GÃ³lu Suttanu;7
 EPCI;200049484;CC Berry Grand Sud;32
 EPCI;200050532;CC de Petite-Terre;2
-EPCI;200054781;Métropole du Grand Paris;131
-EPCI;200054807;Métropole d'Aix-Marseille-Provence;92
+EPCI;200054781;MÃ©tropole du Grand Paris;131
+EPCI;200054807;MÃ©tropole d'Aix-Marseille-Provence;92
 EPCI;200055481;CC Beauce Val de Loire;33
 EPCI;200055655;CA Roissy Pays de France;42
 EPCI;200055887;CC Mayenne Communaute;33
-EPCI;200056232;CA Communauté Paris-Saclay;27
-EPCI;200056380;CA Plaine Vallée;18
-EPCI;200057859;CA Coeur d'Essonne Agglomération;21
-EPCI;200057958;CA Paris - Vallée de la Marne;12
+EPCI;200056232;CA CommunautÃ© Paris-Saclay;27
+EPCI;200056380;CA Plaine VallÃ©e;18
+EPCI;200057859;CA Coeur d'Essonne AgglomÃ©ration;21
+EPCI;200057958;CA Paris - VallÃ©e de la Marne;12
 EPCI;200058360;CC Entre Beauce et Perche;33
 EPCI;200058477;CA Val d'Yerres Val de Seine;9
 EPCI;200058485;CA Val Parisis;15
 EPCI;200058519;CA Saint Germain Boucles de Seine;20
 EPCI;200058782;CA Saint Quentin en Yvelines;12
-EPCI;200059228;CA Grand Paris Sud Seine Essonne Sénart;24
-EPCI;200059392;CC Bièvre Isère;55
-EPCI;200059400;CC Porte Océane du Limousin;13
+EPCI;200059228;CA Grand Paris Sud Seine Essonne SÃ©nart;24
+EPCI;200059392;CC BiÃ¨vre IsÃ¨re;55
+EPCI;200059400;CC Porte OcÃ©ane du Limousin;13
 EPCI;200059517;CC du Sud Nivernais;14
 EPCI;200059871;CC du Centre-Ouest;5
 EPCI;200059889;CU Grand Paris Seine et Oise;73
-EPCI;200060010;CA Mauges Communauté;6
+EPCI;200060010;CA Mauges CommunautÃ©;6
 EPCI;200060457;CA de Dembeni / Mamoudzou;2
 EPCI;200060465;CC du Nord de Mayotte;4
 EPCI;200060473;CC du Sud;4
 EPCI;240100156;CC de Montrevel - en - Bresse;14
 EPCI;240100339;CC du Canton de Saint-Trivier-de-Courtes;12
 EPCI;240100370;CC du Valromey;12
-EPCI;240100396;CC de la Vallée de l'Albarine;12
-EPCI;240100412;CC Rhône - Chartreuse de Portes;10
+EPCI;240100396;CC de la VallÃ©e de l'Albarine;12
+EPCI;240100412;CC RhÃ´ne - Chartreuse de Portes;10
 EPCI;240100578;CC du Plateau d'Hauteville;7
-EPCI;240100594;CC Val de Saône - Chalaronne;7
-EPCI;240100610;CC de la Côtière à Montluel;9
-EPCI;240100628;CA Bourg en Bresse Agglomération;15
+EPCI;240100594;CC Val de SaÃ´ne - Chalaronne;7
+EPCI;240100610;CC de la CÃ´tiÃ¨re Ã  Montluel;9
+EPCI;240100628;CA Bourg en Bresse AgglomÃ©ration;15
 EPCI;240100636;CC de Treffort en Revermont;11
 EPCI;240100651;CC du Canton de Coligny;9
 EPCI;240100669;CC des Bords de Veyle;6
 EPCI;240100677;CC du Canton de Chalamont;8
 EPCI;240100685;CC de Pont de Vaux;12
-EPCI;240100693;CC de la Vallière;9
-EPCI;240100727;CC Montmerle Trois Rivières;8
+EPCI;240100693;CC de la ValliÃ¨re;9
+EPCI;240100727;CC Montmerle Trois RiviÃ¨res;8
 EPCI;240100750;CC du Pays de Gex;27
 EPCI;240100800;CC de Miribel et du Plateau;6
-EPCI;240100818;CC du Pays de Bâgé;9
+EPCI;240100818;CC du Pays de BÃ¢gÃ©;9
 EPCI;240100826;CC du Canton de Pont-de-Veyle;12
 EPCI;240100842;CC Bresse Dombes Sud Revermont;6
 EPCI;240100875;CC Centre Dombes;13
@@ -3006,38 +3006,38 @@ EPCI;240100883;CC de la Plaine de l'Ain;33
 EPCI;240100891;CC du Pays Bellegardien (Ccpb);15
 EPCI;240200261;CA de Saint Quentin;20
 EPCI;240200428;CC des Villes d'Oyse;21
-EPCI;240200436;CC du Pays de la Vallée de l'Aisne;24
-EPCI;240200444;CC de la Thiérache du Centre;68
-EPCI;240200451;CC de la Thiérache d'Aumale;12
+EPCI;240200436;CC du Pays de la VallÃ©e de l'Aisne;24
+EPCI;240200444;CC de la ThiÃ©rache du Centre;68
+EPCI;240200451;CC de la ThiÃ©rache d'Aumale;12
 EPCI;240200469;CC du Pays de la Serre;42
 EPCI;240200477;CA du Soissonnais;28
-EPCI;240200485;CC de la Région de Guise;24
+EPCI;240200485;CC de la RÃ©gion de Guise;24
 EPCI;240200493;CC du Pays du Vermandois;54
 EPCI;240200501;CC du Val de l'Aisne;58
-EPCI;240200519;CC du Canton d'Oulchy-le-Château;26
+EPCI;240200519;CC du Canton d'Oulchy-le-ChÃ¢teau;26
 EPCI;240200527;CC du Canton de Saint-Simon (C32s);19
-EPCI;240200550;CC du Canton de Condé-en-Brie;21
+EPCI;240200550;CC du Canton de CondÃ©-en-Brie;21
 EPCI;240200568;CC de l'Ourcq et du Clignon;33
 EPCI;240200576;CC de la Champagne Picarde;48
 EPCI;240200584;CC du Canton de Charly-sur-Marne;21
 EPCI;240200592;CC du Chemin des Dames;30
-EPCI;240200600;CC du Pays des Trois Rivières;26
-EPCI;240200618;CC de la Région de Château-Thierry;25
+EPCI;240200600;CC du Pays des Trois RiviÃ¨res;26
+EPCI;240200618;CC de la RÃ©gion de ChÃ¢teau-Thierry;25
 EPCI;240200626;CC du Tardenois;20
-EPCI;240200634;CC des Portes de la Thiérache;30
+EPCI;240200634;CC des Portes de la ThiÃ©rache;30
 EPCI;240200642;CC du Val de l'Ailette;26
 EPCI;240200659;CC des Vallons d'Anizy;16
 EPCI;240200683;CC Chauny Tergnier;24
-EPCI;240200691;CC Villers-Cotterêts - Forêt de Retz;18
+EPCI;240200691;CC Villers-CotterÃªts - ForÃªt de Retz;18
 EPCI;240300418;CC de la Montagne Bourbonnaise;15
 EPCI;240300426;CA Vichy Val d'Allier;23
 EPCI;240300491;CC du Pays de Lapalisse;14
 EPCI;240300533;CC du Bassin de Gannat;16
-EPCI;240300558;CC du Pays de Tronçais;16
+EPCI;240300558;CC du Pays de TronÃ§ais;16
 EPCI;240300566;CC du Val de Cher;7
-EPCI;240300582;CC Commentry-Néris les Bains;12
-EPCI;240300590;CC de la Région de Montmarault;21
-EPCI;240300608;CA Montluçonnaise;10
+EPCI;240300582;CC Commentry-NÃ©ris les Bains;12
+EPCI;240300590;CC de la RÃ©gion de Montmarault;21
+EPCI;240300608;CA MontluÃ§onnaise;10
 EPCI;240300616;CA de Moulins;26
 EPCI;240300624;CC du Pays de Marcillat-en-Combraille;12
 EPCI;240300640;CC Val de Besbre - Sologne Bourbonnaise;16
@@ -3047,66 +3047,66 @@ EPCI;240300681;CC Sioule, Colettes et Bouble;17
 EPCI;240300699;CC en Pays Saint-Pourcinois;28
 EPCI;240300707;CC Varennes-Forterre;14
 EPCI;240300715;CC Bocage Sud;14
-EPCI;240300723;CC du Pays de Lévis en Bocage Bourbonnais;8
+EPCI;240300723;CC du Pays de LÃ©vis en Bocage Bourbonnais;8
 EPCI;240300731;CC en Bocage Bourbonnais;11
 EPCI;240300756;CC du Pays de Chevagnes en Sologne Bourbonnaise;8
 EPCI;240400010;CC du Teillon;3
 EPCI;240400135;CC du Pays de Seyne;8
-EPCI;240400275;CC Ubaye/Serre-Ponçon;2
+EPCI;240400275;CC Ubaye/Serre-PonÃ§on;2
 EPCI;240400283;CC du Sisteronais;7
 EPCI;240400291;CC de la Moyenne-Durance;8
 EPCI;240400366;CC de Haute-Provence;8
-EPCI;240400374;CC Vallée de l'Ubaye;13
+EPCI;240400374;CC VallÃ©e de l'Ubaye;13
 EPCI;240400382;CC du Moyen-Verdon;19
-EPCI;240400408;CC des Duyes et Bléone;7
+EPCI;240400408;CC des Duyes et BlÃ©one;7
 EPCI;240400440;CC Pays Forcalquier et Montagne de Lure;13
-EPCI;240400481;CC de la Vallée du Jabron;8
+EPCI;240400481;CC de la VallÃ©e du Jabron;8
 EPCI;240400499;CC du Pays de Banon;12
-EPCI;240400507;CC de Haute-Bléone;6
+EPCI;240400507;CC de Haute-BlÃ©one;6
 EPCI;240400515;CC du Haut-Verdon Val d'Allos;6
-EPCI;240400523;CC Terres de Lumière;7
-EPCI;240400531;CC Lure Vançon Durance;6
-EPCI;240500181;CC du Haut-Buëch;8
-EPCI;240500199;CC Buëch Dévoluy;12
+EPCI;240400523;CC Terres de LumiÃ¨re;7
+EPCI;240400531;CC Lure VanÃ§on Durance;6
+EPCI;240500181;CC du Haut-BuÃ«ch;8
+EPCI;240500199;CC BuÃ«ch DÃ©voluy;12
 EPCI;240500215;CC du Champsaur;15
 EPCI;240500223;CC du Queyras;8
 EPCI;240500314;CC de Tallard-Barcillonnette;12
-EPCI;240500322;CC du Canton de Ribiers Val de Méouge;6
+EPCI;240500322;CC du Canton de Ribiers Val de MÃ©ouge;6
 EPCI;240500330;CC du Haut-Champsaur;4
 EPCI;240500348;CC du Valgaudemar;8
 EPCI;240500363;CC de l'Embrunais;8
 EPCI;240500389;CC du Laragnais;7
 EPCI;240500397;CC du Serrois;10
-EPCI;240500413;CC Interdépartementale des Baronnies;15
-EPCI;240500421;CC du Pays de Serre-Ponçon;8
-EPCI;240500439;CC du Briançonnais;13
-EPCI;240500447;CC de la Vallée de l'Oule;3
-EPCI;240500454;CC du Savinois Serre-Ponçon;7
+EPCI;240500413;CC InterdÃ©partementale des Baronnies;15
+EPCI;240500421;CC du Pays de Serre-PonÃ§on;8
+EPCI;240500439;CC du BrianÃ§onnais;13
+EPCI;240500447;CC de la VallÃ©e de l'Oule;3
+EPCI;240500454;CC du Savinois Serre-PonÃ§on;7
 EPCI;240500462;CC du Pays des Ecrins;9
-EPCI;240500470;CC de la Vallée de l'Avance;9
+EPCI;240500470;CC de la VallÃ©e de l'Avance;9
 EPCI;240500488;CC du Guillestrois;8
-EPCI;240600551;CA de la Riviera Française;15
+EPCI;240600551;CA de la Riviera FranÃ§aise;15
 EPCI;240600585;CA de Sophia Antipolis;24
 EPCI;240600593;CC du Pays des Paillons;13
 EPCI;240700302;CC du Pays Beaume-Drobie;19
 EPCI;240700310;CC Pays d'Aubenas-Vals;21
 EPCI;240700617;CC Val de Ligne;11
 EPCI;240700674;CC du Vinobre;9
-EPCI;240700708;CC Rhône Helvie;5
+EPCI;240700708;CC RhÃ´ne Helvie;5
 EPCI;240700716;CC du Val d'Ay;10
-EPCI;240700757;CC Vivarhône;11
+EPCI;240700757;CC VivarhÃ´ne;11
 EPCI;240700815;CC Berg et Coiron;14
 EPCI;240700831;CC Barres Coiron;10
-EPCI;240700849;CC du Pays de Saint-Félicien;7
-EPCI;240700864;CC du Rhône Aux Gorges de l'Ardèche;9
+EPCI;240700849;CC du Pays de Saint-FÃ©licien;7
+EPCI;240700864;CC du RhÃ´ne Aux Gorges de l'ArdÃ¨che;9
 EPCI;240800821;CC Ardenne, Rives de Meuse;19
 EPCI;240800847;CC des Portes du Luxembourg;50
-EPCI;240800862;CC des Crêtes Préardennaises;94
+EPCI;240800862;CC des CrÃªtes PrÃ©ardennaises;94
 EPCI;240800920;CC de l'Argonne Ardennaise;97
 EPCI;240800946;CC Meuse et Semoy;9
-EPCI;240900266;CC des Vallées d'Ax;39
+EPCI;240900266;CC des VallÃ©es d'Ax;39
 EPCI;240900316;CC d'Auzat et du Vicdessos;10
-EPCI;240900324;CC de l'Agglomération de St-Girons;7
+EPCI;240900324;CC de l'AgglomÃ©ration de St-Girons;7
 EPCI;240900332;CC du Canton de Varilhes;18
 EPCI;240900357;CC du Canton d'Oust;8
 EPCI;240900373;CC du Canton de Massat;6
@@ -3119,19 +3119,19 @@ EPCI;240900464;CC du Pays d'Olmes;23
 EPCI;240900472;CC du Castillonais;26
 EPCI;240900480;CC du Bas Couserans;11
 EPCI;240900498;CC du Val' Couserans;9
-EPCI;240900506;CC du Volvestre Ariégeois;12
-EPCI;240900522;CC de Lèze;13
+EPCI;240900506;CC du Volvestre AriÃ©geois;12
+EPCI;240900522;CC de LÃ¨ze;13
 EPCI;240900530;CC de l'Arize;14
 EPCI;240900555;CC du Donezan;7
-EPCI;241000223;CC Forêts, Lacs, Terres en Champagne;15
-EPCI;241000256;CC de la Région de Ramerupt;15
-EPCI;241000264;CC de la Région des Riceys;7
+EPCI;241000223;CC ForÃªts, Lacs, Terres en Champagne;15
+EPCI;241000256;CC de la RÃ©gion de Ramerupt;15
+EPCI;241000264;CC de la RÃ©gion des Riceys;7
 EPCI;241000280;CC Seine Fontaine Beauregard;17
-EPCI;241000363;CC de la Région d'Arcis-Sur-Aube;17
+EPCI;241000363;CC de la RÃ©gion d'Arcis-Sur-Aube;17
 EPCI;241000371;CC de Plancy-l'abbaye;8
 EPCI;241000389;CC de Soulaines;21
 EPCI;241000397;CA Grand Troyes;19
-EPCI;241000405;CC de la Région de Bar-sur-Aube;27
+EPCI;241000405;CC de la RÃ©gion de Bar-sur-Aube;27
 EPCI;241000413;CC Seine Melda Coteaux;19
 EPCI;241000439;CC des Portes du Pays d'Othe;9
 EPCI;241000447;CC du Pays d'Othe Aixois;11
@@ -3139,15 +3139,15 @@ EPCI;241000454;CC du Val d'Armance;16
 EPCI;241000462;CC du Chaourcois;26
 EPCI;241000470;CC de l'Arce et de l'Ource;16
 EPCI;241000488;CC de l'Orvin et de l'Ardusson;25
-EPCI;241000496;CC des Rivières;17
-EPCI;241100353;CC Piémont d'Alaric;11
+EPCI;241000496;CC des RiviÃ¨res;17
+EPCI;241100353;CC PiÃ©mont d'Alaric;11
 EPCI;241100429;CC du Pays de Couiza;24
 EPCI;241100593;CA le Grand Narbonne;39
-EPCI;241200054;CC d'Entraygues Sur Truyère;5
-EPCI;241200187;CA Rodez Agglomération;8
-EPCI;241200542;CC du Réquistanais;7
+EPCI;241200054;CC d'Entraygues Sur TruyÃ¨re;5
+EPCI;241200187;CA Rodez AgglomÃ©ration;8
+EPCI;241200542;CC du RÃ©quistanais;7
 EPCI;241200567;CC de Millau Grands Causses;14
-EPCI;241200591;CC de la Vallée du Lot;7
+EPCI;241200591;CC de la VallÃ©e du Lot;7
 EPCI;241200609;CC du Canton de Laissac;5
 EPCI;241200617;CC du Carladez;6
 EPCI;241200625;CC du Pays Rignacois;8
@@ -3159,24 +3159,24 @@ EPCI;241200690;CC du Pays Baraquevillois;10
 EPCI;241200716;CC des Pays d'Olt et d'Aubrac;6
 EPCI;241200724;CC du Bassin de Decazeville Aubin;5
 EPCI;241200732;CC du Canton de Najac;7
-EPCI;241200765;CC de Lévézou Pareloup;10
+EPCI;241200765;CC de LÃ©vÃ©zou Pareloup;10
 EPCI;241200773;CC Espalion-Estaing;11
-EPCI;241200781;CC de Viaur Céor Lagast;6
+EPCI;241200781;CC de Viaur CÃ©or Lagast;6
 EPCI;241200799;CC du Naucellois;10
-EPCI;241200807;CC Aveyron Ségala Viaur;6
+EPCI;241200807;CC Aveyron SÃ©gala Viaur;6
 EPCI;241200815;CC de Bozouls Comtal;5
 EPCI;241200823;CC du Saint Affricain;10
 EPCI;241200831;CC du Pays Saint Serninois;7
 EPCI;241200849;CC Lot et Serre;5
-EPCI;241200856;CC du Rougier de Camarès;11
+EPCI;241200856;CC du Rougier de CamarÃ¨s;11
 EPCI;241200864;CC de l'Argence;2
 EPCI;241200872;CC des Sept Vallons;7
 EPCI;241200880;CC du Pays Belmontais;5
-EPCI;241200906;CC Larzac et Vallées;16
+EPCI;241200906;CC Larzac et VallÃ©es;16
 EPCI;241200914;CC de la Muse et des Raspes du Tarn;13
-EPCI;241300375;CC Vallée des Baux-Alpilles (CC VBA);10
+EPCI;241300375;CC VallÃ©e des Baux-Alpilles (CC VBA);10
 EPCI;241300417;CA d'Arles-Crau-Camargue-Montagnette;6
-EPCI;241400415;CC Coeur Côte Fleurie;11
+EPCI;241400415;CC Coeur CÃ´te Fleurie;11
 EPCI;241400514;CC du Pays de Falaise;57
 EPCI;241400548;CC d'Orival;15
 EPCI;241400555;CC de Bayeux Intercom;36
@@ -3185,24 +3185,24 @@ EPCI;241400621;CC de la Suisse Normande;30
 EPCI;241400639;CC Campagne et Baie de l'Orne (Cabalor);9
 EPCI;241400647;CC du Cingal;17
 EPCI;241400662;CC du Val de Seulles;12
-EPCI;241400670;CC de Trévières;25
+EPCI;241400670;CC de TrÃ©viÃ¨res;25
 EPCI;241400688;CC Plaine Sud de Caen;8
 EPCI;241400696;CC Entre Thue et Mue;11
-EPCI;241400712;CC Pays de Condé et de la Druance;9
+EPCI;241400712;CC Pays de CondÃ© et de la Druance;9
 EPCI;241400720;CC Isigny-Grandcamp-Intercom;21
 EPCI;241400738;CC du Pays de Livarot;3
 EPCI;241400746;CC Evrecy Orne-Odon;19
-EPCI;241400753;CC Intercom Séverine;18
+EPCI;241400753;CC Intercom SÃ©verine;18
 EPCI;241400761;CC de Cambremer;22
-EPCI;241400779;CC de la Vallée d'Auge;20
+EPCI;241400779;CC de la VallÃ©e d'Auge;20
 EPCI;241400787;CC Bessin Seulles Mer (B.S.M.);9
-EPCI;241400795;CC des Trois Rivières;14
+EPCI;241400795;CC des Trois RiviÃ¨res;14
 EPCI;241400811;CC de l'Estuaire de la Dives;6
 EPCI;241400829;CC Entre Bois et Marais;9
-EPCI;241400837;CC du Val Ès Dunes;17
+EPCI;241400837;CC du Val Ãˆs Dunes;17
 EPCI;241400845;CC Copadoz;15
 EPCI;241400860;CC Coeur de Nacre;10
-EPCI;241400878;CC Blangy-Pont-l'Evêque Intercom;35
+EPCI;241400878;CC Blangy-Pont-l'EvÃªque Intercom;35
 EPCI;241400886;CC du Pays de Honfleur;13
 EPCI;241400894;CC Aunay Caumont Intercom;21
 EPCI;241400902;CC Villers Bocage Intercom;25
@@ -3213,40 +3213,40 @@ EPCI;241500255;CC du Pays Gentiane;12
 EPCI;241500271;CC du Pays de Mauriac;11
 EPCI;241500289;CC du Pays de Montsalvy;15
 EPCI;241500917;CC du Pays de Maurs;13
-EPCI;241501014;CC du Pays de Pierrefort-Neuvéglise;13
-EPCI;241501022;CC du Cézallier;18
-EPCI;241501048;CC Cère et Rance en Châtaigneraie;11
-EPCI;241501055;CC Sumène - Artense;16
+EPCI;241501014;CC du Pays de Pierrefort-NeuvÃ©glise;13
+EPCI;241501022;CC du CÃ©zallier;18
+EPCI;241501048;CC CÃ¨re et Rance en ChÃ¢taigneraie;11
+EPCI;241501055;CC SumÃ¨ne - Artense;16
 EPCI;241501063;CC du Pays de Murat;13
-EPCI;241501071;CC de la Planèze;6
-EPCI;241501089;CC Cère et Goul en Carladès;11
-EPCI;241501097;CC Caldaguès Aubrac;11
+EPCI;241501071;CC de la PlanÃ¨ze;6
+EPCI;241501089;CC CÃ¨re et Goul en CarladÃ¨s;11
+EPCI;241501097;CC CaldaguÃ¨s Aubrac;11
 EPCI;241501139;CC du Pays de Salers;27
-EPCI;241600253;CA du Grand Angoulême (Grandangoulême);16
+EPCI;241600253;CA du Grand AngoulÃªme (GrandangoulÃªme);16
 EPCI;241600303;CC du Rouillacais;17
 EPCI;241600329;CC Braconne et Charente;7
 EPCI;241600345;CC Grand Cognac;14
 EPCI;241600352;CC de la Boixe;14
 EPCI;241600360;CC d'horte et Lavalette;13
 EPCI;241600378;CC du Pays d'Aigre;15
-EPCI;241600394;CC de la Vallée de l'Echelle;7
+EPCI;241600394;CC de la VallÃ©e de l'Echelle;7
 EPCI;241600410;CC du Confolentais;25
 EPCI;241600436;CC du Pays Manslois;27
-EPCI;241600469;CC Charente Boëme Charraud;8
+EPCI;241600469;CC Charente BoÃ«me Charraud;8
 EPCI;241600493;CC de Grande Champagne;12
-EPCI;241600519;CC de la Région de Châteauneuf;18
+EPCI;241600519;CC de la RÃ©gion de ChÃ¢teauneuf;18
 EPCI;241600527;CC Bandiat-Tardoire;14
 EPCI;241600543;CC de Jarnac;18
 EPCI;241600568;CC de Haute Charente;37
 EPCI;241700434;CA de la Rochelle;28
-EPCI;241700459;CC de l'Ile de Ré;10
+EPCI;241700459;CC de l'Ile de RÃ©;10
 EPCI;241700517;CC Charente-Arnoult-Coeur de Saintonge;18
-EPCI;241700624;CC de l'Ile d'Oléron;8
-EPCI;241700632;CC Cdc de Gémozac et de la Saintonge Viticole;16
+EPCI;241700624;CC de l'Ile d'OlÃ©ron;8
+EPCI;241700632;CC Cdc de GÃ©mozac et de la Saintonge Viticole;16
 EPCI;241700640;CA Royan Atlantique;34
 EPCI;241700699;CC du Bassin de Marennes;7
 EPCI;241800234;CC en Terres Vives;11
-EPCI;241800325;CC les Villages de la Forêt;5
+EPCI;241800325;CC les Villages de la ForÃªt;5
 EPCI;241800341;CC les Vals de Cher et d'Arnon;12
 EPCI;241800374;CC la Septaine;17
 EPCI;241800424;CC le Dunois;17
@@ -3255,7 +3255,7 @@ EPCI;241800440;CC les Hautes Terres en Haut Berry;10
 EPCI;241800457;CC Fercher Pays Florentais;9
 EPCI;241800465;CC les Terroirs d'Angillon;8
 EPCI;241800507;CA Bourges Plus;16
-EPCI;241800523;CC les Terres d'Yèvre;3
+EPCI;241800523;CC les Terres d'YÃ¨vre;3
 EPCI;241800531;CC Coeur du Pays Fort;11
 EPCI;241900133;CC de Ventadour;17
 EPCI;241927201;CA Tulle Agglo;37
@@ -3264,31 +3264,31 @@ EPCI;241927243;CC du Pays d'Uzerche;12
 EPCI;241927268;CC du Doustre et du Plateau des Etangs;7
 EPCI;241927284;CC de Bugeat-Sornac-Millevaches au Coeur;18
 EPCI;241927292;CC du Pays d'Eygurande;9
-EPCI;241927318;CC de Lubersac-Auvézère;6
+EPCI;241927318;CC de Lubersac-AuvÃ©zÃ¨re;6
 EPCI;241927334;CC des Gorges de la Haute-Dordogne;13
 EPCI;241927359;CC du Pays de Beynat;8
 EPCI;241927367;CC du Pays d'Argentat;11
-EPCI;241927375;CC de Vézère-Monédières;12
-EPCI;241927383;CC du Sud Corrézien (Sud Co);13
-EPCI;241927391;CC des Villages du Midi Corrézien;13
-EPCI;241927417;CC Ussel-Meymac, Haute-Corrèze;19
-EPCI;241927425;CC des Monédières;4
+EPCI;241927375;CC de VÃ©zÃ¨re-MonÃ©diÃ¨res;12
+EPCI;241927383;CC du Sud CorrÃ©zien (Sud Co);13
+EPCI;241927391;CC des Villages du Midi CorrÃ©zien;13
+EPCI;241927417;CC Ussel-Meymac, Haute-CorrÃ¨ze;19
+EPCI;241927425;CC des MonÃ©diÃ¨res;4
 EPCI;242000354;CA de Bastia;5
 EPCI;242000495;CC de l'Alta Rocca;16
-EPCI;242000503;CC de la Haute Vallée de la Gravona;5
+EPCI;242000503;CC de la Haute VallÃ©e de la Gravona;5
 EPCI;242010015;CC du Taravu;19
 EPCI;242010056;CA du Pays Ajaccien;10
-EPCI;242010072;CC de la Vallée du Prunelli;6
-EPCI;242010098;CC de la Côte des Nacres;3
+EPCI;242010072;CC de la VallÃ©e du Prunelli;6
+EPCI;242010098;CC de la CÃ´te des Nacres;3
 EPCI;242010130;CC du Sartenais Valinco;13
 EPCI;242020071;CC du Centre Corse;10
 EPCI;242020097;CC de la Casinca;7
 EPCI;242020105;CC de Calvi Balagne;14
 EPCI;242020113;CC du Bassin de Vie de l'Ile Rousse;5
-EPCI;242020121;CC Di E Cinque Piève Di Balagna;17
+EPCI;242020121;CC Di E Cinque PiÃ¨ve Di Balagna;17
 EPCI;242020139;CC Aghja Nova;7
 EPCI;242100030;CC du Pays d'Arnay;20
-EPCI;242100154;CC des Vallées de la Tille et de l'Ignon;23
+EPCI;242100154;CC des VallÃ©es de la Tille et de l'Ignon;23
 EPCI;242100345;CC du Sinemurien;29
 EPCI;242100410;CU Grand Dijon;24
 EPCI;242100501;CC de l'Auxois Sud;25
@@ -3297,69 +3297,69 @@ EPCI;242101285;CC du Canton de Bligny-sur-Ouche;22
 EPCI;242101301;CC du Canton de Vitteaux;28
 EPCI;242101335;CC du Mirebellois;21
 EPCI;242101343;CC de Liernais;14
-EPCI;242101350;CC du Canton de Pontailler-sur-Saône;19
+EPCI;242101350;CC du Canton de Pontailler-sur-SaÃ´ne;19
 EPCI;242101376;CC Plaine des Tilles;4
 EPCI;242101384;CC du Canton de Selongey;8
 EPCI;242101392;CC de la Butte de Thil;20
 EPCI;242101426;CC du Val de Vingeanne;11
-EPCI;242101434;CC du Pays Châtillonnais;107
+EPCI;242101434;CC du Pays ChÃ¢tillonnais;107
 EPCI;242101442;CC de Saulieu;12
-EPCI;242101459;CC du Pays d'Alésia et de la Seine;24
+EPCI;242101459;CC du Pays d'AlÃ©sia et de la Seine;24
 EPCI;242101467;CC de Gevrey-Chambertin;22
 EPCI;242101475;CC du Pays de Nuits-Saint-Georges;25
-EPCI;242101483;CC Auxonne Val de Saône;16
+EPCI;242101483;CC Auxonne Val de SaÃ´ne;16
 EPCI;242101491;CC du Montbardois;33
-EPCI;242101509;CC Rives de Saône, CC Saint Jean de Losne Seurre;38
-EPCI;242200517;CA Saint-Brieuc Agglomération Baie d'Armor (Sbaba);13
-EPCI;242200533;CC Lamballe Communauté;16
-EPCI;242200566;CC Guingamp Communauté;6
+EPCI;242101509;CC Rives de SaÃ´ne, CC Saint Jean de Losne Seurre;38
+EPCI;242200517;CA Saint-Brieuc AgglomÃ©ration Baie d'Armor (Sbaba);13
+EPCI;242200533;CC Lamballe CommunautÃ©;16
+EPCI;242200566;CC Guingamp CommunautÃ©;6
 EPCI;242200574;CC Centre Armor Puissance 4;3
-EPCI;242200582;CC Hardouinais Mené;9
-EPCI;242200590;CC Pontrieux Communauté;7
+EPCI;242200582;CC Hardouinais MenÃ©;9
+EPCI;242200590;CC Pontrieux CommunautÃ©;7
 EPCI;242200608;CC du Pays de Caulnes;8
-EPCI;242200616;CC Quintin Communauté;10
+EPCI;242200616;CC Quintin CommunautÃ©;10
 EPCI;242200632;CC Arguenon Hunaudaye;5
 EPCI;242200640;CC Lanvollon Plouha;15
 EPCI;242200673;CC du Pays de Duguesclin;9
 EPCI;242200699;CC du Pays de Moncontour de Bretagne;6
 EPCI;242200715;CC du Kreiz-Breizh (Cckb);25
 EPCI;242200723;CC de Bourbriac;10
-EPCI;242200764;CC le Leff Communauté;13
-EPCI;242200780;CC Rance-Frémur;4
-EPCI;242200848;CC Sud-Goëlo;6
+EPCI;242200764;CC le Leff CommunautÃ©;13
+EPCI;242200780;CC Rance-FrÃ©mur;4
+EPCI;242200848;CC Sud-GoÃ«lo;6
 EPCI;242200855;CC du Pays de Belle-Isle-en-Terre;7
-EPCI;242214294;CC Paimpol Goëlo;9
+EPCI;242214294;CC Paimpol GoÃ«lo;9
 EPCI;242214344;CC du Pays de Matignon;9
-EPCI;242214393;CC du Pays de Bégard;7
-EPCI;242214427;CC Côte de Penthièvre;6
-EPCI;242214443;CC de la Presqu'île de Lézardrieux;7
+EPCI;242214393;CC du Pays de BÃ©gard;7
+EPCI;242214427;CC CÃ´te de PenthiÃ¨vre;6
+EPCI;242214443;CC de la Presqu'Ã®le de LÃ©zardrieux;7
 EPCI;242214450;CC Callac Argoat;11
 EPCI;242300101;CC du Pays Creuse - Thaurion - Gartempe;27
 EPCI;242300127;CC Auzances Bellegarde;26
 EPCI;242300135;CC du Pays Sostranien;10
 EPCI;242303139;CC du Pays de Boussac;15
-EPCI;242320000;CC de Bénévent Grand Bourg;17
+EPCI;242320000;CC de BÃ©nÃ©vent Grand Bourg;17
 EPCI;242320018;CC du Carrefour des Quatre Provinces;15
-EPCI;242320034;CC Bourganeuf Royère de Vassivière;20
+EPCI;242320034;CC Bourganeuf RoyÃ¨re de VassiviÃ¨re;20
 EPCI;242320067;CC du Haut Pays Marchois;13
 EPCI;242320075;CC des Sources de la Creuse;11
-EPCI;242320083;CC d'Evaux-les-Bains – Chambon-sur-Voueize;13
-EPCI;242320091;CC de Chénérailles;10
+EPCI;242320083;CC d'Evaux-les-Bains â€“ Chambon-sur-Voueize;13
+EPCI;242320091;CC de ChÃ©nÃ©railles;10
 EPCI;242320109;CC du Pays Dunois;17
 EPCI;242400752;CC du Pays de Jumilhac-le-Grand;9
 EPCI;242400935;CC du Pays de Saint-Aulaye;8
 EPCI;242401024;CC du Pays de Lanouaille;11
-EPCI;242401065;CC du Pays Thibérien;14
+EPCI;242401065;CC du Pays ThibÃ©rien;14
 EPCI;242401107;CC du Pays de Villamblard;17
-EPCI;242401222;CC du Mussidanais en Périgord;11
+EPCI;242401222;CC du Mussidanais en PÃ©rigord;11
 EPCI;242401255;CC des Coteaux de Sigoules;11
-EPCI;242401289;CC Causses et Rivières en Périgord;20
-EPCI;242500320;CC de Montbenoît;16
+EPCI;242401289;CC Causses et RiviÃ¨res en PÃ©rigord;20
+EPCI;242500320;CC de MontbenoÃ®t;16
 EPCI;242500338;CC du Grand Pontarlier;10
-EPCI;242500361;CA du Grand Besançon;57
+EPCI;242500361;CA du Grand BesanÃ§on;57
 EPCI;242500379;CC Amancey-Loue-Lison;20
 EPCI;242500619;CC des Isles du Doubs;21
-EPCI;242503886;CA du Pays de Montbéliard;29
+EPCI;242503886;CA du Pays de MontbÃ©liard;29
 EPCI;242504116;CC du Val de Morteau;8
 EPCI;242504181;CC du Pays de Pierrefontaine - Vercel;44
 EPCI;242504207;CC du Pays d'Ornans;22
@@ -3368,7 +3368,7 @@ EPCI;242504280;CC du Pays de Rougemont;25
 EPCI;242504330;CC du Canton de Quingey;34
 EPCI;242504348;CC des Hauts du Doubs;13
 EPCI;242504355;CC du Plateau de Russey;17
-EPCI;242504363;CC de la Vallée du Rupt;13
+EPCI;242504363;CC de la VallÃ©e du Rupt;13
 EPCI;242504371;CC du Vallon de Sancey;17
 EPCI;242504389;CC des Trois Cantons;11
 EPCI;242504397;CC de Saint Hippolyte;20
@@ -3379,7 +3379,7 @@ EPCI;242504462;CC des Balcons du Lomont;12
 EPCI;242504470;CC Entre Dessoubre et Barbeche;14
 EPCI;242504488;CC Altitude 800;11
 EPCI;242504496;CC du Plateau de Frasne et du Val de Drugeon (Cfd);10
-EPCI;242600252;CC du Val de Drôme;30
+EPCI;242600252;CC du Val de DrÃ´me;30
 EPCI;242600492;CC Dieulefit-Bourdeaux;21
 EPCI;242600534;CC du Diois;51
 EPCI;242600542;CC du Vercors;5
@@ -3388,7 +3388,7 @@ EPCI;242600575;CC du Pays du Buis-les-Baronnies;21
 EPCI;242600583;CC le Pays du Royans;13
 EPCI;242600591;CC du Val d'Eygues;20
 EPCI;242600641;CC des Hautes-Baronnies;12
-EPCI;242600658;CC du Pays de Rémuzat;14
+EPCI;242600658;CC du Pays de RÃ©muzat;14
 EPCI;242700276;CC du Pays de Conches;27
 EPCI;242700284;CC de l'Andelle;19
 EPCI;242700292;CC du Roumois Nord;19
@@ -3399,19 +3399,19 @@ EPCI;242700359;CC de Quillebeuf-sur-Seine;13
 EPCI;242700367;CC de Pont-Audemer;14
 EPCI;242700375;CC du Canton de Rugles;16
 EPCI;242700383;CC d'Amfreville la Campagne;20
-EPCI;242700417;CC du Canton de Lyons la Forêt;13
+EPCI;242700417;CC du Canton de Lyons la ForÃªt;13
 EPCI;242700425;CC du Canton de Thiberville;21
 EPCI;242700433;CC du Canton de Cormeilles;11
-EPCI;242700441;CC du Canton d'Etrépagny;20
+EPCI;242700441;CC du Canton d'EtrÃ©pagny;20
 EPCI;242700466;CC du Canton de Broglie;20
 EPCI;242700474;CC Val de Risle;14
 EPCI;242700490;CC du Pays de Verneuil-sur-Avre;17
 EPCI;242700508;CC Intercom du Pays Brionnais;23
 EPCI;242700516;CC Epte - Vexin - Seine;7
-EPCI;242700524;CC du Vièvre-Lieuvin;14
+EPCI;242700524;CC du ViÃ¨vre-Lieuvin;14
 EPCI;242700557;CC Rurales du Sud de l'Eure;12
 EPCI;242700565;CC la Porte Normande;25
-EPCI;242700573;CA Grand Evreux Agglomération;37
+EPCI;242700573;CA Grand Evreux AgglomÃ©ration;37
 EPCI;242700581;CC de Bernay et des Environs;14
 EPCI;242700599;CC du Canton de Beuzeville;16
 EPCI;242700607;CC du Pays du Neubourg;34
@@ -3419,112 +3419,112 @@ EPCI;242700615;CC du Canton de Breteuil-Sur-Iton;7
 EPCI;242700623;CC Eure-Madrie-Seine;19
 EPCI;242700631;CC des Andelys et de Ses Environs;21
 EPCI;242700649;CA des Portes de l'Eure;41
-EPCI;242700656;CC Gisors Epte Lévrière;16
-EPCI;242800290;CC de la Beauce d'Orgères;17
-EPCI;242852309;CC de l'Orée du Perche;8
+EPCI;242700656;CC Gisors Epte LÃ©vriÃ¨re;16
+EPCI;242800290;CC de la Beauce d'OrgÃ¨res;17
+EPCI;242852309;CC de l'OrÃ©e du Perche;8
 EPCI;242852416;CC du Val Drouette;5
-EPCI;242852424;CC des Trois Rivières;15
-EPCI;242852432;CC des Terrasses et Vallées de Maintenon;10
+EPCI;242852424;CC des Trois RiviÃ¨res;15
+EPCI;242852432;CC des Terrasses et VallÃ©es de Maintenon;10
 EPCI;242852465;CC du Bonnevalais;21
-EPCI;242852499;CC de la Beauce Vovéenne;15
+EPCI;242852499;CC de la Beauce VovÃ©enne;15
 EPCI;242852515;CC du Perche Senonchois;7
-EPCI;242852531;CC de la Beauce Alnéloise;22
+EPCI;242852531;CC de la Beauce AlnÃ©loise;22
 EPCI;242852549;CC des Portes du Perche;13
-EPCI;242852564;CC du Perche Gouët;16
-EPCI;242852572;CC des Quatre Vallées;12
-EPCI;242852580;CC des Plaines et Vallées Dunoises;12
+EPCI;242852564;CC du Perche GouÃ«t;16
+EPCI;242852572;CC des Quatre VallÃ©es;12
+EPCI;242852580;CC des Plaines et VallÃ©es Dunoises;12
 EPCI;242852598;CC du Dunois;5
 EPCI;242852606;CC du Val de Voise;6
 EPCI;242852614;CC de la Beauce de Janville;19
 EPCI;242852630;CC du Perche Thironnais;10
 EPCI;242900074;CC du Pays d'Iroise;20
-EPCI;242900314;Brest Métropole;8
+EPCI;242900314;Brest MÃ©tropole;8
 EPCI;242900553;CC du Pays des Abers;13
 EPCI;242900561;CC de Haute-Cornouaille;11
 EPCI;242900629;CC Cap Sizun - Pointe du Raz;10
 EPCI;242900637;CC du Yeun Elez;8
-EPCI;242900645;CC Douarnenez Communauté;5
+EPCI;242900645;CC Douarnenez CommunautÃ©;5
 EPCI;242900652;CC du Pays Glazik;5
 EPCI;242900660;CC du Pays Fouesnantais;7
-EPCI;242900694;CA du Pays de Quimperlé;16
+EPCI;242900694;CA du Pays de QuimperlÃ©;16
 EPCI;242900702;CC du Pays Bigouden Sud;12
 EPCI;242900710;CC du Haut Pays Bigouden;10
-EPCI;242900728;CA Quimper Communauté;8
+EPCI;242900728;CA Quimper CommunautÃ©;8
 EPCI;242900736;CC de la Baie du Kernic;6
-EPCI;242900744;CC Poher Communauté;11
+EPCI;242900744;CC Poher CommunautÃ©;11
 EPCI;242900751;CC du Pays de Landivisiau;19
-EPCI;242900769;CA Concarneau Cornouaille Agglomération;9
-EPCI;242900777;CC du Pays Léonard;8
-EPCI;242900785;CC des Monts d'Arrée;5
-EPCI;242900793;CC Pays de Lesneven et Côte des Légendes;15
+EPCI;242900769;CA Concarneau Cornouaille AgglomÃ©ration;9
+EPCI;242900777;CC du Pays LÃ©onard;8
+EPCI;242900785;CC des Monts d'ArrÃ©e;5
+EPCI;242900793;CC Pays de Lesneven et CÃ´te des LÃ©gendes;15
 EPCI;242900801;CC du Pays de Landerneau-Daoulas;22
-EPCI;242900827;CC de la Presqu'île de Crozon;7
-EPCI;242900835;CA Morlaix Communauté;27
-EPCI;242913309;CC de la Région de Pleyben;6
+EPCI;242900827;CC de la Presqu'Ã®le de Crozon;7
+EPCI;242900835;CA Morlaix CommunautÃ©;27
+EPCI;242913309;CC de la RÃ©gion de Pleyben;6
 EPCI;242913317;CC de l'Aulne Maritime;4
-EPCI;242913325;CC du Pays de Châteaulin et du Porzay;11
+EPCI;242913325;CC du Pays de ChÃ¢teaulin et du Porzay;11
 EPCI;243000270;CC du Pays Viganais;22
-EPCI;243000296;CC du Pays de Sommières;17
-EPCI;243000452;CC Vivre en Cévennes;7
-EPCI;243000528;CC des Hautes-Cévennes;9
-EPCI;243000536;CC de la Côte du Rhône Gardoise;3
+EPCI;243000296;CC du Pays de SommiÃ¨res;17
+EPCI;243000452;CC Vivre en CÃ©vennes;7
+EPCI;243000528;CC des Hautes-CÃ©vennes;9
+EPCI;243000536;CC de la CÃ´te du RhÃ´ne Gardoise;3
 EPCI;243000551;CC du Pays Grand Combien;9
 EPCI;243000569;CC Rhony, Vistre, Vidourle;10
 EPCI;243000585;CC Beaucaire Terre d'Argence;5
 EPCI;243000593;CC de Petite Camargue;5
-EPCI;243000643;CA de Nîmes Métropole;27
+EPCI;243000643;CA de NÃ®mes MÃ©tropole;27
 EPCI;243000650;CC Terre de Camargue;3
 EPCI;243000684;CC du Pont du Gard;17
 EPCI;243000742;CC Leins Gardonnenque;14
 EPCI;243100179;CC Coteaux du Lauragais Sud (Co.Laur.Sud);10
 EPCI;243100377;CC du Canton de Saint-Martory;12
-EPCI;243100518;Toulouse Métropole;37
-EPCI;243100542;CC de la Vallée de l'Ariège;14
+EPCI;243100518;Toulouse MÃ©tropole;37
+EPCI;243100542;CC de la VallÃ©e de l'AriÃ¨ge;14
 EPCI;243100567;CC Lauragais Revel Sorezois;27
-EPCI;243100609;CC des Trois Vallées;21
+EPCI;243100609;CC des Trois VallÃ©es;21
 EPCI;243100633;CA du Sicoval;36
-EPCI;243100641;CC Nebouzan-Rivière-Verdun;17
+EPCI;243100641;CC Nebouzan-RiviÃ¨re-Verdun;17
 EPCI;243100658;CC du Volvestre;28
-EPCI;243100682;CC de Lèze Ariège Garonne;5
+EPCI;243100682;CC de LÃ¨ze AriÃ¨ge Garonne;5
 EPCI;243100690;CA du Muretain;16
 EPCI;243100708;CC Axe Sud;4
 EPCI;243100716;CC de Garonne - Louge;4
 EPCI;243100724;CC du Haut-Comminges;24
 EPCI;243100732;CC des Coteaux du Girou;18
 EPCI;243100765;CC des Terres d'Aurignac;19
-EPCI;243100773;CC Val'Aïgo;8
+EPCI;243100773;CC Val'AÃ¯go;8
 EPCI;243100781;CC de la Save Au Touch;8
 EPCI;243100799;CC du Saint-Gaudinois;21
 EPCI;243100815;CC des Coteaux Bellevue;7
-EPCI;243100849;CC du Canton de Saint-Béat;22
+EPCI;243100849;CC du Canton de Saint-BÃ©at;22
 EPCI;243100856;CC des Coteaux de Cadours;16
 EPCI;243100864;CC de Save et Garonne;13
-EPCI;243100872;CC Rurales des Coteaux du Savès et de l'Aussonnelle;6
+EPCI;243100872;CC Rurales des Coteaux du SavÃ¨s et de l'Aussonnelle;6
 EPCI;243100880;CC Coeur Lauragais;27
-EPCI;243100898;CC du Savès;18
+EPCI;243100898;CC du SavÃ¨s;18
 EPCI;243200300;CC Val de Gers;36
 EPCI;243200391;CC de la Lomagne Gersoise;43
 EPCI;243200409;CC du Bas Armagnac;26
-EPCI;243200417;CC de la Tenarèze;26
+EPCI;243200417;CC de la TenarÃ¨ze;26
 EPCI;243200425;CC Coeur d'Astarac en Gascogne;19
 EPCI;243200458;CC du Grand Armagnac;25
 EPCI;243200508;CC Bastides et Vallons du Gers;30
-EPCI;243200516;CC des Hautes Vallées;9
-EPCI;243200540;CA du Grand Auch Agglomération;15
+EPCI;243200516;CC des Hautes VallÃ©es;9
+EPCI;243200540;CA du Grand Auch AgglomÃ©ration;15
 EPCI;243200565;CC Coeur de Gascogne;19
 EPCI;243200599;CC du Saves;32
 EPCI;243200607;CC Artagnan de Fezensac;25
-EPCI;243300316;Bordeaux Métropole;28
-EPCI;243300563;CA Bassin d'Arcachon Sud-Pôle Atlantique (Cobas);4
-EPCI;243300738;CC de la Pointe du Médoc;11
+EPCI;243300316;Bordeaux MÃ©tropole;28
+EPCI;243300563;CA Bassin d'Arcachon Sud-PÃ´le Atlantique (Cobas);4
+EPCI;243300738;CC de la Pointe du MÃ©doc;11
 EPCI;243300811;CC de l'Estuaire - Canton de Saint Ciers Sur Gironde;11
-EPCI;243300837;CC du Centre Médoc;8
+EPCI;243300837;CC du Centre MÃ©doc;8
 EPCI;243300894;CC du Canton de Bourg;15
 EPCI;243301124;CC du Sauveterrois;32
 EPCI;243301165;CC Jalle-Eau-Bourde;3
 EPCI;243301173;CC du Vallon de l'Artolie;9
 EPCI;243301181;CC Latitude Nord Gironde;16
-EPCI;243301215;CC du Créonnais;13
+EPCI;243301215;CC du CrÃ©onnais;13
 EPCI;243301223;CC du Cubzaguais;8
 EPCI;243301249;CC du Secteur de Saint-Loubes;6
 EPCI;243301264;CC de Montesquieu;13
@@ -3532,19 +3532,19 @@ EPCI;243301298;CC du Canton de Targon;19
 EPCI;243301322;CC du Sud-Libournais;5
 EPCI;243301355;CC des Coteaux Bordelais;8
 EPCI;243301371;CC du Pays Foyen;20
-EPCI;243301389;CC Médullienne;10
+EPCI;243301389;CC MÃ©dullienne;10
 EPCI;243301397;CC du Canton de Fronsac;18
 EPCI;243301405;CC du Val de l'Eyre;5
-EPCI;243301413;CC des Lacs Médocains;3
-EPCI;243301421;CC Coeur du Médoc;11
+EPCI;243301413;CC des Lacs MÃ©docains;3
+EPCI;243301421;CC Coeur du MÃ©doc;11
 EPCI;243301439;CC des Portes de l'Entre-deux-Mers;7
-EPCI;243301447;CC Médoc Estuaire;11
+EPCI;243301447;CC MÃ©doc Estuaire;11
 EPCI;243301454;CC Castillon/Pujols;23
 EPCI;243301462;CC des Coteaux Macariens;14
 EPCI;243301470;CC des Coteaux de Garonne;9
 EPCI;243301504;CC du Bassin d'Arcachon Nord Atlantique (Coban Atlantique);8
 EPCI;243301538;CC de Podensac;13
-EPCI;243400017;Montpellier Méditerranée Métropole;31
+EPCI;243400017;Montpellier MÃ©diterranÃ©e MÃ©tropole;31
 EPCI;243400355;CC du Clermontais;21
 EPCI;243400389;CC de la Montagne du Haut Languedoc;8
 EPCI;243400470;CA du Pays de l'Or;8
@@ -3552,97 +3552,97 @@ EPCI;243400488;CC la Domitienne;8
 EPCI;243400520;CC du Pays de Lunel;15
 EPCI;243400553;CC du Pays Saint-Ponais;9
 EPCI;243400629;CC Orb et Jaur;12
-EPCI;243400694;CC Vallée de l'hérault;28
+EPCI;243400694;CC VallÃ©e de l'hÃ©rault;28
 EPCI;243400710;CC Orb et Taurou;5
 EPCI;243400728;CC du Pays de Thongue;7
-EPCI;243400736;CC des Cévennes Gangeoises et Suménoises;13
+EPCI;243400736;CC des CÃ©vennes Gangeoises et SumÃ©noises;13
 EPCI;243400751;CC du Nord du Bassin de Thau;6
-EPCI;243400769;CA de Béziers-Méditerranée;13
-EPCI;243400819;CA Hérault-Méditerranée;19
+EPCI;243400769;CA de BÃ©ziers-MÃ©diterranÃ©e;13
+EPCI;243400819;CA HÃ©rault-MÃ©diterranÃ©e;19
 EPCI;243400827;CA du Bassin de Thau;8
-EPCI;243500139;Rennes Métropole;43
-EPCI;243500147;CC Fougères Communauté;18
-EPCI;243500501;CC Coglais Communauté Marches de Bretagne;11
-EPCI;243500535;CC Louvigné Communauté;8
-EPCI;243500543;CC Antrain Communauté;10
-EPCI;243500550;CC Montfort Communauté;8
-EPCI;243500576;CC Baie du Mont Saint Michel - Porte de la Bretagne - Canton de Pleine Fougères;11
+EPCI;243500139;Rennes MÃ©tropole;43
+EPCI;243500147;CC FougÃ¨res CommunautÃ©;18
+EPCI;243500501;CC Coglais CommunautÃ© Marches de Bretagne;11
+EPCI;243500535;CC LouvignÃ© CommunautÃ©;8
+EPCI;243500543;CC Antrain CommunautÃ©;10
+EPCI;243500550;CC Montfort CommunautÃ©;8
+EPCI;243500576;CC Baie du Mont Saint Michel - Porte de la Bretagne - Canton de Pleine FougÃ¨res;11
 EPCI;243500592;CC du Pays de Saint Aubin du Cormier;11
-EPCI;243500618;CC de Brocéliande;8
-EPCI;243500634;CC Au Pays de la Roche Aux Fées;16
+EPCI;243500618;CC de BrocÃ©liande;8
+EPCI;243500634;CC Au Pays de la Roche Aux FÃ©es;16
 EPCI;243500642;CC de Moyenne Vilaine et Semnon;16
-EPCI;243500659;CC du Pays de Châteaugiron;8
+EPCI;243500659;CC du Pays de ChÃ¢teaugiron;8
 EPCI;243500667;CC du Val d'Ille;10
-EPCI;243500675;CC du Pays d'Aubigné;10
+EPCI;243500675;CC du Pays d'AubignÃ©;10
 EPCI;243500691;CC du Pays de Dol de Bretagne et de la Baie du Mont Saint Michel;8
 EPCI;243500709;CC du Pays du Grand Fougeray;4
-EPCI;243500725;CC Côte d'Emeraude;10
+EPCI;243500725;CC CÃ´te d'Emeraude;10
 EPCI;243500733;CC Bretagne Romantique;27
 EPCI;243500741;CC du Pays de Redon;30
-EPCI;243500774;CC du Pays de Liffré;5
-EPCI;243500782;CA du Pays de Saint Malo - Saint Malo Agglomération;18
+EPCI;243500774;CC du Pays de LiffrÃ©;5
+EPCI;243500782;CA du Pays de Saint Malo - Saint Malo AgglomÃ©ration;18
 EPCI;243600202;CC Chabris - Pays de Bazelle;10
 EPCI;243600210;CC du Canton de Vatan;14
 EPCI;243600228;CC du Pays d'Argenton-sur-Creuse;13
 EPCI;243600236;CC du Pays d'Issoudun;12
-EPCI;243600293;CC de la Région de Levroux;11
+EPCI;243600293;CC de la RÃ©gion de Levroux;11
 EPCI;243600301;CC Val de l'Indre - Brenne;12
 EPCI;243600319;CC Brenne - Val de Creuse;28
-EPCI;243600327;CA Châteauroux Métropole;14
+EPCI;243600327;CA ChÃ¢teauroux MÃ©tropole;14
 EPCI;243600343;CC Coeur de Brenne;11
-EPCI;243600350;CC de la Châtre et Sainte-Sévère;30
+EPCI;243600350;CC de la ChÃ¢tre et Sainte-SÃ©vÃ¨re;30
 EPCI;243600368;CC de Champagne Berrichonne;16
 EPCI;243700432;CC de Gatine et Choisilles;10
-EPCI;243700465;CC Loches Développement;20
+EPCI;243700465;CC Loches DÃ©veloppement;20
 EPCI;243700499;CC du Castelrenaudais;16
 EPCI;243700663;CC Touraine Nord Ouest;23
 EPCI;243700697;CC du Pays de Richelieu;16
 EPCI;243700747;CC de l'Est Tourangeau;5
 EPCI;243700754;CA Tours (Plus);22
-EPCI;243700770;CC de Montrésor;10
+EPCI;243700770;CC de MontrÃ©sor;10
 EPCI;243700788;CC du Vouvrillon;5
 EPCI;243700796;CC du Pays d'Azay-Le-Rideau;12
 EPCI;243700804;CC du Val de l'Indre;8
 EPCI;243700812;CC de la Touraine du Sud;21
-EPCI;243700820;CC de Bléré Val de Cher;15
+EPCI;243700820;CC de BlÃ©rÃ© Val de Cher;15
 EPCI;243700861;CC du Pays de Bourgueil;9
 EPCI;243700887;CC de Racan;10
 EPCI;243700895;CC du Grand Ligueillois;17
 EPCI;243700911;CC du Bouchardais;15
 EPCI;243700929;CC de Sainte-Maure-de-Touraine;13
-EPCI;243800091;CC de la Vallée de l'hien;8
+EPCI;243800091;CC de la VallÃ©e de l'hien;8
 EPCI;243800372;CC les Vallons de la Tour;10
 EPCI;243800455;CA Viennagglo;18
-EPCI;243800604;CA Porte de l'Isère (C.A.P.I);22
+EPCI;243800604;CA Porte de l'IsÃ¨re (C.A.P.I);22
 EPCI;243800612;CC du Pays des Couleurs;19
 EPCI;243800745;CC de l'Oisans;20
 EPCI;243800778;CC du Pays Roussillonnais;22
 EPCI;243800844;CC du Territoire de Beaurepaire;15
-EPCI;243800935;CC Porte Dauphinoise de Lyon Saint-Exupéry;6
+EPCI;243800935;CC Porte Dauphinoise de Lyon Saint-ExupÃ©ry;6
 EPCI;243800984;CA du Pays Voironnais;34
 EPCI;243801024;CC du Massif du Vercors;6
-EPCI;243801073;CC de Bièvre Est;14
+EPCI;243801073;CC de BiÃ¨vre Est;14
 EPCI;243801099;CC les Balmes Dauphinoises;8
 EPCI;243801149;CC les Vallons du Guiers;9
 EPCI;243801198;CC du Pays de Saint-Marcellin;15
-EPCI;243801214;CC de la Bourne à l'Isère;12
-EPCI;243801255;CC des Collines du Nord Dauphiné;10
+EPCI;243801214;CC de la Bourne Ã  l'IsÃ¨re;12
+EPCI;243801255;CC des Collines du Nord DauphinÃ©;10
 EPCI;243900305;CC du Pays de Saint-Amour;12
-EPCI;243900339;CA Espace Communautaire Lons Agglomération (Ecla);24
+EPCI;243900339;CA Espace Communautaire Lons AgglomÃ©ration (Ecla);24
 EPCI;243900354;CC de la Station des Rousses-Haut Jura;4
 EPCI;243900412;CC Jura Sud;17
 EPCI;243900420;CC du Val d'Amour;24
 EPCI;243900479;CC du Haut-Jura (Arcade);4
 EPCI;243900560;CC Jura Nord;26
-EPCI;243900610;CC la Grandvallière;10
+EPCI;243900610;CC la GrandvalliÃ¨re;10
 EPCI;243900719;CC du Pays des Lacs;30
 EPCI;243900768;CC du Val de Sorne;8
 EPCI;243900917;CC des Coteaux de la Haute Seille;20
 EPCI;243900974;CC Nord Ouest Jura;12
-EPCI;243901014;CC Comté de Grimont Poligny;30
+EPCI;243901014;CC ComtÃ© de Grimont Poligny;30
 EPCI;243901048;CC du Pays de Salins-Les-Bains;22
 EPCI;243901055;CC Arbois, Vignes et Villages - Pays de Louis Pasteur;14
-EPCI;243901071;CC de la Région d'Orgelet;24
+EPCI;243901071;CC de la RÃ©gion d'Orgelet;24
 EPCI;243901089;CC de la Plaine Jurassienne;21
 EPCI;243901105;CC du Sud Revermont;18
 EPCI;243901113;CC du Plateau de Nozeroy;25
@@ -3660,43 +3660,43 @@ EPCI;244000758;CC du Pays d'Albret;13
 EPCI;244000766;CC du Pays Tarusate;18
 EPCI;244000774;CC du Pays de Villeneuve en Armagnac Landais;12
 EPCI;244000782;CC de la Haute Lande;7
-EPCI;244000808;CA Mont-de-Marsan Agglomération;18
+EPCI;244000808;CA Mont-de-Marsan AgglomÃ©ration;18
 EPCI;244000816;CC de Pouillon;9
 EPCI;244000824;CC du Pays Grenadois;11
 EPCI;244000832;CC du Cap de Gascogne;15
-EPCI;244000857;CC Côte Landes Nature;10
-EPCI;244000865;CC Maremne Adour Côte Sud;23
+EPCI;244000857;CC CÃ´te Landes Nature;10
+EPCI;244000865;CC Maremne Adour CÃ´te Sud;23
 EPCI;244000873;CC des Grands Lacs;7
-EPCI;244000881;CC Coteaux et Vallées des Luys;16
-EPCI;244100251;CC du Pays de Vendôme;12
-EPCI;244100269;CC du Vendômois Rural;10
+EPCI;244000881;CC Coteaux et VallÃ©es des Luys;16
+EPCI;244100251;CC du Pays de VendÃ´me;12
+EPCI;244100269;CC du VendÃ´mois Rural;10
 EPCI;244100293;CC des Collines du Perche;16
 EPCI;244100707;CC de la Beauce Oratorienne;6
-EPCI;244100764;CC du Cher à la Loire;8
-EPCI;244100772;CC Beauce et Gâtine;18
+EPCI;244100764;CC du Cher Ã  la Loire;8
+EPCI;244100772;CC Beauce et GÃ¢tine;18
 EPCI;244100780;CC de la Sologne des Etangs;11
 EPCI;244100798;CC du Grand Chambord;17
-EPCI;244100806;CC de la Sologne des Rivières;8
+EPCI;244100806;CC de la Sologne des RiviÃ¨res;8
 EPCI;244200598;CC des Collines du Matin;8
 EPCI;244200606;CC de Feurs en Forez;12
 EPCI;244200614;CC des Vals d'Aix et Isable;14
 EPCI;244200622;CC des Monts du Pilat;16
-EPCI;244200630;CC du Pays Entre Loire et Rhône;16
+EPCI;244200630;CC du Pays Entre Loire et RhÃ´ne;16
 EPCI;244200671;CC de Balbigny;13
 EPCI;244200721;CC de Forez en Lyonnais;10
-EPCI;244200762;CC du Pays d'Astrée;18
-EPCI;244200770;CU Saint-Etienne Métropole;45
+EPCI;244200762;CC du Pays d'AstrÃ©e;18
+EPCI;244200770;CU Saint-Etienne MÃ©tropole;45
 EPCI;244200796;CA Loire Forez;45
 EPCI;244200812;CC du Pays de St Galmier;10
-EPCI;244200820;CC du Pays d'Urfé;11
+EPCI;244200820;CC du Pays d'UrfÃ©;11
 EPCI;244200838;CC des Montagnes du Haut Forez;11
-EPCI;244200846;CC du Pays de St Bonnet le Château;18
+EPCI;244200846;CC du Pays de St Bonnet le ChÃ¢teau;18
 EPCI;244200895;CC du Pilat Rhodanien;14
 EPCI;244300018;CA du Puy en Velay;28
 EPCI;244300208;CC du Pays de Craponne;8
 EPCI;244300216;CC de la Ribeyre, Chaliergue et Margeride;16
 EPCI;244300224;CC du Pays de Paulhaguet;19
-EPCI;244300232;CC du Mézenc et de la Loire Sauvage;17
+EPCI;244300232;CC du MÃ©zenc et de la Loire Sauvage;17
 EPCI;244300240;CC des Portes d'Auvergne;13
 EPCI;244300265;CC de l'Emblavez;11
 EPCI;244300299;CC Plateau de la Chaise-Dieu;11
@@ -3705,58 +3705,58 @@ EPCI;244300315;CC du Pays de Blesle;9
 EPCI;244301016;CC des Sucs;9
 EPCI;244301032;CC du Brivadois;16
 EPCI;244301057;CC du Langeadois;14
-EPCI;244301065;CC de Rochebaron à Chalençon;8
+EPCI;244301065;CC de Rochebaron Ã  ChalenÃ§on;8
 EPCI;244301073;CC du Meygal;7
-EPCI;244301099;CC Auzon Communauté;12
+EPCI;244301099;CC Auzon CommunautÃ©;12
 EPCI;244301107;CC du Haut-Lignon;6
 EPCI;244301115;CC les Marches du Velay;6
 EPCI;244301123;CC des Pays de Cayres et de Pradelles;19
-EPCI;244301131;CC Loire et Semène;7
+EPCI;244301131;CC Loire et SemÃ¨ne;7
 EPCI;244301149;CC du Pays de Saugues;14
-EPCI;244400404;Nantes Métropole;24
-EPCI;244400420;CC de la Région de Machecoul;6
+EPCI;244400404;Nantes MÃ©tropole;24
+EPCI;244400420;CC de la RÃ©gion de Machecoul;6
 EPCI;244400438;CC de Grand Lieu;9
-EPCI;244400446;CC de la Vallée de Clisson;12
-EPCI;244400453;CC de la Région de Blain;4
+EPCI;244400446;CC de la VallÃ©e de Clisson;12
+EPCI;244400453;CC de la RÃ©gion de Blain;4
 EPCI;244400487;CC du Castelbriantais;19
 EPCI;244400495;CC du Secteur de Derval;7
 EPCI;244400503;CC d'Erdre et Gesvres;12
 EPCI;244400511;CC Loire Divatte;5
-EPCI;244400529;CC de la Loire Atlantique Méridionale;3
-EPCI;244400537;CC de la Région de Nozay;7
+EPCI;244400529;CC de la Loire Atlantique MÃ©ridionale;3
+EPCI;244400537;CC de la RÃ©gion de Nozay;7
 EPCI;244400545;CC Coeur Pays de Retz;6
 EPCI;244400552;CC du Pays d'Ancenis;25
 EPCI;244400578;CC de Vallet;6
 EPCI;244400586;CC du Sud-Estuaire;6
-EPCI;244400610;CA de la Presqu'île de Guérande Atlantique (Cap Atlantique);15
-EPCI;244400644;CA de la Région Nazairienne et de l'Estuaire (Carene);10
-EPCI;244400651;CC Sèvre Maine et Goulaine;4
+EPCI;244400610;CA de la Presqu'Ã®le de GuÃ©rande Atlantique (Cap Atlantique);15
+EPCI;244400644;CA de la RÃ©gion Nazairienne et de l'Estuaire (Carene);10
+EPCI;244400651;CC SÃ¨vre Maine et Goulaine;4
 EPCI;244400677;CC de Pornic;8
 EPCI;244400693;CC Loire et Sillon;8
 EPCI;244400701;CC Coeur d'Estuaire;3
-EPCI;244500195;CC de Châtillon-Coligny;12
+EPCI;244500195;CC de ChÃ¢tillon-Coligny;12
 EPCI;244500203;CA Montargoise et Rives du Loing (A.M.E.);15
 EPCI;244500211;CC Giennoises;11
 EPCI;244500278;CC du Canton de Lorris;14
-EPCI;244500393;CC de Beauce et du Gâtinais;18
+EPCI;244500393;CC de Beauce et du GÃ¢tinais;18
 EPCI;244500401;CC du Beaunois;18
-EPCI;244500419;CC des Quatre Vallées;19
+EPCI;244500419;CC des Quatre VallÃ©es;19
 EPCI;244500427;CC des Loges;14
 EPCI;244500443;CC du Canton de Briare;14
 EPCI;244500450;CC du Val d'Ardoux;5
-EPCI;244500468;CA Orléans Val de Loire (Agglo);22
-EPCI;244500476;CC du Canton de Châtillon-sur-Loire;6
-EPCI;244500484;CC de la Forêt;10
-EPCI;244500518;CC Val D'Or et Forêt;8
+EPCI;244500468;CA OrlÃ©ans Val de Loire (Agglo);22
+EPCI;244500476;CC du Canton de ChÃ¢tillon-sur-Loire;6
+EPCI;244500484;CC de la ForÃªt;10
+EPCI;244500518;CC Val D'Or et ForÃªt;8
 EPCI;244500534;CC des Terres Puiseautines;13
 EPCI;244500542;CC de la Plaine du Nord Loiret;15
 EPCI;244500559;CC du Plateau Beauceron;10
 EPCI;244500567;CC du Bellegardois;12
 EPCI;244500583;CC Val Sol;7
-EPCI;244600359;CC Cère et Dordogne;16
-EPCI;244600433;CC de la Vallée du Lot et du Vignoble;27
+EPCI;244600359;CC CÃ¨re et Dordogne;16
+EPCI;244600433;CC de la VallÃ©e du Lot et du Vignoble;27
 EPCI;244600482;CC Quercy - Bouriane;20
-EPCI;244600516;CC du Haut-Ségala;11
+EPCI;244600516;CC du Haut-SÃ©gala;11
 EPCI;244600532;CC du Pays de Lalbenque-Limogne;23
 EPCI;244600573;CC du Causse de Labastide-Murat;17
 EPCI;244700449;CC du Pays de Duras;17
@@ -3768,43 +3768,43 @@ EPCI;244701389;CC de Penne d'Agenais;8
 EPCI;244701405;CC Lot et Tolzac;15
 EPCI;244701439;CC du Canton de Prayssas;10
 EPCI;244701462;CC du Confluent;18
-EPCI;244701496;CC du Mézinais;7
-EPCI;244800066;CC de la Vallée de la Jonte;6
+EPCI;244701496;CC du MÃ©zinais;7
+EPCI;244800066;CC de la VallÃ©e de la Jonte;6
 EPCI;244800322;CC de la Terre de Peyre;6
-EPCI;244800330;CC du Canton de Châteauneuf de Randon;8
+EPCI;244800330;CC du Canton de ChÃ¢teauneuf de Randon;8
 EPCI;244800348;CC du Causse du Massegros;5
 EPCI;244800355;CC de la Terre de Randon;11
 EPCI;244800363;CC des Hautes Terres;10
 EPCI;244800389;CC du Valdonnez;5
-EPCI;244800397;CC du Goulet – Mont-Lozère;12
-EPCI;244800405;CC Coeur de Lozère;4
+EPCI;244800397;CC du Goulet â€“ Mont-LozÃ¨re;12
+EPCI;244800405;CC Coeur de LozÃ¨re;4
 EPCI;244800413;CC de Villefort;7
-EPCI;244800421;CC de la Cévenne des Hauts-Gardons;8
+EPCI;244800421;CC de la CÃ©venne des Hauts-Gardons;8
 EPCI;244800439;CC des Gorges du Tarn et des Grands Causses;5
 EPCI;244800447;CC Margeride-Est;7
-EPCI;244800454;CC de la Vallée Longue et du Calbertois en Cévennes;8
-EPCI;244800470;CC du Gévaudan;12
-EPCI;244800496;CC des Cévennes Au Mont-Lozère;3
+EPCI;244800454;CC de la VallÃ©e Longue et du Calbertois en CÃ©vennes;8
+EPCI;244800470;CC du GÃ©vaudan;12
+EPCI;244800496;CC des CÃ©vennes Au Mont-LozÃ¨re;3
 EPCI;244800504;CC du Pays de Chanac;5
-EPCI;244900015;CU Angers Loire Métropole;30
-EPCI;244900361;CA Saumur Loire Développement;32
-EPCI;244900585;CC de la Région du Lion-d'angers;9
-EPCI;244900593;CC du Canton de Segré;15
+EPCI;244900015;CU Angers Loire MÃ©tropole;30
+EPCI;244900361;CA Saumur Loire DÃ©veloppement;32
+EPCI;244900585;CC de la RÃ©gion du Lion-d'angers;9
+EPCI;244900593;CC du Canton de SegrÃ©;15
 EPCI;244900668;CC du Bocage;6
 EPCI;244900700;CA du Choletais;14
 EPCI;244900734;CC des Coteaux du Layon;7
 EPCI;244900759;CC de Loir et Sarthe;4
 EPCI;244900767;CC du Gennois;4
-EPCI;244900775;CC de la Région de Pouancé-Combrée;14
-EPCI;244900791;CC Loire-Longué;11
-EPCI;244900809;CC Communauté Candéenne de Coopérations Communales;6
+EPCI;244900775;CC de la RÃ©gion de PouancÃ©-CombrÃ©e;14
+EPCI;244900791;CC Loire-LonguÃ©;11
+EPCI;244900809;CC CommunautÃ© CandÃ©enne de CoopÃ©rations Communales;6
 EPCI;244900833;CC Loire Layon;9
 EPCI;244900841;CC du Haut Anjou;10
 EPCI;244900858;CC Ouest Anjou;6
 EPCI;244900882;CC de Beaufort-En-Anjou;4
 EPCI;244900924;CC du Loir;10
-EPCI;244900940;CC de la Région de Noyant;15
-EPCI;244900973;CC de la Région de Doué-La-Fontaine;11
+EPCI;244900940;CC de la RÃ©gion de Noyant;15
+EPCI;244900973;CC de la RÃ©gion de DouÃ©-La-Fontaine;11
 EPCI;244900981;CC du Vihiersois Haut-Layon;6
 EPCI;244900999;CC les Portes de l'Anjou;5
 EPCI;244901013;CC Loire Aubance;13
@@ -3815,116 +3815,116 @@ EPCI;245000344;CC de Douve et Divette;9
 EPCI;245000377;CC de la Saire;3
 EPCI;245000427;CC du Canton de Lessay;12
 EPCI;245000443;CC du Canton de Montmartin-sur-Mer;10
-EPCI;245000450;CC de Saint Hilaire-du-Harcouët;9
+EPCI;245000450;CC de Saint Hilaire-du-HarcouÃ«t;9
 EPCI;245000468;CC du Canton de Saint-James;12
 EPCI;245000476;CC du Canton de Saint Malo-de-la-Lande;12
-EPCI;245000542;CC du Canton de Saint-Pierre-Église;14
+EPCI;245000542;CC du Canton de Saint-Pierre-Ã‰glise;14
 EPCI;245000575;CC du Val de Saire;16
 EPCI;245000617;CC de Canisy;9
 EPCI;245000682;CC de Seves et Taute;12
-EPCI;245000690;CC de la Région de Montebourg;22
-EPCI;245000716;CC de la Vallée de l'Ouve;16
-EPCI;245000807;CC de la Côte des Isles;16
+EPCI;245000690;CC de la RÃ©gion de Montebourg;22
+EPCI;245000716;CC de la VallÃ©e de l'Ouve;16
+EPCI;245000807;CC de la CÃ´te des Isles;16
 EPCI;245100037;CC Epernay Pays de Champagne;21
 EPCI;245100052;CC Champagne Vesle;33
 EPCI;245100508;CC de la Brie des Etangs;21
 EPCI;245100516;CC du Pays d'Anglure;20
-EPCI;245100565;CC des Coteaux Sézannais;23
+EPCI;245100565;CC des Coteaux SÃ©zannais;23
 EPCI;245100581;CC Saulx et Bruxenelle;7
-EPCI;245100615;CC de la Grande Vallée de la Marne;14
-EPCI;245100631;CC de la Région de Mourmelon;8
+EPCI;245100615;CC de la Grande VallÃ©e de la Marne;14
+EPCI;245100631;CC de la RÃ©gion de Mourmelon;8
 EPCI;245100797;CC des Portes de Champagne;19
-EPCI;245100813;CC de la Région de Vertus;29
-EPCI;245100854;CC des Deux Vallées;11
+EPCI;245100813;CC de la RÃ©gion de Vertus;29
+EPCI;245100854;CC des Deux VallÃ©es;11
 EPCI;245100870;CC des Coteaux de la Marne;14
 EPCI;245100888;CC de la Brie Champenoise;19
 EPCI;245100979;CC du Sud Marnais;14
-EPCI;245101035;CC de la Vallée de la Suippe;7
+EPCI;245101035;CC de la VallÃ©e de la Suippe;7
 EPCI;245101043;CC Beine-Bourgogne;9
 EPCI;245101050;CC des Rives de la Suippe;12
-EPCI;245200373;CC de la Vallée de la Marne;11
+EPCI;245200373;CC de la VallÃ©e de la Marne;11
 EPCI;245200381;CC du Pays de Chalindrey;13
 EPCI;245200415;CC du Pays du Der;8
 EPCI;245200456;CA de Chaumont;25
-EPCI;245200480;CC de la Vallée du Rognon;16
+EPCI;245200480;CC de la VallÃ©e du Rognon;16
 EPCI;245200514;CC du Bassigny;20
-EPCI;245200548;CC de la Région de Bourbonne-les-Bains;16
+EPCI;245200548;CC de la RÃ©gion de Bourbonne-les-Bains;16
 EPCI;245200555;CC du Bassin de Bologne Vignory et Froncles;22
 EPCI;245200563;CC du Bassin Nogentais;17
-EPCI;245200597;CC des Trois Forêts;29
+EPCI;245200597;CC des Trois ForÃªts;29
 EPCI;245300223;CC du Pays de Meslay-Grez;23
 EPCI;245300306;CC du Pays de Loiron;14
 EPCI;245300330;CA de Laval;20
-EPCI;245300355;CC de l'Ernée;15
+EPCI;245300355;CC de l'ErnÃ©e;15
 EPCI;245300389;CC du Bocage Mayennais;27
-EPCI;245300447;CC du Pays de Château-Gontier;24
+EPCI;245300447;CC du Pays de ChÃ¢teau-Gontier;24
 EPCI;245400171;CC Moselle et Madon;19
 EPCI;245400189;CC des Pays du Sel et du Vermois;13
-EPCI;245400262;CC de l'Agglomération de Longwy;21
+EPCI;245400262;CC de l'AgglomÃ©ration de Longwy;21
 EPCI;245400379;CC du Bassin de Landres;11
 EPCI;245400437;CC du Pays de Briey;9
 EPCI;245400510;CC du Pays de Colombey et du Sud Toulois;39
 EPCI;245400601;CC du Bassin de Pompey;13
 EPCI;245400676;CU du Grand Nancy;20
-EPCI;245400700;CC du Lunévillois;15
+EPCI;245400700;CC du LunÃ©villois;15
 EPCI;245400718;CC de la Vezouze;34
 EPCI;245400759;CC du Pays du Sanon;29
-EPCI;245400775;CC de Seille et Mauchère;20
+EPCI;245400775;CC de Seille et MauchÃ¨re;20
 EPCI;245400791;CC du Pays de l'Orne;9
 EPCI;245400817;CC du Jarnisy;24
 EPCI;245400825;CC du Pays Audunois;14
-EPCI;245400866;CC du Grand Couronné;19
+EPCI;245400866;CC du Grand CouronnÃ©;19
 EPCI;245400916;CC de la Mortagne;17
 EPCI;245400924;CC du Val de Meurthe;7
 EPCI;245400932;CC du Bayonnais;25
 EPCI;245500327;CC du Sammiellois;19
 EPCI;245500459;CC du Centre Argonne;15
-EPCI;245500806;CC Meuse-Voie Sacrée;18
+EPCI;245500806;CC Meuse-Voie SacrÃ©e;18
 EPCI;245501101;CC du Pays de Spincourt;21
-EPCI;245501168;CC de la Région de Damvillers;20
-EPCI;245501176;CC du Canton de Fresnes-en-Woëvre;32
+EPCI;245501168;CC de la RÃ©gion de Damvillers;20
+EPCI;245501176;CC du Canton de Fresnes-en-WoÃ«vre;32
 EPCI;245501184;CC du Pays de Revigny-sur-Ornain;16
 EPCI;245501192;CC du Pays de Commercy;10
 EPCI;245501226;CC de la Saulx et du Perthois;19
 EPCI;245501234;CC de la Haute-Saulx;14
-EPCI;245501242;CC du Pays d'Étain;26
-EPCI;245501259;CC du Pays de Montmédy;25
+EPCI;245501242;CC du Pays d'Ã‰tain;26
+EPCI;245501259;CC du Pays de MontmÃ©dy;25
 EPCI;245501267;CC du Pays de Stenay;19
 EPCI;245501309;CC Entre Aire et Meuse;23
-EPCI;245501317;CC de Triaucourt - Vaubécourt;24
+EPCI;245501317;CC de Triaucourt - VaubÃ©court;24
 EPCI;245501341;CC du Val des Couleurs;20
 EPCI;245501366;CC du Val Dunois;22
-EPCI;245501374;CC de Montfaucon – Varennes-en-Argonne;23
+EPCI;245501374;CC de Montfaucon â€“ Varennes-en-Argonne;23
 EPCI;245501457;CC du Val d'Ornois;19
 EPCI;245501465;CC de Void;24
-EPCI;245501481;CC du Val de Meuse et de la Vallée de la Dieue;7
-EPCI;245600143;CC Saint Jean Communauté;8
+EPCI;245501481;CC du Val de Meuse et de la VallÃ©e de la Dieue;7
+EPCI;245600143;CC Saint Jean CommunautÃ©;8
 EPCI;245600150;CC du Pays de la Gacilly;9
 EPCI;245600366;CA Vannes Agglo;23
 EPCI;245600416;CC du Val d'Oust et de Lanvaux;14
-EPCI;245600424;CC de Mauron en Brocéliande;7
+EPCI;245600424;CC de Mauron en BrocÃ©liande;7
 EPCI;245600432;CC Guer Communaute;7
-EPCI;245600440;CC de Blavet Bellevue Océan;5
+EPCI;245600440;CC de Blavet Bellevue OcÃ©an;5
 EPCI;245600465;CC de Belle Ile en Mer;4
-EPCI;245600515;CC Baud Communauté;6
-EPCI;245614292;CC Locminé Communauté;5
-EPCI;245614342;CC Ploërmel Communauté;7
-EPCI;245614367;CC Josselin Communauté;12
-EPCI;245614383;CC Questembert Communauté;13
-EPCI;245614391;CC Loc'h Communauté;6
-EPCI;245614417;CC Roi Morvan Communauté;21
-EPCI;245614425;CC du Porhoët;6
-EPCI;245614433;CC Pontivy Communauté;26
+EPCI;245600515;CC Baud CommunautÃ©;6
+EPCI;245614292;CC LocminÃ© CommunautÃ©;5
+EPCI;245614342;CC PloÃ«rmel CommunautÃ©;7
+EPCI;245614367;CC Josselin CommunautÃ©;12
+EPCI;245614383;CC Questembert CommunautÃ©;13
+EPCI;245614391;CC Loc'h CommunautÃ©;6
+EPCI;245614417;CC Roi Morvan CommunautÃ©;21
+EPCI;245614425;CC du PorhoÃ«t;6
+EPCI;245614433;CC Pontivy CommunautÃ©;26
 EPCI;245700133;CC du District Urbain de Faulquemont (Duf);33
 EPCI;245700216;CA Sarreguemines Confluences;26
 EPCI;245700372;CA de Forbach Porte de France;21
 EPCI;245700398;CC de Freyming-Merlebach;11
 EPCI;245700695;CC de Cattenom et Environs;20
-EPCI;245700919;CC de Rohrbach Lès Bitche;9
+EPCI;245700919;CC de Rohrbach LÃ¨s Bitche;9
 EPCI;245700950;CC du Pays de Phalsbourg;26
 EPCI;245701164;CC du Warndt;5
 EPCI;245701172;CC du Centre Mosellan;31
-EPCI;245701198;CC de la Vallée de la Bièvre;11
+EPCI;245701198;CC de la VallÃ©e de la BiÃ¨vre;11
 EPCI;245701206;CC du Saulnois;128
 EPCI;245701222;CA du Val de Fensch;10
 EPCI;245701230;CC des Deux Sarres;19
@@ -3933,7 +3933,7 @@ EPCI;245701271;CC du Pays Orne Moselle;13
 EPCI;245701289;CC du Haut Chemin;12
 EPCI;245701297;CC de l'Albe et des Lacs;12
 EPCI;245701305;CC du Pays des Etangs;14
-EPCI;245701347;CC des Trois Frontières;22
+EPCI;245701347;CC des Trois FrontiÃ¨res;22
 EPCI;245701354;CC de l'Arc Mosellan;26
 EPCI;245701362;CA Portes de France-Thionville;13
 EPCI;245701370;CC du Val de Moselle;9
@@ -3955,7 +3955,7 @@ EPCI;245804463;CC Loire et Nohain;9
 EPCI;245804471;CC en Donziais;10
 EPCI;245804489;CC Entre Loire et Morvan;11
 EPCI;245804497;CC du Nivernais Bourbonnais;8
-EPCI;245804505;CC Entre Nièvres et Forêts;13
+EPCI;245804505;CC Entre NiÃ¨vres et ForÃªts;13
 EPCI;245804513;CC Coeur du Nivernais;11
 EPCI;245804521;CC Loire et Vignoble;11
 EPCI;245804539;CC du Val du Beuvron;19
@@ -3963,40 +3963,40 @@ EPCI;245804547;CC le Bon Pays;4
 EPCI;245804554;CC des Portes Sud du Morvan;13
 EPCI;245804562;CC du Pays Charitois;14
 EPCI;245804570;CC du Pays Corbigeois;17
-EPCI;245804588;CC des Bertranges à la Nièvre;5
+EPCI;245804588;CC des Bertranges Ã  la NiÃ¨vre;5
 EPCI;245804612;CC des Grands Lacs du Morvan;9
-EPCI;245900410;Métropole Européenne de Lille;85
+EPCI;245900410;MÃ©tropole EuropÃ©enne de Lille;85
 EPCI;245900428;CU de Dunkerque;17
 EPCI;245900741;CC de la Vacquerie;6
 EPCI;245900758;CC Flandre Lys;8
 EPCI;245900816;CC des Weppes;5
 EPCI;245901038;CC du Pays Solesmois;15
-EPCI;245901061;CC de la Haute Deûle;5
+EPCI;245901061;CC de la Haute DeÃ»le;5
 EPCI;245901152;CC Coeur d'Ostrevent [C.C.C.O.];21
-EPCI;245901160;CA Valenciennes Métropole;35
+EPCI;245901160;CA Valenciennes MÃ©tropole;35
 EPCI;246000111;CA Creilloise;4
 EPCI;246000129;CC du Liancourtois;10
 EPCI;246000376;CC du Clermontois;19
 EPCI;246000566;CC du Plateau Picard;52
 EPCI;246000582;CC des Sablons;22
-EPCI;246000608;CC des Vallées de la Brèche et de la Noye;41
-EPCI;246000699;CC de Crèvecoeur le Grand Pays Picard A16 Haute Vallée de la Celle;20
+EPCI;246000608;CC des VallÃ©es de la BrÃ¨che et de la Noye;41
+EPCI;246000699;CC de CrÃ¨vecoeur le Grand Pays Picard A16 Haute VallÃ©e de la Celle;20
 EPCI;246000707;CC du Vexin-Thelle;42
-EPCI;246000749;CC des Lisières de l'Oise;20
+EPCI;246000749;CC des LisiÃ¨res de l'Oise;20
 EPCI;246000756;CC du Pays Noyonnais;42
 EPCI;246000764;CC de l'Aire Cantilienne;11
-EPCI;246000772;CC des Deux Vallées;16
+EPCI;246000772;CC des Deux VallÃ©es;16
 EPCI;246000830;CA du Beauvaisis;31
 EPCI;246000848;CC de la Picardie Verte;89
 EPCI;246000855;CC du Pays des Sources;48
 EPCI;246000863;CC du Pays de Thelle;36
 EPCI;246000871;CC du Pays de Valois;62
-EPCI;246000897;CC de la Plaine d'Estrées;19
+EPCI;246000897;CC de la Plaine d'EstrÃ©es;19
 EPCI;246000913;CC du Pays de Bray;23
 EPCI;246000921;CC des Pays d'Oise et d'halatte;17
 EPCI;246000939;CC Rurales du Beauvaisis;13
 EPCI;246000947;CC de la Basse Automne;6
-EPCI;246001010;CA de la Région de Compiègne;16
+EPCI;246001010;CA de la RÃ©gion de CompiÃ¨gne;16
 EPCI;246001143;CC Pierre-Sud-Oise;7
 EPCI;246001150;CC la Ruraloise;6
 EPCI;246100317;CC du Perche Sud;5
@@ -4007,27 +4007,27 @@ EPCI;246100408;CC du Bocage d'Athis de l'Orne;9
 EPCI;246100440;CC du Pays de Longny-au-Perche;6
 EPCI;246100465;CC du Pays Fertois;11
 EPCI;246100499;CC du Val d'huisne;5
-EPCI;246100572;CC de la Région de Gacé;14
+EPCI;246100572;CC de la RÃ©gion de GacÃ©;14
 EPCI;246100580;CC du Haut-Perche;6
-EPCI;246100598;CC du Canton de la Ferté Fresnel;5
+EPCI;246100598;CC du Canton de la FertÃ© Fresnel;5
 EPCI;246100630;CC du Pays d'Andaine;4
-EPCI;246100648;CC du Perche Rémalardais;7
+EPCI;246100648;CC du Perche RÃ©malardais;7
 EPCI;246100655;CC du Bocage Carrougien;11
-EPCI;246100663;CU d'Alençon;34
+EPCI;246100663;CU d'AlenÃ§on;34
 EPCI;246100671;CC du Pays du Haras du Pin;16
 EPCI;246100739;CC du Pays de Briouze;12
-EPCI;246100770;CC du Pays Bellêmois;16
+EPCI;246100770;CC du Pays BellÃªmois;16
 EPCI;246100788;CC du Pays de Camembert;18
 EPCI;246200018;CC du Pays d'Aire;4
 EPCI;246200117;CC Opale Sud;10
-EPCI;246200299;CA d'Hénin-Carvin;14
-EPCI;246200364;CA de Lens - Liévin;36
+EPCI;246200299;CA d'HÃ©nin-Carvin;14
+EPCI;246200364;CA de Lens - LiÃ©vin;36
 EPCI;246200380;CC de la Terre des Deux Caps;21
 EPCI;246200406;CC du Montreuillois;21
 EPCI;246200455;CA de Saint Omer;25
 EPCI;246200729;CA du Boulonnais;22
 EPCI;246200802;CC Artois Lys;21
-EPCI;246200844;CC de la Région d'Audruicq;15
+EPCI;246200844;CC de la RÃ©gion d'Audruicq;15
 EPCI;246200851;CC du Canton de Fauquembergues;18
 EPCI;246200869;CC du Pernois;18
 EPCI;246200877;CC de la Morinie;8
@@ -4036,203 +4036,203 @@ EPCI;246200976;CC du Sud Ouest du Calaisis;9
 EPCI;246200984;CC des Trois Pays;23
 EPCI;246200992;CC du Canton d'Hucqueliers et Environs;24
 EPCI;246201016;CC du Pays de Lumbres;36
-EPCI;246201057;CC de l'Atrébatie;27
-EPCI;246201065;CC de la Région de Frévent;12
+EPCI;246201057;CC de l'AtrÃ©batie;27
+EPCI;246201065;CC de la RÃ©gion de FrÃ©vent;12
 EPCI;246201073;CC de l'Auxilois;16
 EPCI;246201115;CC Mer et Terres d'Opale;15
 EPCI;246201149;CA du Calaisis;5
 EPCI;246201156;CC Artois Flandres;14
 EPCI;246300651;CC du Pays d'Arlanc;9
 EPCI;246300669;CC de la Montagne Thiernoise;9
-EPCI;246300677;CC Sancy Artense Communauté;13
+EPCI;246300677;CC Sancy Artense CommunautÃ©;13
 EPCI;246300685;CC du Pays de Menat;12
 EPCI;246300693;CC Limagne d'Ennezat;14
-EPCI;246300701;CA Clermont Communauté;21
+EPCI;246300701;CA Clermont CommunautÃ©;21
 EPCI;246300735;CC du Pays de Cunlhat;7
 EPCI;246300776;CC des Puys et Couzes;16
 EPCI;246300784;CC des Coteaux de l'Allier;5
-EPCI;246300800;CC des Côtes de Combrailles;12
+EPCI;246300800;CC des CÃ´tes de Combrailles;12
 EPCI;246300818;CC du Pays d'Olliergues;6
-EPCI;246300834;CC Manzat Communauté;9
+EPCI;246300834;CC Manzat CommunautÃ©;9
 EPCI;246300842;CC Couze Val d'Allier;7
 EPCI;246300883;CC du Lembron Val d'Allier;16
 EPCI;246300909;CC de Rochefort-Montagne;14
 EPCI;246300917;CC Coeur de Combrailles;10
 EPCI;246300925;CC de Haute Combraille;17
-EPCI;246300933;CC Gergovie Val d'Allier Communauté;11
+EPCI;246300933;CC Gergovie Val d'Allier CommunautÃ©;11
 EPCI;246300941;CC de Livradois Porte d'Auvergne;4
 EPCI;246300958;CC de Pionsat;10
 EPCI;246300966;CC du Massif du Sancy;16
 EPCI;246300974;CC du Haut Livradois;15
 EPCI;246300982;CC des Cheires;11
-EPCI;246300990;CC Ardes Communauté;15
+EPCI;246300990;CC Ardes CommunautÃ©;15
 EPCI;246301006;CC de Nord Limagne;12
-EPCI;246301014;CC du Pays de Courpière;10
-EPCI;246301022;CC de la Vallée de l'Ance;10
+EPCI;246301014;CC du Pays de CourpiÃ¨re;10
+EPCI;246301022;CC de la VallÃ©e de l'Ance;10
 EPCI;246301030;CC Limagne - Bords d'Allier;5
 EPCI;246301048;CC du Pays de Sauxillanges;17
-EPCI;246301055;CC Riom Communauté;10
-EPCI;246301063;CC Thiers Communauté;4
+EPCI;246301055;CC Riom CommunautÃ©;10
+EPCI;246301063;CC Thiers CommunautÃ©;4
 EPCI;246301071;CC de Sioulet Chavanon;12
 EPCI;246301097;CC Entre Dore et Allier;14
 EPCI;246301105;CC du Pays d'Ambert;7
-EPCI;246301113;CC de Mur Ès Allier;5
+EPCI;246301113;CC de Mur Ãˆs Allier;5
 EPCI;246301121;CC des Coteaux de Randan;8
 EPCI;246301139;CC du Bassin Minier Montagne;10
-EPCI;246301154;CC Allier Comté Communauté;7
+EPCI;246301154;CC Allier ComtÃ© CommunautÃ©;7
 EPCI;246301162;CC Volvic Sources et Volcans;7
-EPCI;246301170;CC Issoire Communauté;5
+EPCI;246301170;CC Issoire CommunautÃ©;5
 EPCI;246400014;CC du Canton de Garlin;19
-EPCI;246400030;CA Côte Basque Adour;5
-EPCI;246400337;CC de la Vallée d'Ossau;18
-EPCI;246401459;CC de la Vallée de Barétous;6
-EPCI;246401517;CC du Pays de Morlaàs;28
+EPCI;246400030;CA CÃ´te Basque Adour;5
+EPCI;246400337;CC de la VallÃ©e d'Ossau;18
+EPCI;246401459;CC de la VallÃ©e de BarÃ©tous;6
+EPCI;246401517;CC du Pays de MorlaÃ s;28
 EPCI;246401525;CC Gave et Coteaux;7
 EPCI;246401533;CC du Josbaig;6
 EPCI;246401541;CC de Bidache;7
 EPCI;246401574;CC du Canton d'Arzacq;23
 EPCI;246401590;CC du Canton de Navarrenx;19
 EPCI;246401616;CC d'Amikuze;27
-EPCI;246401624;CC de la Vallée d'Aspe;13
+EPCI;246401624;CC de la VallÃ©e d'Aspe;13
 EPCI;246401632;CC du Canton de Lembeye en Vic-Bilh;31
 EPCI;246401657;CC du Pays d'hasparren (Hazparneko Lurraldea);11
-EPCI;246401665;CC de Salies-de-Béarn;11
-EPCI;246401699;CC de Sauveterre-de-Béarn;23
-EPCI;246401715;CC du Miey de Béarn;14
-EPCI;246401723;CA Pau-Pyrénées;14
+EPCI;246401665;CC de Salies-de-BÃ©arn;11
+EPCI;246401699;CC de Sauveterre-de-BÃ©arn;23
+EPCI;246401715;CC du Miey de BÃ©arn;14
+EPCI;246401723;CA Pau-PyrÃ©nÃ©es;14
 EPCI;246401756;CC Pays de Nay;26
 EPCI;246401764;CC de Soule-Xiberoa;36
 EPCI;246401798;CC Ousse-Gabas;15
-EPCI;246401814;CC du Piémont Oloronais;24
+EPCI;246401814;CC du PiÃ©mont Oloronais;24
 EPCI;246401822;CC de Garazi-Baigorri;30
 EPCI;246401855;CC Nive-Adour;6
 EPCI;246401863;CC d'Iholdi-Ostibarre;13
-EPCI;246500052;CC de la Vallée du Louron;14
+EPCI;246500052;CC de la VallÃ©e du Louron;14
 EPCI;246500201;CC du Val d'Azun;8
-EPCI;246500359;CC de Batsurguère;5
+EPCI;246500359;CC de BatsurguÃ¨re;5
 EPCI;246500375;CC Vic-Montaner;29
 EPCI;246500482;CC de la Haute-Bigorre;24
 EPCI;246500490;CC du Canton d'Ossun;17
 EPCI;246500508;CC Neste Baronnies;15
 EPCI;246500565;CA du Grand Tarbes;15
-EPCI;246500573;CC des Véziaux d'Aure;9
+EPCI;246500573;CC des VÃ©ziaux d'Aure;9
 EPCI;246500599;CC Adour-Rustan-Arros;24
-EPCI;246500631;CC de la Vallée d'Argelès-Gazost;16
-EPCI;246500656;CC de la Vallée de Saint-Savin;7
+EPCI;246500631;CC de la VallÃ©e d'ArgelÃ¨s-Gazost;16
+EPCI;246500656;CC de la VallÃ©e de Saint-Savin;7
 EPCI;246500789;CC d'Aure;10
-EPCI;246500805;CC de la Haute Vallée d'Aure;11
+EPCI;246500805;CC de la Haute VallÃ©e d'Aure;11
 EPCI;246500821;CC du Magnoac;28
 EPCI;246500839;CC Gespe-Adour-Alaric;9
 EPCI;246600282;CC Sud-Roussillon;6
 EPCI;246600373;CC du Vallespir;10
-EPCI;246600399;CC Pyrénées Cerdagne;19
-EPCI;246600407;CC Salanque Méditerranée;4
+EPCI;246600399;CC PyrÃ©nÃ©es Cerdagne;19
+EPCI;246600407;CC Salanque MÃ©diterranÃ©e;4
 EPCI;246600415;CC Roussillon-Conflent;16
-EPCI;246600423;CC Agly Fenouillèdes;22
+EPCI;246600423;CC Agly FenouillÃ¨des;22
 EPCI;246600449;CC des Aspres;19
 EPCI;246600464;CC Capcir Haut-Conflent;19
 EPCI;246600548;CC du Haut Vallespir;14
-EPCI;246700306;CC de la Vallée de la Bruche;26
-EPCI;246700488;EuroMétropole de Strasbourg;28
+EPCI;246700306;CC de la VallÃ©e de la Bruche;26
+EPCI;246700488;EuroMÃ©tropole de Strasbourg;28
 EPCI;246700694;CC des Coteaux de la Mossig;14
 EPCI;246700702;CC du Pays de Hanau;19
 EPCI;246700736;CC du Val de Moder;6
 EPCI;246700744;CC du Canton de Rosheim;9
-EPCI;246700777;CC de la Vallée de Villé;18
+EPCI;246700777;CC de la VallÃ©e de VillÃ©;18
 EPCI;246700793;CC du Pays de la Petite Pierre;19
 EPCI;246700843;CC de la Basse-Zorn;7
 EPCI;246700892;CC de Benfeld et Environs;11
 EPCI;246700926;CC du Pays de Wissembourg;12
 EPCI;246700942;CC de l'Alsace Bossue;32
 EPCI;246700959;CC du Pays de la Zorn;23
-EPCI;246700967;CC de Sélestat;12
+EPCI;246700967;CC de SÃ©lestat;12
 EPCI;246700983;CC du Pays d'Erstein;10
-EPCI;246701031;CC de la Région de Brumath;10
-EPCI;246701064;CC de la Région de Molsheim-Mutzig;18
-EPCI;246701072;CC de la Région de Saverne;28
+EPCI;246701031;CC de la RÃ©gion de Brumath;10
+EPCI;246701064;CC de la RÃ©gion de Molsheim-Mutzig;18
+EPCI;246701072;CC de la RÃ©gion de Saverne;28
 EPCI;246701080;CC du Pays de Sainte-Odile;6
 EPCI;246701098;CC du Pays de Niederbronn-Les-Bains;13
 EPCI;246701114;CC du Pays de Sarre Union;13
 EPCI;246701189;CC de Bischwiller et Environs;6
-EPCI;246701197;CC les Châteaux;5
+EPCI;246701197;CC les ChÃ¢teaux;5
 EPCI;246701239;CC du Rhin;7
 EPCI;246800015;CC Essor du Rhin;7
 EPCI;246800098;CC du Pays de Brisach;22
 EPCI;246800189;CC du Secteur d'Illfurth;9
 EPCI;246800197;CC d'Altkirch;6
-EPCI;246800205;CC de la Vallée de Saint-Amarin;15
-EPCI;246800247;CA des Trois Frontières;10
-EPCI;246800361;CC de la Vallée de Hundsbach;13
+EPCI;246800205;CC de la VallÃ©e de Saint-Amarin;15
+EPCI;246800247;CA des Trois FrontiÃ¨res;10
+EPCI;246800361;CC de la VallÃ©e de Hundsbach;13
 EPCI;246800395;CC du Val d'Argent;4
 EPCI;246800411;CC de la Largue;12
 EPCI;246800437;CC Ill et Gersbach;9
 EPCI;246800445;CC du Centre du Haut-Rhin;9
-EPCI;246800460;CC la Porte d'Alsace Cc de la Région de Dannemarie;32
-EPCI;246800494;CC du Pays de Rouffach, Vignobles et Châteaux;11
-EPCI;246800551;CC de la Vallée de Kaysersberg;8
-EPCI;246800569;CC de la Région de Guebwiller;19
-EPCI;246800577;CC du Pays de Ribeauvillé;16
-EPCI;246800585;CC de la Vallée de Munster;16
+EPCI;246800460;CC la Porte d'Alsace Cc de la RÃ©gion de Dannemarie;32
+EPCI;246800494;CC du Pays de Rouffach, Vignobles et ChÃ¢teaux;11
+EPCI;246800551;CC de la VallÃ©e de Kaysersberg;8
+EPCI;246800569;CC de la RÃ©gion de Guebwiller;19
+EPCI;246800577;CC du Pays de RibeauvillÃ©;16
+EPCI;246800585;CC de la VallÃ©e de Munster;16
 EPCI;246800643;CC du Jura Alsacien (Ccja);27
 EPCI;246800650;CC de la Porte du Sundgau;13
-EPCI;246800676;CC de la Vallée de la Doller et du Soultzbach;15
+EPCI;246800676;CC de la VallÃ©e de la Doller et du Soultzbach;15
 EPCI;246800684;CC du Pays de Sierentz;17
 EPCI;246800700;CC Porte de France-Rhin Sud;6
 EPCI;246800726;CA de Colmar;20
 EPCI;246900575;CC de l'Est Lyonnais (Ccel);8
 EPCI;246900625;CC du Pays de l'Arbresle (Ccpa);17
-EPCI;246900633;CC de la Région de Condrieu;11
+EPCI;246900633;CC de la RÃ©gion de Condrieu;11
 EPCI;246900682;CC du Haut Beaujolais;12
 EPCI;246900690;CC Chamousset en Lyonnais;14
 EPCI;246900724;CC des Vallons du Lyonnais (Ccvl);8
 EPCI;246900740;CC du Pays Mornantais (Copamo);16
-EPCI;246900757;CC de la Vallée du Garon (Ccvg);5
+EPCI;246900757;CC de la VallÃ©e du Garon (Ccvg);5
 EPCI;246900765;CC du Pays de l'Ozon;7
 EPCI;246900773;CC des Hauts du Lyonnais (Cchl);10
 EPCI;247000011;CA de Vesoul;20
 EPCI;247000367;CC des Combes;27
-EPCI;247000623;CC des Quatre Rivières;42
+EPCI;247000623;CC des Quatre RiviÃ¨res;42
 EPCI;247000664;CC du Pays de Lure;24
 EPCI;247000698;CC des Monts de Gy;25
 EPCI;247000706;CC du Pays Riolais;33
 EPCI;247000714;CC du Pays de Villersexel;34
-EPCI;247000722;CC du Pays d'Héricourt;20
+EPCI;247000722;CC du Pays d'HÃ©ricourt;20
 EPCI;247000755;CC du Pays de Luxeuil;13
 EPCI;247000813;CC du Val de Pesmes;18
 EPCI;247000821;CC Rahin et Cherimont;10
-EPCI;247000839;CC des Mille Étangs;16
-EPCI;247000854;CC de la Haute Vallée de l'Ognon;13
-EPCI;247100290;CU le Creusot Montceau-Lès-Mines;27
+EPCI;247000839;CC des Mille Ã‰tangs;16
+EPCI;247000854;CC de la Haute VallÃ©e de l'Ognon;13
+EPCI;247100290;CU le Creusot Montceau-LÃ¨s-Mines;27
 EPCI;247100480;CC Cuiseaux Intercom;9
 EPCI;247100498;CC Sud Brionnais;11
-EPCI;247100506;CC de Matour et Sa Région;11
+EPCI;247100506;CC de Matour et Sa RÃ©gion;11
 EPCI;247100589;CA Le Grand Chalon;37
-EPCI;247100605;CC Mâconnais - Val de Saône;12
+EPCI;247100605;CC MÃ¢connais - Val de SaÃ´ne;12
 EPCI;247100639;CC du Canton de Marcigny;12
 EPCI;247100647;CC du Canton de Pierre de Bresse;16
 EPCI;247100746;CC du Maconnais-Beaujolais;13
-EPCI;247100860;CC du Mâconnais Charolais;7
-EPCI;247103765;CC Entre Saône et Grosne;17
+EPCI;247100860;CC du MÃ¢connais Charolais;7
+EPCI;247103765;CC Entre SaÃ´ne et Grosne;17
 EPCI;247103864;CC du Canton de Semur-en-Brionnais;14
 EPCI;247103922;CC de Paray le Monial;10
 EPCI;247103948;CC du Pays Clayettois;18
 EPCI;247103989;CC de Beuvray - Val d'Arroux;8
 EPCI;247104052;CC du Pays de Gueugnon;13
 EPCI;247104078;CC de Digoin Val de Loire;8
-EPCI;247104094;CC Sud Côte Chalonnaise;30
+EPCI;247104094;CC Sud CÃ´te Chalonnaise;30
 EPCI;247104136;CC du Tournugeois;12
 EPCI;247104169;CC des Portes de la Bresse;7
-EPCI;247104193;CA du Mâconnais-Val de Saône;26
-EPCI;247200090;CC de Sablé-sur-Sarthe;17
-EPCI;247200132;CU le Mans Métropole;14
-EPCI;247200157;CC de Lucé;8
-EPCI;247200348;CC du Pays Fléchois;13
+EPCI;247104193;CA du MÃ¢connais-Val de SaÃ´ne;26
+EPCI;247200090;CC de SablÃ©-sur-Sarthe;17
+EPCI;247200132;CU le Mans MÃ©tropole;14
+EPCI;247200157;CC de LucÃ©;8
+EPCI;247200348;CC du Pays FlÃ©chois;13
 EPCI;247200397;CC du Bassin Ludois;8
 EPCI;247200405;CC des Portes du Maine;9
-EPCI;247200413;CC du Pays des Brières et du Gesnois;15
+EPCI;247200413;CC du Pays des BriÃ¨res et du Gesnois;15
 EPCI;247200421;CC du Sud Est du Pays Manceau;5
-EPCI;247200447;CC Orée de Bercé - Belinois;8
-EPCI;247200462;CC du Pays de Sillé;10
+EPCI;247200447;CC OrÃ©e de BercÃ© - Belinois;8
+EPCI;247200462;CC du Pays de SillÃ©;10
 EPCI;247200470;CC du Canton de Pontvallain;9
 EPCI;247200496;CC du Pays Calaisien;14
 EPCI;247200512;CC du Val du Loir;9
@@ -4243,19 +4243,19 @@ EPCI;247200579;CC de la Champagne Conlinoise;15
 EPCI;247200587;CC du Saosnois;25
 EPCI;247200595;CC du Pays Belmontais;13
 EPCI;247200629;CC du Val de Sarthe;15
-EPCI;247200637;CC de Loir et Bercé;12
+EPCI;247200637;CC de Loir et BercÃ©;12
 EPCI;247200652;CC Aune et Loir;6
 EPCI;247200678;CC des Portes du Maine Normand;14
 EPCI;247200686;CC du Pays de l'huisne Sarthoise;25
 EPCI;247200694;CC du Pays Marollais;17
 EPCI;247200702;CC du Val de Braye;15
-EPCI;247200728;CC du Bocage Cénoman;5
+EPCI;247200728;CC du Bocage CÃ©noman;5
 EPCI;247200736;CC des Rives de Sarthe;4
-EPCI;247300015;CC des Vallées d'Aigueblanche;7
+EPCI;247300015;CC des VallÃ©es d'Aigueblanche;7
 EPCI;247300049;CA du Lac du Bourget;17
-EPCI;247300098;CA Chambéry Métropole;24
+EPCI;247300098;CA ChambÃ©ry MÃ©tropole;24
 EPCI;247300148;CC de Haute Maurienne Vanoise;7
-EPCI;247300254;CC Maison de l'Intercommunalité de Haute Tarentaise;8
+EPCI;247300254;CC Maison de l'IntercommunalitÃ© de Haute Tarentaise;8
 EPCI;247300262;CC de Yenne;13
 EPCI;247300338;CC de Chautagne;8
 EPCI;247300346;CC Coeur de Maurienne;8
@@ -4269,19 +4269,19 @@ EPCI;247300668;CC du Lac d'Aiguebelette (Ccla);10
 EPCI;247300676;CC Porte de Maurienne;12
 EPCI;247300718;CC de l'Arvan;8
 EPCI;247300759;CC du Beaufortain;4
-EPCI;247300767;CC de la Région d'Albertville (Co.Ral);18
+EPCI;247300767;CC de la RÃ©gion d'Albertville (Co.Ral);18
 EPCI;247300791;CC de la Haute Combe de Savoie;11
 EPCI;247300817;CC les Versants d'Aime;4
-EPCI;247400047;CC de la Vallée Verte;8
+EPCI;247400047;CC de la VallÃ©e Verte;8
 EPCI;247400070;CC de la Semine;7
 EPCI;247400112;CC du Pays de Cruseilles;13
 EPCI;247400427;CA d'Annecy;12
 EPCI;247400567;CC Fier et Usses;7
 EPCI;247400575;CC du Pays d'Alby;11
-EPCI;247400583;CC Arve et Salève;8
-EPCI;247400617;CC des Vallées de Thônes;13
-EPCI;247400658;CC du Pays de Fillière;9
-EPCI;247400666;CC des Quatre Rivières;11
+EPCI;247400583;CC Arve et SalÃ¨ve;8
+EPCI;247400617;CC des VallÃ©es de ThÃ´nes;13
+EPCI;247400658;CC du Pays de FilliÃ¨re;9
+EPCI;247400666;CC des Quatre RiviÃ¨res;11
 EPCI;247400682;CC du Haut-Chablais;15
 EPCI;247400690;CC du Genevois;17
 EPCI;247400724;CC du Pays Rochois;9
@@ -4291,95 +4291,95 @@ EPCI;247400773;CC du Pays de Faverges;7
 EPCI;247400781;CC de la Tournette;4
 EPCI;247400823;CC du Pays de Seyssel;11
 EPCI;247400831;CC du Bas-Chablais;17
-EPCI;247400849;CC des Collines du Léman;7
+EPCI;247400849;CC des Collines du LÃ©man;7
 EPCI;247400856;CC du Val des Usses;8
 EPCI;247400864;CC du Pays d'Evian;16
 EPCI;247600216;CC de Blangy-Sur-Bresle;28
-EPCI;247600331;CA Fécamp Caux Littoral Agglo;13
-EPCI;247600380;CC de la Côte d'Albâtre;38
-EPCI;247600448;CC Saint-Saëns - Porte de Bray;15
+EPCI;247600331;CA FÃ©camp Caux Littoral Agglo;13
+EPCI;247600380;CC de la CÃ´te d'AlbÃ¢tre;38
+EPCI;247600448;CC Saint-SaÃ«ns - Porte de Bray;15
 EPCI;247600455;CC du Moulin d'Ecalles;26
 EPCI;247600463;CC du Plateau de Martainville;13
 EPCI;247600497;CC du Canton de Criquetot-l'esneval;21
 EPCI;247600505;CC Campagne-De-Caux;22
-EPCI;247600513;CC du Pays Neufchâtelois;23
+EPCI;247600513;CC du Pays NeufchÃ¢telois;23
 EPCI;247600539;CC Caux Estuaire;16
 EPCI;247600562;CC Coeur de Caux;22
 EPCI;247600570;CC du Canton de Valmont;22
 EPCI;247600588;CC Bresle Maritime;21
 EPCI;247600596;CA Havraise (CO.D.A.H.);17
-EPCI;247600604;CC de Londinières;17
-EPCI;247600620;CC de la Région d'Yvetot;14
+EPCI;247600604;CC de LondiniÃ¨res;17
+EPCI;247600620;CC de la RÃ©gion d'Yvetot;14
 EPCI;247600638;CC Plateau de Caux - Fleur de Lin;21
 EPCI;247600646;CC Caux - Austreberthe;7
 EPCI;247600653;CC du Plateau Vert;7
 EPCI;247600661;CC du Canton de Forges-Les-Eaux;20
-EPCI;247600679;CC des Trois Rivières;25
+EPCI;247600679;CC des Trois RiviÃ¨res;25
 EPCI;247600687;CC du Canton d'Aumale;15
 EPCI;247600695;CC du Bray Normand;18
 EPCI;247600703;CC Varenne-et-Scie;22
 EPCI;247600711;CC du Bosc d'Eawy;15
-EPCI;247600729;CC des Monts-et-Vallées;16
+EPCI;247600729;CC des Monts-et-VallÃ©es;16
 EPCI;247600737;CC Entre Mer et Lin;17
-EPCI;247600745;CC Saâne-et-Vienne;31
+EPCI;247600745;CC SaÃ¢ne-et-Vienne;31
 EPCI;247600760;CC des Portes Nord-Ouest de Rouen;23
 EPCI;247600778;CC d'Yerville - Plateau de Caux;19
-EPCI;247600786;CA de la Région Dieppoise;16
+EPCI;247600786;CA de la RÃ©gion Dieppoise;16
 EPCI;247600794;CC des Monts et de l'Andelle;15
-EPCI;247600802;CC Yères-et-Plateaux;13
+EPCI;247600802;CC YÃ¨res-et-Plateaux;13
 EPCI;247700024;CC du Pays Fertois;19
 EPCI;247700032;CC Moret Seine et Loing;19
-EPCI;247700040;CC Vallées et Châteaux;13
+EPCI;247700040;CC VallÃ©es et ChÃ¢teaux;13
 EPCI;247700057;CA Melun Val de Seine;16
 EPCI;247700065;CC du Pays de l'Ourcq;22
 EPCI;247700107;CC Deux Fleuves;14
 EPCI;247700123;CC du Pays de Fontainebleau;5
-EPCI;247700339;CA Val d'Europe Agglomération;5
-EPCI;247700404;CC Monts de la Goële;4
-EPCI;247700438;CC Pays Créçois;19
-EPCI;247700479;CC du Bocage Gâtinais;8
-EPCI;247700487;CC Brie Boisée;5
-EPCI;247700495;CC Val Bréon;10
+EPCI;247700339;CA Val d'Europe AgglomÃ©ration;5
+EPCI;247700404;CC Monts de la GoÃ«le;4
+EPCI;247700438;CC Pays CrÃ©Ã§ois;19
+EPCI;247700479;CC du Bocage GÃ¢tinais;8
+EPCI;247700487;CC Brie BoisÃ©e;5
+EPCI;247700495;CC Val BrÃ©on;10
 EPCI;247700529;CC la Brie des Moulins;4
-EPCI;247700586;CC Pays de Bière;10
+EPCI;247700586;CC Pays de BiÃ¨re;10
 EPCI;247700594;CA Marne et Gondoire;18
-EPCI;247700602;CC Entre Seine et Forêt;3
+EPCI;247700602;CC Entre Seine et ForÃªt;3
 EPCI;247700610;CC Pays de Seine;3
 EPCI;247700628;CA Pays de Meaux;18
-EPCI;247700644;CC l'Orée de la Brie;4
+EPCI;247700644;CC l'OrÃ©e de la Brie;4
 EPCI;247700651;CC les Sources de l'Yerres;9
-EPCI;247700685;CC des Gués de l'Yerres;9
+EPCI;247700685;CC des GuÃ©s de l'Yerres;9
 EPCI;247700693;CC la Brie Centrale;8
 EPCI;247700701;CC Brie Nangissienne;15
-EPCI;247700719;CC de l'Yerres à l'Ancoeur;9
+EPCI;247700719;CC de l'Yerres Ã  l'Ancoeur;9
 EPCI;247800527;CC des Portes de l'Ile de France (Ccpif);9
 EPCI;247800550;CC du Pays Houdanais (C.C.P.H.);36
 EPCI;247800584;CA Versailles Grand Parc (C.A.V.G.P.);19
-EPCI;247800592;CC Contrée d'Ablis-Porte d'Yvelines (Capy);8
+EPCI;247800592;CC ContrÃ©e d'Ablis-Porte d'Yvelines (Capy);8
 EPCI;247800600;CA Rambouillet Territoires;25
 EPCI;247800618;CC Coeur d'Yvelines;31
 EPCI;247800634;CC des Etangs (Cce);3
 EPCI;247900475;CC de Celles Sur Belle;9
 EPCI;247900509;CC du Val d'Egray;8
 EPCI;247900558;CC du Coeur du Poitou;27
-EPCI;247900608;CC du Pays Sud Gâtine;12
+EPCI;247900608;CC du Pays Sud GÃ¢tine;12
 EPCI;247900681;CC du Val de Boutonne;19
 EPCI;247900798;CC du Thouarsais;33
 EPCI;248000341;CC du Pays Hamois;18
 EPCI;248000358;CC du Pays Neslois;24
 EPCI;248000416;CC du Doullennais;18
 EPCI;248000432;CC Avre Luce Moreuil (Ccalm);23
-EPCI;248000457;CC du Val de Nièvre et Environs;20
+EPCI;248000457;CC du Val de NiÃ¨vre et Environs;20
 EPCI;248000473;CC du Vimeu Vert;12
 EPCI;248000481;CC de l'Ouest d'Amiens;18
 EPCI;248000499;CC du Val de Somme;32
 EPCI;248000507;CC du Santerre;20
 EPCI;248000523;CC du Val de Noye;26
-EPCI;248000531;CA Amiens Métropole;33
+EPCI;248000531;CA Amiens MÃ©tropole;33
 EPCI;248000549;CC de Haute Picardie;26
 EPCI;248000556;CC de l'Abbevillois;13
-EPCI;248000580;CC de la Région d'Oisemont;34
-EPCI;248000614;CC de la Région d'hallencourt;18
+EPCI;248000580;CC de la RÃ©gion d'Oisemont;34
+EPCI;248000614;CC de la RÃ©gion d'hallencourt;18
 EPCI;248000622;CC du Canton de Nouvion;17
 EPCI;248000630;CC du Vimeu Industriel;14
 EPCI;248000648;CC du Contynois;23
@@ -4389,7 +4389,7 @@ EPCI;248000697;CC Bocage Hallue;26
 EPCI;248000705;CC du Haut-Clocher;20
 EPCI;248000739;CC du Canton de Montdidier;34
 EPCI;248000747;CC du Pays du Coquelicot;67
-EPCI;248000762;CC du Sud Ouest Amiénois;63
+EPCI;248000762;CC du Sud Ouest AmiÃ©nois;63
 EPCI;248100158;CC du Sor et de l'Agout;26
 EPCI;248100380;CC Tarn et Dadou;29
 EPCI;248100430;CA de Castres Mazamet;16
@@ -4397,33 +4397,33 @@ EPCI;248100471;CC du Rabastinois;7
 EPCI;248100497;CC Val 81;19
 EPCI;248100638;CC des Vals et Plateaux des Monts de Lacaune;6
 EPCI;248100661;CC des Monts de Lacaune;11
-EPCI;248100711;CC Sidobre Val d'Agoût;11
+EPCI;248100711;CC Sidobre Val d'AgoÃ»t;11
 EPCI;248100737;CA de l'Albigeois (C2a);17
-EPCI;248100745;CC Haute Vallée du Thoré;7
+EPCI;248100745;CC Haute VallÃ©e du ThorÃ©;7
 EPCI;248200016;CC des Deux Rives;28
 EPCI;248200040;CC du Quercy Vert;6
 EPCI;248200057;CC du Quercy Caussadais;19
 EPCI;248200065;CC de la Lomagne Tarn-et-Garonnaise;31
 EPCI;248200099;CA Grand Montauban;8
 EPCI;248200107;CC du Quercy Rouergue et des Gorges de l'Aveyron;17
-EPCI;248200115;CC du Sud-Quercy de Lafrançaise;7
+EPCI;248200115;CC du Sud-Quercy de LafranÃ§aise;7
 EPCI;248200164;CC Terres de Confluences;6
 EPCI;248200172;CC du Terroir Grisolles/Villebrumier;13
 EPCI;248200180;CC Garonne et Canal;6
-EPCI;248200198;CC Terrasses et Vallée de l'Aveyron;7
+EPCI;248200198;CC Terrasses et VallÃ©e de l'Aveyron;7
 EPCI;248200206;CC du Pays de Garonne et de Gascogne;9
 EPCI;248300394;CA du Sud Sainte-Baume;9
-EPCI;248300410;CC de la Vallée du Gapeau;5
-EPCI;248300493;CA Dracénoise;19
+EPCI;248300410;CC de la VallÃ©e du Gapeau;5
+EPCI;248300493;CA DracÃ©noise;19
 EPCI;248300501;CC du Val d'Issole;8
-EPCI;248300527;CC Comté de Provence;12
-EPCI;248300535;CC Sainte Baume - Mont Aurélien;8
-EPCI;248300543;CA Toulon Provence Méditerranée;12
+EPCI;248300527;CC ComtÃ© de Provence;12
+EPCI;248300535;CC Sainte Baume - Mont AurÃ©lien;8
+EPCI;248300543;CA Toulon Provence MÃ©diterranÃ©e;12
 EPCI;248300550;CC Coeur du Var;11
 EPCI;248300584;CC Artuby Verdon;9
 EPCI;248400053;CA Ventoux-Comtat-Venaissin (Cove);25
-EPCI;248400160;CC Aygues-Ouvèze en Provence (Ccaop);8
-EPCI;248400236;CC des Pays de Rhône et Ouvèze;7
+EPCI;248400160;CC Aygues-OuvÃ¨ze en Provence (Ccaop);8
+EPCI;248400236;CC des Pays de RhÃ´ne et OuvÃ¨ze;7
 EPCI;248400251;CA du Grand Avignon (Coga);15
 EPCI;248400285;CC Territoriale Sud-Luberon;14
 EPCI;248400293;CC des Sorgues du Comtat;3
@@ -4434,20 +4434,20 @@ EPCI;248500035;CC Terres de Montaigu;10
 EPCI;248500092;CC du Pays de Fontenay-le-Comte;19
 EPCI;248500191;CC de l'Ile de Noirmoutier;4
 EPCI;248500233;CC du Talmondais;9
-EPCI;248500258;CC Océan Marais de Monts;5
+EPCI;248500258;CC OcÃ©an Marais de Monts;5
 EPCI;248500340;CC Pays de Chantonnay;8
-EPCI;248500415;CC du Pays de la Châtaigneraie;18
+EPCI;248500415;CC du Pays de la ChÃ¢taigneraie;18
 EPCI;248500456;CC du Pays de Palluau;9
 EPCI;248500464;CC du Pays de Pouzauges;10
 EPCI;248500472;CC du Canton de Saint Fulgent;8
 EPCI;248500480;CC des Isles du Marais Poitevin;10
 EPCI;248500506;CC de Vie et Boulogne;7
-EPCI;248500514;CC du Canton de Rocheservière;4
+EPCI;248500514;CC du Canton de RocheserviÃ¨re;4
 EPCI;248500530;CC du Pays des Achards;11
 EPCI;248500548;CC du Pays de Sainte-Hermine;12
-EPCI;248500563;CC Vendée, Sèvre, Autise;16
+EPCI;248500563;CC VendÃ©e, SÃ¨vre, Autise;16
 EPCI;248500571;CC du Pays des Essarts;4
-EPCI;248500589;CA la Roche Sur Yon - Agglomération;13
+EPCI;248500589;CA la Roche Sur Yon - AgglomÃ©ration;13
 EPCI;248500597;CC de l'Auzance et de la Vertonne;3
 EPCI;248500605;CC des Olonnes;3
 EPCI;248500621;CC du Pays des Herbiers;8
@@ -4455,113 +4455,113 @@ EPCI;248500639;CC du Pays du Moutierrois;11
 EPCI;248500647;CC du Pays de l'hermenault;8
 EPCI;248500662;CC du Pays de Mortagne;12
 EPCI;248500670;CC du Pays Mareuillais;11
-EPCI;248500704;CC du Pays Né de la Mer;11
+EPCI;248500704;CC du Pays NÃ© de la Mer;11
 EPCI;248500712;CC du Pays de Challans;6
 EPCI;248500720;CC du Pays du Gois;4
 EPCI;248600157;CA Grand Poitiers;13
-EPCI;248600371;CC de la Région de Couhé;10
-EPCI;248600389;CC du Pays Mélusin;9
+EPCI;248600371;CC de la RÃ©gion de CouhÃ©;10
+EPCI;248600389;CC du Pays MÃ©lusin;9
 EPCI;248600397;CC du Montmorillonnais;37
 EPCI;248600405;CC du Lussacois;10
-EPCI;248600413;CA du Pays Châtelleraudais;12
+EPCI;248600413;CA du Pays ChÃ¢telleraudais;12
 EPCI;248600421;CC du Pays Chauvinois;10
 EPCI;248600447;CC du Pays Loudunais;45
 EPCI;248600454;CC du Val Vert du Clain;6
-EPCI;248600553;CC du Pays Gencéen;9
+EPCI;248600553;CC du Pays GencÃ©en;9
 EPCI;248600561;CC du Vouglaisien;13
 EPCI;248600579;CC du Lencloitrais;9
 EPCI;248600587;CC du Neuvillois;10
-EPCI;248600595;CC de Vienne et Moulière;10
+EPCI;248600595;CC de Vienne et MouliÃ¨re;10
 EPCI;248600603;CC des Vals de Gartempe et Creuse;11
 EPCI;248700130;CC Porte d'Occitanie;9
-EPCI;248700148;CC des Monts de Châlus;7
-EPCI;248700155;CC l'Aurence et Glane Développement;9
+EPCI;248700148;CC des Monts de ChÃ¢lus;7
+EPCI;248700155;CC l'Aurence et Glane DÃ©veloppement;9
 EPCI;248700163;CC du Haut Limousin;17
 EPCI;248700189;CC du Pays de Saint-Yrieix;9
 EPCI;248710600;CC du Pays de Nexon;8
 EPCI;248719239;CC de la Basse Marche;11
-EPCI;248719262;CC Gartempe – Saint-Pardoux;8
+EPCI;248719262;CC Gartempe â€“ Saint-Pardoux;8
 EPCI;248719288;CC du Val de Vienne;9
-EPCI;248719296;CC de la Vallée de la Gorre;6
-EPCI;248719312;CA Limoges Métropole;19
+EPCI;248719296;CC de la VallÃ©e de la Gorre;6
+EPCI;248719312;CA Limoges MÃ©tropole;19
 EPCI;248719320;CC des Monts d'Ambazac et du Val du Taurion;7
 EPCI;248719338;CC Briance Combade;10
-EPCI;248719353;CC des Portes de Vassivière;12
+EPCI;248719353;CC des Portes de VassiviÃ¨re;12
 EPCI;248719361;CC de Noblat;12
 EPCI;248719379;CC Brame Benaize;15
 EPCI;248800013;CC de la Moyenne Moselle;31
-EPCI;248800336;CC de Bulgnéville entre Xaintois et Bassigny;34
-EPCI;248800351;CC du Pays de Saône et Madon;22
+EPCI;248800336;CC de BulgnÃ©ville entre Xaintois et Bassigny;34
+EPCI;248800351;CC du Pays de SaÃ´ne et Madon;22
 EPCI;248800369;CC des Hauts Champs;5
-EPCI;248800419;CC du Pays de Châtenois;27
-EPCI;248800435;CC des Vosges Méridionales;3
-EPCI;248800450;CC de la Vallée de la Plaine;9
+EPCI;248800419;CC du Pays de ChÃ¢tenois;27
+EPCI;248800435;CC des Vosges MÃ©ridionales;3
+EPCI;248800450;CC de la VallÃ©e de la Plaine;9
 EPCI;248800609;CC du Secteur de Dompaire;33
 EPCI;248800617;CC de la Haute Moselotte;5
-EPCI;248800625;CC du Val de Neuné;9
-EPCI;248800658;CC de Gérardmer - Monts et Vallées;9
+EPCI;248800625;CC du Val de NeunÃ©;9
+EPCI;248800658;CC de GÃ©rardmer - Monts et VallÃ©es;9
 EPCI;248800666;CC de la Porte des Hautes Vosges;6
 EPCI;248800682;CC des Marches de Lorraine;20
-EPCI;248800690;CC du Pays de la Saône Vosgienne;19
-EPCI;248800740;CC Terre d'Eau Vittel Contrexéville;11
-EPCI;248900334;CA du Sénonais;27
-EPCI;248900383;CC de l'Agglomération Migennoise;8
+EPCI;248800690;CC du Pays de la SaÃ´ne Vosgienne;19
+EPCI;248800740;CC Terre d'Eau Vittel ContrexÃ©ville;11
+EPCI;248900334;CA du SÃ©nonais;27
+EPCI;248900383;CC de l'AgglomÃ©ration Migennoise;8
 EPCI;248900524;CC de l'Aillantais;16
 EPCI;248900532;CA de l'Auxerrois;21
 EPCI;248900565;CC de Seignelay-Brienon;14
 EPCI;248900664;CC de la Vanne et du Pays d'Othe;22
-EPCI;248900748;CC du Gâtinais en Bourgogne;26
+EPCI;248900748;CC du GÃ¢tinais en Bourgogne;26
 EPCI;248900771;CC du Pays Coulangeois;12
 EPCI;248900813;CC Entre Cure et Yonne;14
 EPCI;248900896;CC Yonne Nord;23
 EPCI;248900938;CC du Jovinien;19
-EPCI;249000019;CA de l'Agglomération Belfortaine;33
+EPCI;249000019;CA de l'AgglomÃ©ration Belfortaine;33
 EPCI;249000118;CC la Haute Savoureuse;8
 EPCI;249000217;CC du Pays Sous Vosgien;14
 EPCI;249000241;CC du Sud Territoire;27
 EPCI;249100074;CC du Pays de Limours (Ccpl);14
-EPCI;249100157;CC des Deux Vallées;15
+EPCI;249100157;CC des Deux VallÃ©es;15
 EPCI;249100546;CC du Val d'Essonne (Ccve);21
 EPCI;249100553;CC Entre Juine et Renarde (Ccejr);16
 EPCI;249100595;CC le Dourdannais en Hurepoix (Ccdh);11
 EPCI;249500109;CA de Cergy-Pontoise;13
 EPCI;249500323;CC du Pays de France;10
 EPCI;249500430;CC Sausseron Impressionnistes;15
-EPCI;249500455;CC de la Vallée de l'Oise et des Trois Forêts;9
+EPCI;249500455;CC de la VallÃ©e de l'Oise et des Trois ForÃªts;9
 EPCI;249500471;CC Carnelle - Pays de France;10
 EPCI;249500489;CC du Haut Val d'Oise;8
 EPCI;249500513;CC du Vexin-Val de Seine;26
 EPCI;249710047;CC de Marie-Galante;3
 EPCI;249710062;CA du Nord Basse-Terre;6
-EPCI;249710070;CA Grand Sud Caraïbe;11
+EPCI;249710070;CA Grand Sud CaraÃ¯be;11
 EPCI;249720053;CA de l'Espace Sud de la Martinique;12
 EPCI;249720061;CA du Centre de la Martinique;4
 EPCI;249730037;CC de l'Ouest Guyanais;8
 EPCI;249730045;CA du Centre Littoral;6
 EPCI;249730052;CC de l'Est Guyanais;4
-EPCI;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);6
+EPCI;249740077;CA Civis (CommunautÃ© Intercommunale des Villes Solidaires);6
 EPCI;249740085;CA du Sud;4
-EPCI;249740093;CA Intercommunale de la Réunion Est (Cirest);6
-EPCI;249740101;CA Territoire de la Côte Ouest (Tco);5
-EPCI;249740119;CA Intercommunale du Nord de la Réunion (Cinor);3
+EPCI;249740093;CA Intercommunale de la RÃ©union Est (Cirest);6
+EPCI;249740101;CA Territoire de la CÃ´te Ouest (Tco);5
+EPCI;249740119;CA Intercommunale du Nord de la RÃ©union (Cinor);3
 EPCI;251000832;CC Seine Barse;13
 EPCI;256500612;CC du Pays Toy;15
 EPCI;ZZZZZZZZZ;Sans objet;27
 REG;01;Guadeloupe;32
 REG;02;Martinique;34
 REG;03;Guyane;22
-REG;04;La Réunion;24
+REG;04;La RÃ©union;24
 REG;06;Mayotte;17
-REG;11;Île-de-France;1278
+REG;11;ÃŽle-de-France;1278
 REG;24;Centre-Val de Loire;1811
-REG;27;Bourgogne-Franche-Comté;3777
+REG;27;Bourgogne-Franche-ComtÃ©;3777
 REG;28;Normandie;2885
 REG;32;Nord-Pas-de-Calais-Picardie;3818
 REG;44;Alsace-Champagne-Ardenne-Lorraine;5152
 REG;52;Pays de la Loire;1357
 REG;53;Bretagne;1250
 REG;75;Aquitaine-Limousin-Poitou-Charentes;4466
-REG;76;Languedoc-Roussillon-Midi-Pyrénées;4516
-REG;84;Auvergne-Rhône-Alpes;4133
-REG;93;Provence-Alpes-Côte d'Azur;953
+REG;76;Languedoc-Roussillon-Midi-PyrÃ©nÃ©es;4516
+REG;84;Auvergne-RhÃ´ne-Alpes;4133
+REG;93;Provence-Alpes-CÃ´te d'Azur;953
 REG;94;Corse;360
