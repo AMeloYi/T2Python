@@ -65,7 +65,7 @@ def Determiner_Communes():
         else:
             if ListDepartment!=[]:
                 for i in ListDepartment:
-                    print('NomCommune: %s  Index: %s CodeDepartment: %s' %(NomCommune, ListDepartment.index(i)+1, CodeDepartment))
+                    print('NomCommune: %s  Index: %s CodeDepartment: %s' %(NomCommune, ListDepartment.index(i)+1, i))
             ListDepartment=[]
             ListDepartment.append(CodeDepartment)
         temp = NomCommune
@@ -184,7 +184,7 @@ def Calculer_Nouvelle():
 if __name__=='__main__':
     #Create_Database()
     #Calculer_Population()
-    #Determiner_Communes()
+    Determiner_Communes()
     #SauvegarderBddAXML()
     #ChargerXML()
     #AjouterNouvelle()
