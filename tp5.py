@@ -136,7 +136,7 @@ def ChargerXML():
                     PopulationTotale = subChild.text
             c.execute('INSERT INTO commune VALUES(?, ? ,?, ?)', [CodeCommune, CodeDepartment, NomCommune, PopulationTotale])
     conn.commit()
-
+    
 if __name__=='__main__':
     #Create_Database()
     #Calculer_Population()
