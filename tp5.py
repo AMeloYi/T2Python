@@ -65,10 +65,12 @@ def Determiner_Communes():
         else:
             if ListDepartment!=[]:
                 for i in ListDepartment:
-                    print('NomCommune: %s  Index: %s CodeDepartment: %s' %(NomCommune, ListDepartment.index(i)+1, i))
+                    print('NomCommune: %s  Index: %s CodeDepartment: %s' %(temp, ListDepartment.index(i)+1, i))
             ListDepartment=[]
             ListDepartment.append(CodeDepartment)
-        temp = NomCommune
+            temp = NomCommune
+    for i in ListDepartment:
+        print('NomCommune: %s  Index: %s CodeDepartment: %s' %(temp, ListDepartment.index(i)+1, i))
 
 
 import xml.etree.ElementTree as ET
