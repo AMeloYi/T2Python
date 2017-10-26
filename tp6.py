@@ -43,7 +43,34 @@ def CalculerMatrice():
     print('vecteurs : ')
     print(vec)
 
+
+import matplotlib.pyplot as plt
+from scipy.optimize import curve_fit
+
+def func(x,a,b,c):
+    return a*np.exp(-b*x)+c
+
+def Approcher():
+    xdata = np.linspace(0,4,50)
+    y = func(xdata, 2.5, 1.3, 0.5)
+    y_noise = 0.2 * np.random.normal(size=xdata.size)
+    ydata = y + y_noise
+    plt.plot(xdata, ydata, 'b-', label='data')
+    plt.show()
+
+from scipy import misc
+def LireImage(imgAdresse):
+    img = misc.imread(imgAdresse)
+    plt.subplot(1,2,1)
+    plt.imshow(img)
+    imgn = misc.imresize(img,(500,500))
+    plt.subplot(1,2,2)
+    plt.imshow(imgn)
+    plt.show()
+
 if __name__=='__main__':
     #Create3DTable(4,3,2)
     #DeuxMatrices()
-    CalculerMatrice()
+    #CalculerMatrice()
+    #Approcher()
+    LireImage('tp6_image.jpg')
