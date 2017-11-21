@@ -24,9 +24,9 @@ def DeuxMatrices():
     print('Mat1 * Mat2 :')
     print(mul)
     print('Mat1 dot Mat2 :')
-    print(mul)
+    print(dot)
     print('Transposer Mat1 :')
-    print(mul)
+    print(mat1T)
 
 def CalculerMatrice():
     mat = np.random.randint(0,10,size=[3,3])
