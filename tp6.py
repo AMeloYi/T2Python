@@ -52,10 +52,12 @@ def func(x,a,b,c):
 
 def Approcher():
     xdata = np.linspace(0,4,50)
-    y = func(xdata, 2.5, 1.3, 0.5)
-    y_noise = 0.2 * np.random.normal(size=xdata.size)
-    ydata = y + y_noise
+    y = func(xdata, 2.5, 1.3,0.5)
+    ydata = y + 0.2 * np.random.normal(size=len(xdata))
+    popt,pcov = curve_fit(func,xdata,ydata)
+    yvals = [func(i,popt[0],popt[1],popt[2]) for i in xdata]
     plt.plot(xdata, ydata, 'b-', label='data')
+    plt.plot(xdata, yvals, 'r--', label='curve_fit')
     plt.show()
 
 from scipy import misc
@@ -69,8 +71,8 @@ def LireImage(imgAdresse):
     plt.show()
 
 if __name__=='__main__':
-    #Create3DTable(4,3,2)
+    Create3DTable(4,3,2)
     #DeuxMatrices()
     #CalculerMatrice()
     #Approcher()
-    LireImage('tp6_image.jpg')
+    #LireImage('tp6_image.jpg')

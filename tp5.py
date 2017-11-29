@@ -98,7 +98,7 @@ def SauvegarderBddAXML():
         CodeDepartment = ET.SubElement(Commune, 'CodeDepartment')
         NomCommune = ET.SubElement(Commune, 'NomCommune')
         PopulationTotale = ET.SubElement(Commune, 'PopulationTotale')
-        CodeCommune.text, CodeDepartment.text, NomDepartment.text, PopulationTotale.text = str(row[0]), str(row[1]), row[2], str(row[3])
+        CodeCommune.text, CodeDepartment.text, NomCommune.text, PopulationTotale.text = str(row[0]), str(row[1]), row[2], str(row[3])
 
     tree = ET.ElementTree(root)
     tree.write('result.xml', encoding='utf-8')
